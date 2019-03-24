@@ -2,7 +2,7 @@
 
 ## Overview
 
-The report is created in Google Data Studio, which is a free platform to visualise big data from Google Analytics, Google Search Console, Google Ads, Facebook and a lot more.
+The report is created in [Google Data Studio](https://datastudio.google.com/), which is a free platform to visualise big data from Google Analytics, Google Search Console, Google Ads, Facebook and a lot more.
 
 ## Available Version
 
@@ -16,7 +16,7 @@ https://datastudio.google.com/open/1tQ6uCHDo7lIpHNnmmPFlHLLpuE9iw3D2
 
 ## Instructions
 
-1. Create a free Google Data Studio Account
+1. If you don't have a free Google Data Studio account, you need to [create it](https://datastudio.google.com/)
 2. Copy the report
 
    - Bring your mouse cursor to the top edge of the report window. Top navigation will appear.
