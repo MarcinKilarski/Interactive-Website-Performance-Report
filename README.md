@@ -31,8 +31,7 @@ https://datastudio.google.com/open/1tQ6uCHDo7lIpHNnmmPFlHLLpuE9iw3D2
    
 4. Set the date
 
-   - In the top right corner, you can select the date range for which you would like to see the data
-   - Once picked, it will be updated on all pages
+   - Go to "File" (top navigation) > select "Report Settings" > select the date range for which you would like to see the data (to be able to do it, you need to first select a report-lever data source. Once picked, it will be updated on all pages.
 
 5. Edit the report
 
@@ -47,7 +46,7 @@ https://datastudio.google.com/open/1tQ6uCHDo7lIpHNnmmPFlHLLpuE9iw3D2
 
 6. Sharing report
 
-   - To share a link to the report with your client or your team, go to the "View mode." 
+   - To share a link to the report with your client or your team, go to the "View mode." ...
    - To save the report as a PDF and send a static version of it to the customer. To do it, go to "File" (top navigation), select "Download as" > select "PDF"
 
 ## Inspired by
