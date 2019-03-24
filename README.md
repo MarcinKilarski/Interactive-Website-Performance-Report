@@ -2,8 +2,53 @@
 
 ## Overview
 
-Most up-to-date version of this report you can find on this page:
-https://datastudio.google.com/u/0/reporting/1tQ6uCHDo7lIpHNnmmPFlHLLpuE9iw3D2/page/IVDk
+The report is created in Google Data Studio, which is a free platform to visualise big data from Google Analytics, Google Search Console, Google Ads, Facebook and a lot more.
+
+## Available Version
+
+### Version 1.0
+The report includes 8 pages with most important data from Google Analytics.
+https://datastudio.google.com/u/0/reporting/1vNN1hnIoxbxz88Jv7LvO1VF6OZwJ07xW/page/6lDk/
+
+### Version 1.1 (work in progress)
+https://datastudio.google.com/u/0/reporting/1tQ6uCHDo7lIpHNnmmPFlHLLpuE9iw3D2/page/IVDk/
+
+
+## Instructions
+
+1. Create a free Google Data Studio Account
+2. Copy the report
+
+   - Bring you mouse couror to the top eadge of the report window. A top navigation will appear.
+   - Go to "File" (top navigation)
+   - Select "Make a copy..."
+   - Give it an appropriate name, e.g. "Website Performance Report for Company X - March 2019"
+
+3. Selecting a data source
+
+   - On a pop-up window select Google Analitics account for which you would like to use this report (data is not shared with anyone except you and Google Data Studio)
+   - You can use a sample data if you want
+   
+4. Set the date
+
+   - In the top right corner you can select date range for which you would like to see the data
+   - Once selected it will be updated on all pages
+
+5. Edit the report
+
+   - If you are not in the "Edit mode". Bring you mouse couror to the top eadge of the report window. A top navigation will appear. In the Click a grey 
+   - Remove the "Client's Logo" placeholder. Once removed, it should automaticly disappear from all pages. 
+   - Add your client's logo
+   - Add any branding that you want (e.g. your logo, contact details, change the color theme, etc.)
+
+6. Check each page
+
+   - Quicly glance throught each page and check if you are happy with everything.
+
+6. Sharing report
+
+   - To share a link to the report with your client or your team, go to the "View mode" 
+   - To save the report as a PDF and send a static version of it to the customer. To do it, go to "File" (top navigation), select "Download as" > select "PDF"
 
 ## Inspired by
 
