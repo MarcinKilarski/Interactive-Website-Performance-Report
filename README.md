@@ -4,7 +4,7 @@ https://datastudio.google.com/u/0/reporting/1tQ6uCHDo7lIpHNnmmPFlHLLpuE9iw3D2/pa
 
 ## Inspired by
 
-### Analytics
+### Google Analytics Pages
 
 1. Overview:
 
