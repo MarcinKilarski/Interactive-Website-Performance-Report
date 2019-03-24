@@ -8,10 +8,10 @@ The report is created in Google Data Studio, which is a free platform to visuali
 
 ### Version 1.0
 The report includes 8 pages with most important data from Google Analytics.
-https://datastudio.google.com/u/0/reporting/1vNN1hnIoxbxz88Jv7LvO1VF6OZwJ07xW/page/6lDk/
+https://datastudio.google.com/open/1vNN1hnIoxbxz88Jv7LvO1VF6OZwJ07xW
 
 ### Version 1.1 (work in progress)
-https://datastudio.google.com/u/0/reporting/1tQ6uCHDo7lIpHNnmmPFlHLLpuE9iw3D2/page/IVDk/
+https://datastudio.google.com/open/1tQ6uCHDo7lIpHNnmmPFlHLLpuE9iw3D2
 
 
 ## Instructions
