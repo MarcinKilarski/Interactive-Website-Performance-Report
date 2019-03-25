@@ -19,7 +19,7 @@ https://datastudio.google.com/open/1tQ6uCHDo7lIpHNnmmPFlHLLpuE9iw3D2
 1. If you don't have a free Google Data Studio account, you need to [create it](https://datastudio.google.com/)
 2. Copy the report
 
-   - Bring your mouse cursor to the top edge of the report window. Top navigation will appear.
+   - Move your mouse cursor to the top edge of the report window. Top navigation will appear.
    - Go to "File" (top navigation)
    - Select "Make a copy..."
    - Give it an appropriate name, e.g. "Website Performance Report for Company X - March 2019"
@@ -35,7 +35,7 @@ https://datastudio.google.com/open/1tQ6uCHDo7lIpHNnmmPFlHLLpuE9iw3D2
 
 5. Edit the report
 
-   - If you are not in the "Edit mode". Bring your mouse cursor to the top edge of the report window. Top navigation will appear. In the Click a grey 
+   - If you are not in the "Edit mode". Move your mouse cursor to the top edge of the report window. Top navigation will appear. In the Click a grey 
    - Remove the "Client's Logo" placeholder. Once removed, it should automatically disappear from all pages. 
    - Add your client's logo
    - Add any branding that you want (e.g. your logo, contact details, change the colour theme, etc.)
