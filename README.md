@@ -18,7 +18,7 @@ https://datastudio.google.com/open/1tQ6uCHDo7lIpHNnmmPFlHLLpuE9iw3D2
 1. Log into your Google Data Studio or [create a free account](https://datastudio.google.com/)
 2. Copy the report
 
-   - Bring your mouse cursor to the top edge of the report window. Top navigation will appear.
+   - Move your mouse cursor to the top edge of the report window. Top navigation will appear.
    - On the right-hand side you will see an icon with two rectangles, one on top of another. Click on it to make a copy of the report.
    - In a pop-up window, select a new Data Source. You can use a "Sample Google Analytics Data" if you would like to just play with the report or click on a drop-down field below heading the "New Data Source". Then click "Create New Data Source" button at the bottom if you would like to use data from one of the sites that you manage. In the search box, type "Google Analytics" and select it. Then press an "Authorize" button, and "Allow" on a page that will appear. Now select a Google Analytics account, then a property, and a view or a website for which you would like to use this report. Next press "Connect" button in the top-right corner. Then "Add to Report" button in the top-right corner. Then press "Copy report" button.
    - Give it an appropriate name like "Website Performance Report for Company X - March 2019" by clicking on text "Website Performance Report..." in the top-right corner.
@@ -29,7 +29,7 @@ https://datastudio.google.com/open/1tQ6uCHDo7lIpHNnmmPFlHLLpuE9iw3D2
 
 4. Edit the report
 
-   - If you are not in the "Edit mode". Bring your mouse cursor to the top edge of the report window. Top navigation will appear. In the Click a grey
+   - If you are not in the "Edit mode". Move your mouse cursor to the top edge of the report window. Top navigation will appear. Then click a grey button that says "Edit". Now you can change every single thing in this report.
    - Remove the "Client's Logo" placeholder. Once removed, it should automatically disappear from all pages.
    - Add your client's logo
    - Add any branding that you want (e.g. your logo, contact details, change the colour theme, etc.)
