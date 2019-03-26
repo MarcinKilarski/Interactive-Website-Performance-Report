@@ -13,34 +13,28 @@ https://datastudio.google.com/open/1vNN1hnIoxbxz88Jv7LvO1VF6OZwJ07xW
 ### Version 1.1 (work in progress)
 https://datastudio.google.com/open/1tQ6uCHDo7lIpHNnmmPFlHLLpuE9iw3D2
 
-
 ## Instructions
 
-1. If you don't have a free Google Data Studio account, you need to [create it](https://datastudio.google.com/)
+1. Log into your Google Data Studio or [create a free account](https://datastudio.google.com/)
 2. Copy the report
 
    - Bring your mouse cursor to the top edge of the report window. Top navigation will appear.
-   - Go to "File" (top navigation)
-   - Select "Make a copy..."
-   - Give it an appropriate name, e.g. "Website Performance Report for Company X - March 2019"
+   - On the right-hand side you will see an icon with two rectangles, one on top of another. Click on it to make a copy of the report.
+   - In a pop-up window, select a new Data Source. You can use a "Sample Google Analytics Data" if you would like to just play with the report or click on a drop-down field below heading the "New Data Source". Then click "Create New Data Source" button at the bottom if you would like to use data from one of the sites that you manage. In the search box, type "Google Analytics" and select it. Then press an "Authorize" button, and "Allow" on a page that will appear. Now select a Google Analytics account, then a property, and a view or a website for which you would like to use this report. Next press "Connect" button in the top-right corner. Then "Add to Report" button in the top-right corner. Then press "Copy report" button.
+   - Give it an appropriate name like "Website Performance Report for Company X - March 2019" by clicking on text "Website Performance Report..." in the top-right corner.
 
-3. Selecting a data source
-
-   - On a pop-up window select Google Analytics account for which you would like to use this report
-   - You can use sample data if you want
-   
-4. Set the date
+3. Set the date
 
    - Go to "File" (top navigation) > select "Report Settings" > select the date range for which you would like to see the data (to be able to do it, you need to first select a report-lever data source. Once picked, it will be updated on all pages.
 
-5. Edit the report
+4. Edit the report
 
-   - If you are not in the "Edit mode". Bring your mouse cursor to the top edge of the report window. Top navigation will appear. In the Click a grey 
-   - Remove the "Client's Logo" placeholder. Once removed, it should automatically disappear from all pages. 
+   - If you are not in the "Edit mode". Bring your mouse cursor to the top edge of the report window. Top navigation will appear. In the Click a grey
+   - Remove the "Client's Logo" placeholder. Once removed, it should automatically disappear from all pages.
    - Add your client's logo
    - Add any branding that you want (e.g. your logo, contact details, change the colour theme, etc.)
 
-6. Check each page
+5. Check each page
 
    - Quickly glance through each page and check if you are happy with everything.
 
@@ -68,7 +62,7 @@ https://datastudio.google.com/open/1tQ6uCHDo7lIpHNnmmPFlHLLpuE9iw3D2
    - https://datastudio.google.com/u/0/reporting/0B-7yurpNRXouUzNibGNsYlBzT2s/page/kKrB
    - https://datastudio.google.com/reporting/0B1Pzjx-lZIhbYkNia3VqV3V2WDA/page/pjM
 
-4. Errors: 
+4. Errors:
 
    - https://datastudio.google.com/reporting/0B1Pzjx-lZIhbYkNia3VqV3V2WDA/page/pjM
 
@@ -107,7 +101,7 @@ https://datastudio.google.com/open/1tQ6uCHDo7lIpHNnmmPFlHLLpuE9iw3D2
 
    - https://datastudio.google.com/u/0/reporting/1igHMbckc4tScPBcIX7pmzb1sGAeZHwZz/page/8yDZ
 
-13. Localisation 
+13. Localisation
 
    - https://datastudio.google.com/reporting/0B53LFtWUM76uT2RSVmZrMmE2bUk/page/QDPB
 
