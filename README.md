@@ -11,15 +11,20 @@ The report is created in [Google Data Studio](https://datastudio.google.com/), w
 The report includes 8 pages with the most important data from Google Analytics.
 https://datastudio.google.com/open/1vNN1hnIoxbxz88Jv7LvO1VF6OZwJ07xW
 
+Change log:
+
+- Added pages: Summary, Overview, Channels, Engagement, Devices, Location, Goals, Ecommerce
+- Header
+- Navigation with links to jump between pages
+
 ### Version 1.1 (work in progress)
 
 https://datastudio.google.com/open/1tQ6uCHDo7lIpHNnmmPFlHLLpuE9iw3D2
 
 Change log:
 
-- Added Speed page
-- Added Blog page
-- Expanding Device page
+- Added pages: Audience, Page Load, Blog, Glossary
+- Expanding the Device page
 - Temporary removing linkings from top navigation to avoid confusion when you copy the report and navigation items still linking to the original report
 
 ## Instructions
