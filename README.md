@@ -125,3 +125,7 @@ Change log:
 16. A/B Tests:
 
    - https://stories.scandiweb.com/live-mode-dashboard-for-a-b-test-results-with-data-studio-e3b476f181a8
+
+17. Glossery
+
+- https://www.lovesdata.com/blog/google-analytics-glossary
