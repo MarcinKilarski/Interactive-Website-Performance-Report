@@ -62,6 +62,10 @@ Change log:
 
 1. An official (Google Data Stuio Introduction Course)[https://analytics.google.com/analytics/academy/course/]
 
+## Call for Contributors
+
+If you are interested in making this Google Data Studio report event better, feel free to contact me. It will be great to join forces with you on this amazing journey to help everyone easily prepare an interactive report that shows the performance of any website.
+
 ## Inspired by
 
 ### Google Analytics Pages
