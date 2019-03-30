@@ -182,12 +182,12 @@ Hopefully, this repository will inspire you to create something even more specta
 
 - https://developers.cloudflare.com/logs/tutorials/analyze-logs-gcp/
 
-### Designing a Report
-
-- https://supermetrics.com/blog/laws-ux-data-studio
-
 ### Sets of Report Templates
 
 - https://datastudiogallery.appspot.com/gallery
 - https://datastudio.google.com/u/0/reporting/0B2lgFyX5qOqhbFE5RllsdFdtMXc/page/0DlG
 - https://supermetrics.com/template-gallery/google-data-studio
+
+### Designing a Report
+
+- https://supermetrics.com/blog/laws-ux-data-studio
