@@ -36,7 +36,7 @@ https://datastudio.google.com/open/1tQ6uCHDo7lIpHNnmmPFlHLLpuE9iw3D2
 Changelog:
 
 - Adding pages: Google Ads, Google Search Console, Facebook Ads
-- Added "Prepared with <heart-icon> by YourCompanyName" in the footer of every page as a small branding accent
+- Added "Prepared with [heart-icon] by YourCompanyName" in the footer of every page as a small branding accent
 
 ## Instructions
 
