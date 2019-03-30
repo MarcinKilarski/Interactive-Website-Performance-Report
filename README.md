@@ -26,6 +26,7 @@ Change log:
 - Added pages: Audience, Page Load, Blog, Glossary
 - Expanding the Device page
 - Temporary removing linkings from top navigation to avoid confusion when you copy the report and navigation items still linking to the original report
+- tens of small layout and metrics improvements
 
 ## Instructions
 
@@ -56,7 +57,6 @@ Change log:
 
    - To share a link to the report with your client or your team, go to the "View mode." ...
    - To save the report as a PDF and send a static version of it to the customer. To do it, go to "File" (top navigation), select "Download as" > select "PDF"
-
 
 ## Data Studio Course
 
