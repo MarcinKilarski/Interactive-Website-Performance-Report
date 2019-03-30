@@ -22,20 +22,21 @@ Change log:
 
 ### Version 1.0
 
-The report includes 8 pages with the most important data from Google Analytics.
 https://datastudio.google.com/open/1vNN1hnIoxbxz88Jv7LvO1VF6OZwJ07xW
 
 Change log:
 
-- Designing a theme
 - Added pages: Summary, Overview, Channels, Engagement, Devices, Location, Goals, Ecommerce
+- Designing a theme
 - Navigation with links to jump between pages
 
 ### Version 1.2 (work in progress)
 
+https://datastudio.google.com/open/1tQ6uCHDo7lIpHNnmmPFlHLLpuE9iw3D2
+
 Change log:
 
-- Planned new pages: Google Ads, Google Search Console, Facebooks Ads
+- Adding pages: Google Ads, Google Search Console, Facebook Ads
 
 ## Instructions
 
