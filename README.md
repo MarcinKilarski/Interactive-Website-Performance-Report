@@ -81,7 +81,7 @@ This report template was built based on reports created by amazing people who sh
 
 Hopefully, this repository will inspire you to create something even more spectacular.
 
-### Google Analytics Pages
+### Google Analytics
 
 1. Overview:
 
@@ -156,3 +156,38 @@ Hopefully, this repository will inspire you to create something even more specta
 17. Glossery
 
 - https://www.lovesdata.com/blog/google-analytics-glossary
+
+### Google Search Console
+
+- http://online-behavior.com/analytics/search-console-data-studio
+- https://www.aleydasolis.com/en/search-engine-optimization/using-google-data-studio-actionable-search-console-performance-report/
+- https://helpfullee.com/google-search-console-data-studio-1/
+- https://medium.com/@singularbean/google-search-console-data-into-google-bigquery-3e794127fa08
+
+### Social Media
+
+- https://datastudio.google.com/u/0/reporting/0BxGPgjQHCLwZWVAyNDJMLVNYWFU/page/mA7C
+- https://datastudio.google.com/u/0/reporting/1hSOTY3Ea_fMmdylPu5ZVxow4-YkvCDYK/page/KgJb
+- https://datastudio.google.com/reporting/0B1Pzjx-lZIhbS2FjM19Hdl8xLXc/page/dXmD
+- https://www.rivaliq.com/blog/ultimate-social-media-analytics-dashboard/
+- https://www.lovesdata.com/blog/social-dashboard-google-data-studio
+
+### Google Ads
+- https://datastudio.google.com/u/0/reporting/0B_U5RNpwhcE6ckdmZEJ0ZDJXUnM/page/VgD
+- https://datastudio.google.com/u/0/reporting/1IdigljFLqsYdRgIv2se_r4c4fXL45-18/page/hpbQ
+- https://oneppcagency.co.uk/everything-else/data-studio-adwords-template/
+- https://datastudio.google.com/reporting/0BzxVL_5BUjZhWm93VHJFZHl3NGs/page/B2GB
+
+### Cloudflare page
+
+- https://developers.cloudflare.com/logs/tutorials/analyze-logs-gcp/
+
+### Designing a Report
+
+- https://supermetrics.com/blog/laws-ux-data-studio
+
+### Sets of Report Templates
+
+- https://datastudiogallery.appspot.com/gallery
+- https://datastudio.google.com/u/0/reporting/0B2lgFyX5qOqhbFE5RllsdFdtMXc/page/0DlG
+- https://supermetrics.com/template-gallery/google-data-studio
