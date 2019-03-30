@@ -70,7 +70,7 @@ Change log:
 
 ## Data Studio Course
 
-1. An official (Google Data Stuio Introduction Course)[https://analytics.google.com/analytics/academy/course/]
+1. An official [Google Data Studio Introduction Course](https://analytics.google.com/analytics/academy/course/)
 
 ## Call for Contributors
 
