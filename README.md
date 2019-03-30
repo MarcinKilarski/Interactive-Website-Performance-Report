@@ -67,6 +67,12 @@ Changelog:
    - To share a link to the report with your client or your team, click on an icon of a person with the plus sign beside in the top right-hand corner. Enter an email or a person that you would like to send an invitation to see this report. In the drop-down field on the right-hand side select if you would like to give that person an editor only viewer permission.
    - To save the report as a PDF and send a static version of it to the customer. To do it, go to "File" (top navigation), select "Download as" > select "PDF".
 
+## An Open-Source License
+
+License: MIT license
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this report template and associated documentation files (the "Report"), to deal in the Report without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Report, and to permit persons to whom the Report is furnished to do so.
+
 ## Data Studio Course
 
 1. An official [Google Data Studio Introduction Course](https://analytics.google.com/analytics/academy/course/)
