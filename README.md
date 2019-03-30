@@ -15,9 +15,9 @@ https://datastudio.google.com/open/1xfWErOo4-xmK8jqVG-74lfMDLeyOfA2q
 Changelog:
 
 - Added pages: Audience, Page Load, Blog, Glossary
-- Expanding the Device page
-- Temporary removing linkings from top navigation to avoid confusion when you copy the report and navigation items still linking to the original report
-- Tens of small layout and chart improvements
+- Expanded the Device page
+- Temporary removed linkings from top navigation to avoid confusion when you copy the report and navigation items still linked to the original report
+- Tens small improvements to layout and charts
 
 ### Version 1.0
 
@@ -26,8 +26,8 @@ https://datastudio.google.com/open/1vNN1hnIoxbxz88Jv7LvO1VF6OZwJ07xW
 Changelog:
 
 - Added pages: Summary, Overview, Channels, Engagement, Devices, Location, Goals, Ecommerce
-- Designing a theme
-- Navigation with links to jump between pages
+- Designed theme
+- Added navigation with links to jump between pages
 
 ### Version 1.2 (work in progress)
 
@@ -36,6 +36,7 @@ https://datastudio.google.com/open/1tQ6uCHDo7lIpHNnmmPFlHLLpuE9iw3D2
 Changelog:
 
 - Adding pages: Google Ads, Google Search Console, Facebook Ads
+- Added "Prepared with <heart-icon> by YourCompanyName" in the footer of every page as a small branding accent
 
 ## Instructions
 
