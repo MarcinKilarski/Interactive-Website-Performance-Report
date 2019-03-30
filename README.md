@@ -6,6 +6,17 @@ The report template is created for anyone who would like to analyse a performanc
 
 ## Available Version
 
+### Version 1.1
+
+https://datastudio.google.com/open/1xfWErOo4-xmK8jqVG-74lfMDLeyOfA2q
+
+Change log:
+
+- Added pages: Audience, Page Load, Blog, Glossary
+- Expanding the Device page
+- Temporary removing linkings from top navigation to avoid confusion when you copy the report and navigation items still linking to the original report
+- tens of small layout and metrics improvements
+
 ### Version 1.0
 
 The report includes 8 pages with the most important data from Google Analytics.
@@ -17,16 +28,11 @@ Change log:
 - Added pages: Summary, Overview, Channels, Engagement, Devices, Location, Goals, Ecommerce
 - Navigation with links to jump between pages
 
-### Version 1.1 (work in progress)
-
-https://datastudio.google.com/open/1tQ6uCHDo7lIpHNnmmPFlHLLpuE9iw3D2
+### Version 1.2 (work in progress)
 
 Change log:
 
-- Added pages: Audience, Page Load, Blog, Glossary
-- Expanding the Device page
-- Temporary removing linkings from top navigation to avoid confusion when you copy the report and navigation items still linking to the original report
-- tens of small layout and metrics improvements
+- Planned new pages: Google Ads, Google Search Console, Facebooks Ads
 
 ## Instructions
 
