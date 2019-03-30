@@ -178,7 +178,7 @@ Hopefully, this repository will inspire you to create something even more specta
 - https://oneppcagency.co.uk/everything-else/data-studio-adwords-template/
 - https://datastudio.google.com/reporting/0BzxVL_5BUjZhWm93VHJFZHl3NGs/page/B2GB
 
-### Cloudflare page
+### Cloudflare
 
 - https://developers.cloudflare.com/logs/tutorials/analyze-logs-gcp/
 
