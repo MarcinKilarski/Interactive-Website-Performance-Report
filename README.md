@@ -2,10 +2,9 @@
 
 ![A screenshot of nine pages from the report template with charts and tables](/img/Interactive-Website-Performance-Report-Template-Thumbnail.png)
 
-
 ## Overview
 
-The report template is created for anyone who would like to analyse a performance of a website. It takes date from your site using Google Analytics and displays it in [Google Data Studio](https://datastudio.google.com/), Google's free online tool for visualising large amount of date to get useful insights. Google Data Studio can load data from all kinds of sources, e.g. Google Analytics, Google Search Console, Google Ads, Facebook and a lot more.
+The report template is created for anyone who would like to analyse the performance of a website. It takes data from your site using Google Analytics and displays it in [Google Data Studio](https://datastudio.google.com/), Google's free online tool for visualising a large amount of data to get useful insights. Google Data Studio can load data from all kinds of sources, e.g. Google Analytics, Google Search Console, Google Ads, Facebook and a lot more.
 
 ## Available Versions
 
@@ -13,7 +12,7 @@ The report template is created for anyone who would like to analyse a performanc
 
 https://datastudio.google.com/open/1xfWErOo4-xmK8jqVG-74lfMDLeyOfA2q
 
-Change log:
+Changelog:
 
 - Added pages: Audience, Page Load, Blog, Glossary
 - Expanding the Device page
@@ -24,7 +23,7 @@ Change log:
 
 https://datastudio.google.com/open/1vNN1hnIoxbxz88Jv7LvO1VF6OZwJ07xW
 
-Change log:
+Changelog:
 
 - Added pages: Summary, Overview, Channels, Engagement, Devices, Location, Goals, Ecommerce
 - Designing a theme
@@ -34,7 +33,7 @@ Change log:
 
 https://datastudio.google.com/open/1tQ6uCHDo7lIpHNnmmPFlHLLpuE9iw3D2
 
-Change log:
+Changelog:
 
 - Adding pages: Google Ads, Google Search Console, Facebook Ads
 
@@ -44,13 +43,13 @@ Change log:
 2. Copy the report
 
    - Move your mouse cursor to the top edge of the report window. Top navigation will appear.
-   - On the right-hand side you will see an icon with two rectangles, one on top of another. Click on it to make a copy of the report.
+   - On the right-hand side, you will see an icon with two rectangles, one on top of another. Click on it to make a copy of the report.
    - In a pop-up window, select a new Data Source. You can use a "Sample Google Analytics Data" if you would like to just play with the report or click on a drop-down field below heading the "New Data Source". Then click "Create New Data Source" button at the bottom if you would like to use data from one of the sites that you manage. In the search box, type "Google Analytics" and select it. Then press an "Authorize" button, and "Allow" on a page that will appear. Now select a Google Analytics account, then a property, and a view or a website for which you would like to use this report. Next press "Connect" button in the top-right corner. Then "Add to Report" button in the top-right corner. Then press "Copy report" button.
-   - Give it an appropriate name like "Website Performance Report for Company X - March 2019" by clicking on text "Website Performance Report..." in the top-right corner.
+   - Give it an appropriate name like "Website Performance Report for Company X - March 2019" by clicking on the text "Website Performance Report..." in the top-right corner.
 
 3. Set the date
 
-   - Go to "File" (top navigation) > select "Report Settings" > select the date range for which you would like to see the data (to be able to do it, you need to first select a report-lever data source. Once picked, it will be updated on all pages.
+   - Go to "File" (top navigation) > select "Report Settings" > select the date range for which you would like to show the data (to be able to do it, you need first select the report-level data source). Once done, it will be updated on all pages.
 
 4. Edit the report
 
