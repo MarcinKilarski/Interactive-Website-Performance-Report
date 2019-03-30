@@ -13,8 +13,8 @@ https://datastudio.google.com/open/1vNN1hnIoxbxz88Jv7LvO1VF6OZwJ07xW
 
 Change log:
 
+- Designing a theme
 - Added pages: Summary, Overview, Channels, Engagement, Devices, Location, Goals, Ecommerce
-- Header
 - Navigation with links to jump between pages
 
 ### Version 1.1 (work in progress)
