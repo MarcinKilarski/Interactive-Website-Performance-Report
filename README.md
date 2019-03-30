@@ -1,8 +1,8 @@
-# Interactive Website Performance Report
+# Interactive Website Performance Report Template
 
 ## Overview
 
-The report is created in [Google Data Studio](https://datastudio.google.com/), which is a free platform to visualise big data from Google Analytics, Google Search Console, Google Ads, Facebook and a lot more.
+The report template is created for anyone who would like to analyse a performance of a website. It takes date from your site using Google Analytics and displays it in [Google Data Studio](https://datastudio.google.com/), Google's free online tool for visualising large amount of date to get useful insights. All kind of data can be shown in Google Data Studio, Google Analytics data, Google Search Console, Google Ads, Facebook and a lot more.
 
 ## Available Version
 
@@ -64,7 +64,7 @@ Change log:
 
 ## Call for Contributors
 
-If you are interested in making this Google Data Studio report event better, feel free to contact me. It will be great to join forces with you on this amazing journey to help everyone easily prepare an interactive report that shows the performance of any website.
+If you are interested in making this Google Data Studio report template event better, feel free to contact me. It will be great to join forces with you on this amazing journey to help everyone easily prepare an interactive report template that shows the performance of any website.
 
 ## Inspired by
 
