@@ -18,7 +18,7 @@ Change log:
 - Added pages: Audience, Page Load, Blog, Glossary
 - Expanding the Device page
 - Temporary removing linkings from top navigation to avoid confusion when you copy the report and navigation items still linking to the original report
-- tens of small layout and metrics improvements
+- Tens of small layout and metrics improvements
 
 ### Version 1.0
 
