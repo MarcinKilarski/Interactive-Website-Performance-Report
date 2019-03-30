@@ -76,7 +76,11 @@ Change log:
 
 If you are interested in making this Google Data Studio report template event better, feel free to contact me. It will be great to join forces with you on this amazing journey to help everyone easily prepare an interactive report template that shows the performance of any website.
 
-## Inspired by
+## Inspiration
+
+This report template was built based on reports created by amazing people who shared their creation with the community. I have listed their creations below.
+
+Hopefully, this repository will inspire you to create something even more spectacular.
 
 ### Google Analytics Pages
 
