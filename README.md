@@ -57,6 +57,11 @@ Change log:
    - To share a link to the report with your client or your team, go to the "View mode." ...
    - To save the report as a PDF and send a static version of it to the customer. To do it, go to "File" (top navigation), select "Download as" > select "PDF"
 
+
+## Data Studio Course
+
+1. An official (Google Data Stuio Introduction Course)[https://analytics.google.com/analytics/academy/course/]
+
 ## Inspired by
 
 ### Google Analytics Pages
