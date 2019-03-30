@@ -54,8 +54,8 @@ Changelog:
 4. Edit the report
 
    - If you are not in the "Edit mode". Move your mouse cursor to the top edge of the report window. Top navigation will appear. Then click a grey button that says "Edit". Now you can change every single thing in this report.
-   - Remove the "Client's Logo" placeholder. Once removed, it should automatically disappear from all pages.
-   - Add your client's logo
+   - Remove the "Company's Logo" placeholder. Once removed, it should automatically disappear from all pages.
+   - Add your company's or client's logo.
    - Add any branding that you want (e.g. your logo, contact details, change the colour theme, etc.)
 
 5. Check each page
