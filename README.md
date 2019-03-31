@@ -10,7 +10,7 @@ The report template is created for anyone who would like to analyse the performa
 
 ### Version 1.1
 
-https://datastudio.google.com/open/1xfWErOo4-xmK8jqVG-74lfMDLeyOfA2q
+<a href="https://datastudio.google.com/open/1xfWErOo4-xmK8jqVG-74lfMDLeyOfA2q" target="_blank">https://datastudio.google.com/open/1xfWErOo4-xmK8jqVG-74lfMDLeyOfA2q</a>
 
 Changelog:
 
