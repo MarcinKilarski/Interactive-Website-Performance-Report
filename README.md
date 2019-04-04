@@ -37,6 +37,8 @@ Changelog:
 
 - Adding pages: Google Ads, Google Search Console, Facebook Ads
 - Added "Prepared with 'heart-icon' by YourCompanyName" in the footer of every page as a small branding accent
+- Added date, country and device filters
+- Removed page descriptions
 
 ## Instructions
 
