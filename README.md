@@ -39,6 +39,8 @@ Changelog:
 - Added "Prepared with 'heart-icon' by YourCompanyName" in the footer of every page as a small branding accent
 - Added date, country and device filters
 - Removed page descriptions
+- Adding additional content to Glossary page
+- Tens small improvements to layout and charts
 
 ## Instructions
 
