@@ -1,6 +1,6 @@
 # Interactive Website Performance Report Template
 
-![A screenshot of nine pages from the report template with charts and tables](/img/Interactive-Website-Performance-Report-Template-Thumbnail.png)
+![A screenshot of nine pages from the report template with charts and tables](/img/Interactive-Website-Performance-Report-Template-Thumbnail-v-1-1.png)
 
 ## Overview
 
@@ -84,9 +84,9 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 ## Data Studio Courses
 
-1. Free
+1. Free:
 
-   - An official [Google Data Studio Introduction Course](https://analytics.google.com/analytics/academy/course/)
+   - An official [Google Data Studio Introduction Course](https://analytics.google.com/analytics/academy/course/) by Google
 
 ## Call for Contributors
 
