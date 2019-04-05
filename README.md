@@ -31,7 +31,7 @@ Changelog:
 
 ## Work in Progress
 
-### Version 1.2 (work in progress)
+### Version 1.2
 
 https://datastudio.google.com/open/1tQ6uCHDo7lIpHNnmmPFlHLLpuE9iw3D2
 
@@ -82,9 +82,11 @@ License: MIT license
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this report template and associated documentation files (the "Report"), to deal in the Report without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Report, and to permit persons to whom the Report is furnished to do so.
 
-## Data Studio Course
+## Data Studio Courses
 
-1. An official [Google Data Studio Introduction Course](https://analytics.google.com/analytics/academy/course/)
+1. Free
+
+   - An official [Google Data Studio Introduction Course](https://analytics.google.com/analytics/academy/course/)
 
 ## Call for Contributors
 
