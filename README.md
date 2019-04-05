@@ -40,6 +40,8 @@ Changelog:
 - Added date, country and device filters
 - Removed page descriptions
 - Adding additional content to Glossary page
+- Expanded Engagement page
+- Making the dashboard wider by decreasing margins on sides
 - Tens small improvements to layout and charts
 
 ## Instructions
