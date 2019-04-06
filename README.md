@@ -96,64 +96,64 @@ This template couldn't be prepared without amazing people who experimented with 
 
 ### Google Analytics Reports
 
-1. Overview:
-
-   - https://datastudio.google.com/u/0/reporting/0B_U5RNpwhcE6YmJXZ081VG5DSXc/page/KthH
-   - https://datastudio.google.com/u/0/reporting/0B3zl3GIjosRCQTRjdTlNSlNfc3M/page/L1Q
-   - https://datastudio.google.com/u/0/reporting/1apr57Vpe3Jjj10QhJ2YS_QCpwYWkd93C/page/UrhH
-
-2. Website Goals and page descriptions:
-
-   - https://datastudio.google.com/reporting/1lK4qQV1orRoyd1s_mYeNt-Mbye4f40YT/page/sfjO
-
-3. Page Load:
-
-   - https://datastudio.google.com/u/0/reporting/0B-7yurpNRXouUzNibGNsYlBzT2s/page/kKrB
-   - https://datastudio.google.com/reporting/0B1Pzjx-lZIhbYkNia3VqV3V2WDA/page/pjM
-
-4. Engagement:
-
-   - https://datastudio.google.com/u/0/reporting/0ByVApA41aYJibW1feEkyWjNFN3c/page/q7E
-
-5. Acquisition:
-
-   - https://datastudio.google.com/u/0/reporting/0B_U5RNpwhcE6T19aRHE1QWRqN3M/page/UrhH
-
-6. Behaviour:
-
-   - https://datastudio.google.com/u/0/reporting/0B_U5RNpwhcE6dDFzTHNtMC1UZnc/page/ly5G
-
-7. Ecommerce:
-
-   - https://datastudio.google.com/u/0/reporting/0B2-rNcnRS4x5UG50LTBMT0E4aXM/page/nQN
-   - https://datastudio.google.com/u/0/reporting/1rHTK9qrgLX695_W0fGTqPU-djw13O0Mm/page/zNjM
-   - https://datastudio.google.com/reporting/0BzHxHRjCBXe8WVRMa0tULUJGMm8/page/SZaD
-
-8. Technology:
-
-   - https://datastudio.google.com/u/0/reporting/1k35R2Y1kSlcuZcsx08FqiRlaI7aLZGKr/page/zAqM
-
-9. Content:
-
-   - https://datastudio.google.com/u/0/reporting/0B2NrKDhNqfULS3hGc0tFQTVKZzQ/page/1M
-
-10. Multiple pages:
+1. Multiple pages:
 
    - https://datastudio.google.com/reporting/1_TRiGmfJrdR5jdSoX9vV1brQu_THXNae/page/7xDO
    - https://datastudio.google.com/reporting/0BzHxHRjCBXe8WVRMa0tULUJGMm8/page/SZaD
    - https://datastudio.google.com/u/0/reporting/1igHMbckc4tScPBcIX7pmzb1sGAeZHwZz/page/8yDZ
 
-11. Funnel:
+2. Overview:
+
+   - https://datastudio.google.com/u/0/reporting/0B_U5RNpwhcE6YmJXZ081VG5DSXc/page/KthH
+   - https://datastudio.google.com/u/0/reporting/0B3zl3GIjosRCQTRjdTlNSlNfc3M/page/L1Q
+   - https://datastudio.google.com/u/0/reporting/1apr57Vpe3Jjj10QhJ2YS_QCpwYWkd93C/page/UrhH
+
+3. SEO:
+
+   - https://webris.org/seo-report/
+
+4. Website Goals and page descriptions:
+
+   - https://datastudio.google.com/reporting/1lK4qQV1orRoyd1s_mYeNt-Mbye4f40YT/page/sfjO
+
+5. Page Load:
+
+   - https://datastudio.google.com/u/0/reporting/0B-7yurpNRXouUzNibGNsYlBzT2s/page/kKrB
+   - https://datastudio.google.com/reporting/0B1Pzjx-lZIhbYkNia3VqV3V2WDA/page/pjM
+
+6. Engagement:
+
+   - https://datastudio.google.com/u/0/reporting/0ByVApA41aYJibW1feEkyWjNFN3c/page/q7E
+
+7. Acquisition:
+
+   - https://datastudio.google.com/u/0/reporting/0B_U5RNpwhcE6T19aRHE1QWRqN3M/page/UrhH
+
+8. Behaviour:
+
+   - https://datastudio.google.com/u/0/reporting/0B_U5RNpwhcE6dDFzTHNtMC1UZnc/page/ly5G
+
+9. Ecommerce:
+
+   - https://datastudio.google.com/u/0/reporting/0B2-rNcnRS4x5UG50LTBMT0E4aXM/page/nQN
+   - https://datastudio.google.com/u/0/reporting/1rHTK9qrgLX695_W0fGTqPU-djw13O0Mm/page/zNjM
+   - https://datastudio.google.com/reporting/0BzHxHRjCBXe8WVRMa0tULUJGMm8/page/SZaD
+
+10. Technology:
+
+   - https://datastudio.google.com/u/0/reporting/1k35R2Y1kSlcuZcsx08FqiRlaI7aLZGKr/page/zAqM
+
+11. Content:
+
+   - https://datastudio.google.com/u/0/reporting/0B2NrKDhNqfULS3hGc0tFQTVKZzQ/page/1M
+
+12. Funnel:
 
    - https://datastudio.google.com/u/0/reporting/1igHMbckc4tScPBcIX7pmzb1sGAeZHwZz/page/8yDZ
 
 12. Audience:
 
    - https://datastudio.google.com/reporting/0B53LFtWUM76uT2RSVmZrMmE2bUk/page/7JPB
-
-13. SEO:
-
-   - https://webris.org/seo-report/
 
 14. A/B Tests:
 
