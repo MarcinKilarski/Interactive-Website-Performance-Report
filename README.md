@@ -139,6 +139,8 @@ This template couldn't be prepared without amazing people who experimented with 
 10. Multiple pages:
 
    - https://datastudio.google.com/reporting/1_TRiGmfJrdR5jdSoX9vV1brQu_THXNae/page/7xDO
+   - https://datastudio.google.com/reporting/0BzHxHRjCBXe8WVRMa0tULUJGMm8/page/SZaD
+   - https://datastudio.google.com/u/0/reporting/1igHMbckc4tScPBcIX7pmzb1sGAeZHwZz/page/8yDZ
 
 11. Funnel:
 
@@ -200,3 +202,11 @@ This template couldn't be prepared without amazing people who experimented with 
    - https://datastudio.google.com/u/0/reporting/0B2lgFyX5qOqhbFE5RllsdFdtMXc/page/0DlG
    - https://supermetrics.com/template-gallery/google-data-studio
    - https://datastudio.tumblr.com/
+
+## Google Data Studio Feature Requests
+
+Here is a list of features that would make creating and managing custom reports in Google Data Studio a bit easier.
+
+- Editing label text
+- Adding multiple comparison dates, e.g. MoM, YoY
+- Setting theme variable colours, which then can be used as default by all tables, charts and graphs. Ideal solution would allow users to adjust the color used by all all tables, charts and graphs on all pages with a few clicks.
