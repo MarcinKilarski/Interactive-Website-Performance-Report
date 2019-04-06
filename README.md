@@ -89,13 +89,11 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 If you are interested in making this Google Data Studio report template event better, feel free to contact me. It will be great to join forces with you on this amazing journey to help everyone easily prepare an interactive report template that shows the performance of any website.
 
-## Inspiration
+## Credits
 
-This report template was built based on reports created by amazing people who shared their creation with the community. I have listed their creations below.
+This template couldn't be prepared without amazing people who experimented with Google Data Studio before and who shared their work with the community.
 
-Hopefully, this repository will inspire you to create something even more spectacular.
-
-### Google Analytics
+### Google Analytics Reports
 
 1. Overview:
 
@@ -158,14 +156,14 @@ Hopefully, this repository will inspire you to create something even more specta
 
    - https://stories.scandiweb.com/live-mode-dashboard-for-a-b-test-results-with-data-studio-e3b476f181a8
 
-### Google Search Console
+### Google Search Console Reports
 
    - http://online-behavior.com/analytics/search-console-data-studio
    - https://www.aleydasolis.com/en/search-engine-optimization/using-google-data-studio-actionable-search-console-performance-report/
    - https://helpfullee.com/google-search-console-data-studio-1/
    - https://medium.com/@singularbean/google-search-console-data-into-google-bigquery-3e794127fa08
 
-### Social Media
+### Social Media Reports
 
    - https://datastudio.google.com/u/0/reporting/0BxGPgjQHCLwZWVAyNDJMLVNYWFU/page/mA7C
    - https://datastudio.google.com/u/0/reporting/1hSOTY3Ea_fMmdylPu5ZVxow4-YkvCDYK/page/KgJb
@@ -173,29 +171,30 @@ Hopefully, this repository will inspire you to create something even more specta
    - https://www.rivaliq.com/blog/ultimate-social-media-analytics-dashboard/
    - https://www.lovesdata.com/blog/social-dashboard-google-data-studio
 
-### Google Ads
+### Google Ads Reports
+
    - https://datastudio.google.com/u/0/reporting/0B_U5RNpwhcE6ckdmZEJ0ZDJXUnM/page/VgD
    - https://datastudio.google.com/u/0/reporting/1IdigljFLqsYdRgIv2se_r4c4fXL45-18/page/hpbQ
    - https://oneppcagency.co.uk/everything-else/data-studio-adwords-template/
    - https://datastudio.google.com/reporting/0BzxVL_5BUjZhWm93VHJFZHl3NGs/page/B2GB
 
-### Cloudflare
+### Cloudflare Report
 
    - https://developers.cloudflare.com/logs/tutorials/analyze-logs-gcp/
 
-### Errors
+### Errors Report
 
    - https://datastudio.google.com/reporting/0B1Pzjx-lZIhbYkNia3VqV3V2WDA/page/pjM
 
-### Glossary
+### Glossary Page
 
    - https://www.lovesdata.com/blog/google-analytics-glossary
 
-### Designing a Report
+### Designing a Report Guide
 
    - https://supermetrics.com/blog/laws-ux-data-studio
 
-### Sets of Report Templates
+### Collections of Report Templates
 
    - https://datastudiogallery.appspot.com/gallery
    - https://datastudio.google.com/u/0/reporting/0B2lgFyX5qOqhbFE5RllsdFdtMXc/page/0DlG
