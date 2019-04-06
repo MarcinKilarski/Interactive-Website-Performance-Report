@@ -39,9 +39,8 @@ Changelog:
 - Added "Prepared with 'heart-icon' by YourCompanyName" in the footer of every page as a small branding accent
 - Added date, country and device filters
 - Removed page descriptions
-- Adding additional content to Glossary page
-- Expanded Engagement page
-- Making the dashboard wider by decreasing margins on sides
+- Expanded Engagement and Glossary pages
+- Pages made wider by decreasing margins on sides
 - Tens small improvements to layout and charts
 
 ## Instructions
@@ -130,7 +129,6 @@ Hopefully, this repository will inspire you to create something even more specta
    - https://datastudio.google.com/u/0/reporting/0B2-rNcnRS4x5UG50LTBMT0E4aXM/page/nQN
    - https://datastudio.google.com/u/0/reporting/1rHTK9qrgLX695_W0fGTqPU-djw13O0Mm/page/zNjM
    - https://datastudio.google.com/reporting/0BzHxHRjCBXe8WVRMa0tULUJGMm8/page/SZaD
-   - https://datastudio.tumblr.com/
 
 8. Technology:
 
@@ -148,61 +146,58 @@ Hopefully, this repository will inspire you to create something even more specta
 
    - https://datastudio.google.com/u/0/reporting/1igHMbckc4tScPBcIX7pmzb1sGAeZHwZz/page/8yDZ
 
-12. Localisation
-
-   - https://datastudio.google.com/reporting/0B53LFtWUM76uT2RSVmZrMmE2bUk/page/QDPB
-
-13. Audience:
+12. Audience:
 
    - https://datastudio.google.com/reporting/0B53LFtWUM76uT2RSVmZrMmE2bUk/page/7JPB
 
-14. SEO:
+13. SEO:
 
    - https://webris.org/seo-report/
 
-15. A/B Tests:
+14. A/B Tests:
 
    - https://stories.scandiweb.com/live-mode-dashboard-for-a-b-test-results-with-data-studio-e3b476f181a8
 
 ### Google Search Console
 
-- http://online-behavior.com/analytics/search-console-data-studio
-- https://www.aleydasolis.com/en/search-engine-optimization/using-google-data-studio-actionable-search-console-performance-report/
-- https://helpfullee.com/google-search-console-data-studio-1/
-- https://medium.com/@singularbean/google-search-console-data-into-google-bigquery-3e794127fa08
+   - http://online-behavior.com/analytics/search-console-data-studio
+   - https://www.aleydasolis.com/en/search-engine-optimization/using-google-data-studio-actionable-search-console-performance-report/
+   - https://helpfullee.com/google-search-console-data-studio-1/
+   - https://medium.com/@singularbean/google-search-console-data-into-google-bigquery-3e794127fa08
 
 ### Social Media
 
-- https://datastudio.google.com/u/0/reporting/0BxGPgjQHCLwZWVAyNDJMLVNYWFU/page/mA7C
-- https://datastudio.google.com/u/0/reporting/1hSOTY3Ea_fMmdylPu5ZVxow4-YkvCDYK/page/KgJb
-- https://datastudio.google.com/reporting/0B1Pzjx-lZIhbS2FjM19Hdl8xLXc/page/dXmD
-- https://www.rivaliq.com/blog/ultimate-social-media-analytics-dashboard/
-- https://www.lovesdata.com/blog/social-dashboard-google-data-studio
+   - https://datastudio.google.com/u/0/reporting/0BxGPgjQHCLwZWVAyNDJMLVNYWFU/page/mA7C
+   - https://datastudio.google.com/u/0/reporting/1hSOTY3Ea_fMmdylPu5ZVxow4-YkvCDYK/page/KgJb
+   - https://datastudio.google.com/reporting/0B1Pzjx-lZIhbS2FjM19Hdl8xLXc/page/dXmD
+   - https://www.rivaliq.com/blog/ultimate-social-media-analytics-dashboard/
+   - https://www.lovesdata.com/blog/social-dashboard-google-data-studio
 
 ### Google Ads
-- https://datastudio.google.com/u/0/reporting/0B_U5RNpwhcE6ckdmZEJ0ZDJXUnM/page/VgD
-- https://datastudio.google.com/u/0/reporting/1IdigljFLqsYdRgIv2se_r4c4fXL45-18/page/hpbQ
-- https://oneppcagency.co.uk/everything-else/data-studio-adwords-template/
-- https://datastudio.google.com/reporting/0BzxVL_5BUjZhWm93VHJFZHl3NGs/page/B2GB
+   - https://datastudio.google.com/u/0/reporting/0B_U5RNpwhcE6ckdmZEJ0ZDJXUnM/page/VgD
+   - https://datastudio.google.com/u/0/reporting/1IdigljFLqsYdRgIv2se_r4c4fXL45-18/page/hpbQ
+   - https://oneppcagency.co.uk/everything-else/data-studio-adwords-template/
+   - https://datastudio.google.com/reporting/0BzxVL_5BUjZhWm93VHJFZHl3NGs/page/B2GB
 
 ### Cloudflare
 
-- https://developers.cloudflare.com/logs/tutorials/analyze-logs-gcp/
+   - https://developers.cloudflare.com/logs/tutorials/analyze-logs-gcp/
 
 ### Errors
 
-- https://datastudio.google.com/reporting/0B1Pzjx-lZIhbYkNia3VqV3V2WDA/page/pjM
+   - https://datastudio.google.com/reporting/0B1Pzjx-lZIhbYkNia3VqV3V2WDA/page/pjM
 
 ### Glossary
 
-- https://www.lovesdata.com/blog/google-analytics-glossary
+   - https://www.lovesdata.com/blog/google-analytics-glossary
 
 ### Designing a Report
 
-- https://supermetrics.com/blog/laws-ux-data-studio
+   - https://supermetrics.com/blog/laws-ux-data-studio
 
 ### Sets of Report Templates
 
-- https://datastudiogallery.appspot.com/gallery
-- https://datastudio.google.com/u/0/reporting/0B2lgFyX5qOqhbFE5RllsdFdtMXc/page/0DlG
-- https://supermetrics.com/template-gallery/google-data-studio
+   - https://datastudiogallery.appspot.com/gallery
+   - https://datastudio.google.com/u/0/reporting/0B2lgFyX5qOqhbFE5RllsdFdtMXc/page/0DlG
+   - https://supermetrics.com/template-gallery/google-data-studio
+   - https://datastudio.tumblr.com/
