@@ -36,10 +36,11 @@ https://datastudio.google.com/open/1tQ6uCHDo7lIpHNnmmPFlHLLpuE9iw3D2
 Changelog:
 
 - Adding pages: Google Ads, Google Search Console, Facebook Ads
-- Added "Prepared with 'heart-icon' by YourCompanyName" in the footer of every page as a small branding accent
 - Added date, country and device filters: date range, marketing channel, country, device and gender
-- Removed page descriptions
-- Expanded Engagement and Glossary pages
+- Added new pages: Organic Traffic, Referral Traffic, Paid Traffic, Social Media Traffic
+- Added new content to the following pages: Engagement and Glossary
+- Removed page descriptions from all pages
+- Added "Prepared with 'heart-icon' by YourCompanyName" in the footer of every page as a small branding accent
 - Pages made wider by decreasing margins on sides
 - Tens small improvements to layout and charts
 
