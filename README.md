@@ -37,7 +37,7 @@ Changelog:
 
 - Adding pages: Google Ads, Google Search Console, Facebook Ads
 - Added "Prepared with 'heart-icon' by YourCompanyName" in the footer of every page as a small branding accent
-- Added date, country and device filters
+- Added date, country and device filters: date range, marketing channel, country, device and gender
 - Removed page descriptions
 - Expanded Engagement and Glossary pages
 - Pages made wider by decreasing margins on sides
@@ -209,4 +209,4 @@ Here is a list of features that would make creating and managing custom reports 
 
 - Editing label text
 - Adding multiple comparison dates, e.g. MoM, YoY
-- Setting theme variable colours, which then can be used as default by all tables, charts and graphs. Ideal solution would allow users to adjust the color used by all all tables, charts and graphs on all pages with a few clicks.
+- Setting theme variable colours, which then can be used as default by all tables, charts and graphs. The ideal solution would allow users to adjust the colours used by all tables, charts and graphs on all pages with a few clicks.
