@@ -160,6 +160,7 @@ This template couldn't be prepared without amazing people who experimented with 
 12. Audience:
 
    - https://datastudio.google.com/reporting/0B53LFtWUM76uT2RSVmZrMmE2bUk/page/7JPB
+   - https://medium.com/centerforcooperativemedia/introducing-the-audience-explorer-dashboard-for-small-publishers-9fbff748c47
 
 14. A/B Tests:
 
@@ -214,6 +215,6 @@ This template couldn't be prepared without amazing people who experimented with 
 
 Here is a list of features that would make creating and managing custom reports in Google Data Studio a bit easier.
 
-- Editing label text
+- Editing text labels
 - Adding multiple comparison dates, e.g. MoM, YoY
-- Setting theme variable colours, which then can be used as default by all tables, charts and graphs. The ideal solution would allow users to adjust the colours used by all tables, charts and graphs on all pages with a few clicks.
+- Setting theme variable colours, which can be used as default colour by all tables, charts and graphs. The ideal solution would allow users to adjust the colours used by all tables, charts and graphs on all pages with a few clicks.
