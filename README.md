@@ -1,4 +1,4 @@
-![A screenshot of nine pages from the report template with charts and tables](/img/Interactive-Website-Performance-Report-Template-Thumbnail-v-1-1.png)
+![A screenshot of nine pages from the report template with charts and tables](/img/Interactive-Website-Performance-Report-Template-Thumbnail-v-1-2.png)
 
 ## Overview
 
