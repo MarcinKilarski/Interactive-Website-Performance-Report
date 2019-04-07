@@ -6,6 +6,19 @@ The report template is created for anyone who would like to analyse the performa
 
 ## Ready to Use Versions
 
+### Version 1.2
+
+https://datastudio.google.com/open/1EaReqzhLwPjgKXC4tuYreRKcjGhm_XaV
+
+Changelog:
+
+- Added filters: date range, marketing channel, country, device and gender
+- Added new content to the following pages: Engagement and Glossary
+- Removed page descriptions from all pages
+- Added "Prepared with 'heart-icon' by YourCompanyName" in the footer of every page as a small branding accent
+- Decreased page side margins
+- Tens of smaller improvements were made to layout and charts
+
 ### Version 1.1
 
 https://datastudio.google.com/open/1xfWErOo4-xmK8jqVG-74lfMDLeyOfA2q
@@ -15,7 +28,7 @@ Changelog:
 - Added pages: Audience, Page Load, Blog, Glossary
 - Expanded the Device page
 - Temporary removed linkings from top navigation to avoid confusion when you copy the report and navigation items still linked to the original report
-- Tens small improvements to layout and charts
+- Tens of smaller improvements were made to layout and charts
 
 ### Version 1.0
 
@@ -29,20 +42,13 @@ Changelog:
 
 ## Work in Progress
 
-### Version 1.2
+### Version 1.3
 
 https://datastudio.google.com/open/1tQ6uCHDo7lIpHNnmmPFlHLLpuE9iw3D2
 
 Changelog:
 
 - Adding pages: Google Ads, Google Search Console, Facebook Ads
-- Added date, country and device filters: date range, marketing channel, country, device and gender
-- Added new pages: Organic Traffic, Referral Traffic, Paid Traffic, Social Media Traffic
-- Added new content to the following pages: Engagement and Glossary
-- Removed page descriptions from all pages
-- Added "Prepared with 'heart-icon' by YourCompanyName" in the footer of every page as a small branding accent
-- Pages made wider by decreasing margins on sides
-- Tens small improvements to layout and charts
 
 ## Instructions
 
