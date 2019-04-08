@@ -8,7 +8,7 @@ The report template is created for anyone who would like to analyse the performa
 
 ### Version 1.2
 
-https://datastudio.google.com/open/1EaReqzhLwPjgKXC4tuYreRKcjGhm_XaV
+[https://datastudio.google.com/open/1EaReqzhLwPjgKXC4tuYreRKcjGhm_XaV](https://datastudio.google.com/open/1EaReqzhLwPjgKXC4tuYreRKcjGhm_XaV)
 
 Changelog:
 
@@ -21,7 +21,7 @@ Changelog:
 
 ### Version 1.1
 
-https://datastudio.google.com/open/1xfWErOo4-xmK8jqVG-74lfMDLeyOfA2q
+[https://datastudio.google.com/open/1xfWErOo4-xmK8jqVG-74lfMDLeyOfA2q](https://datastudio.google.com/open/1xfWErOo4-xmK8jqVG-74lfMDLeyOfA2q)
 
 Changelog:
 
@@ -32,7 +32,7 @@ Changelog:
 
 ### Version 1.0
 
-https://datastudio.google.com/open/1vNN1hnIoxbxz88Jv7LvO1VF6OZwJ07xW
+[https://datastudio.google.com/open/1vNN1hnIoxbxz88Jv7LvO1VF6OZwJ07xW](https://datastudio.google.com/open/1vNN1hnIoxbxz88Jv7LvO1VF6OZwJ07xW)
 
 Changelog:
 
@@ -44,7 +44,7 @@ Changelog:
 
 ### Version 1.3
 
-https://datastudio.google.com/open/1tQ6uCHDo7lIpHNnmmPFlHLLpuE9iw3D2
+[https://datastudio.google.com/open/1tQ6uCHDo7lIpHNnmmPFlHLLpuE9iw3D2](https://datastudio.google.com/open/1tQ6uCHDo7lIpHNnmmPFlHLLpuE9iw3D2)
 
 Changelog:
 
