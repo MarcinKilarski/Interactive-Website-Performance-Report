@@ -219,3 +219,4 @@ Here is a list of features that would make creating and managing custom reports 
 - Editing text labels
 - Adding multiple comparison dates, e.g. MoM, YoY
 - Setting theme variable colours, which can be used as default colour by all tables, charts and graphs. The ideal solution would allow users to adjust the colours used by all tables, charts and graphs on all pages with a few clicks.
+- Adding Sample Data Sources to the report via "Resources" > "Manage added data sources".
