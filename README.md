@@ -223,7 +223,7 @@ This template couldn't be prepared without amazing people who experimented with 
 
 ## Google Data Studio Feature Requests
 
-Here is a list of features that would make creating and managing custom reports in Google Data Studio a bit easier.
+It's a list of features that would make creating and managing reports in Google Data Studio much easier.
 
 - Relative links to pages in the report so that when you copy a report links don't point to the original report.
 - Editing text labels
