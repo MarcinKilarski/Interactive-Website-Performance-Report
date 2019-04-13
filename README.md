@@ -99,7 +99,7 @@ If you are interested in making this Google Data Studio report template event be
 
 1. Free:
 
-   - An official [Google Data Studio Introduction Course](https://analytics.google.com/analytics/academy/course/) by Google
+   - An official [Google Data Studio Introduction Course](https://analytics.google.com/analytics/academy/course/10) by Google
 
 ## Helpful Resources
 
