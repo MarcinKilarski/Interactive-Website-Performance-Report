@@ -72,11 +72,15 @@ Changelog:
    - Add your company's or client's logo.
    - Add any branding that you want (e.g. your logo, contact details, change the colour theme, etc.)
 
-6. Check each page
+6. Optional improvements
+   - make page names in the top navigation clickable by adding links to them
+   - make titles of pages on a website clickable by creating a calculated filed like HYPERLINK(CONCAT("//mydomain.com", Page), Page Title)
+
+7. Check each page
 
    - Quickly glance through each page and check if you are happy with everything.
 
-7. Sharing report
+8. Sharing report
 
    - To share a link to the report with your client or your team, click on an icon of a person with the plus sign beside in the top right-hand corner. Enter an email or a person that you would like to send an invitation to see this report. In the drop-down field on the right-hand side select if you would like to give that person an editor only viewer permission.
    - To save the report as a PDF and send a static version of it to the customer. To do it, go to "File" (top navigation), select "Download as" > select "PDF".
@@ -226,3 +230,4 @@ Here is a list of features that would make creating and managing custom reports 
 - Adding multiple comparison dates, e.g. MoM, YoY
 - Setting theme variable colours, which can be used as default colour by all tables, charts and graphs. The ideal solution would allow users to adjust the colours used by all tables, charts and graphs on all pages with a few clicks.
 - A way to show sessions by major browser versions, using dimensions or calculated fields, e.g. Chrome 72.0 instead of Chrome 72.0.3626.109, Chrome 72.0.3626.96, 72.0.3626.119, etc. Also, why there always seem to be 0 after the first full stop?
+- Taking the domain name from Google Analytics so that it can be used in calculated fields with hyperlinks and it does not need to be manually specified when the report is used for to analyse the traffic of a new website.
