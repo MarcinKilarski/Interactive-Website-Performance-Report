@@ -221,6 +221,7 @@ This template couldn't be prepared without amazing people who experimented with 
 
 Here is a list of features that would make creating and managing custom reports in Google Data Studio a bit easier.
 
+- Relative links to pages in the report so that when you copy a report links don't point to the original report.
 - Editing text labels
 - Adding multiple comparison dates, e.g. MoM, YoY
 - Setting theme variable colours, which can be used as default colour by all tables, charts and graphs. The ideal solution would allow users to adjust the colours used by all tables, charts and graphs on all pages with a few clicks.
