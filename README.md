@@ -87,15 +87,20 @@ License: MIT license
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this report template and associated documentation files (the "Report"), to deal in the Report without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Report, and to permit persons to whom the Report is furnished to do so.
 
+## Call for Contributors
+
+If you are interested in making this Google Data Studio report template event better, feel free to contact me. It will be great to join forces with you on this amazing journey to help everyone easily prepare an interactive report template that shows the performance of any website.
+
 ## Data Studio Courses
 
 1. Free:
 
    - An official [Google Data Studio Introduction Course](https://analytics.google.com/analytics/academy/course/) by Google
 
-## Call for Contributors
+## Helpful Resources
 
-If you are interested in making this Google Data Studio report template event better, feel free to contact me. It will be great to join forces with you on this amazing journey to help everyone easily prepare an interactive report template that shows the performance of any website.
+- [What's new in Google Data Studio](https://support.google.com/datastudio/answer/6311467)
+- [A list of functions available for calculated fields](https://support.google.com/datastudio/table/6379764)
 
 ## Credits
 
