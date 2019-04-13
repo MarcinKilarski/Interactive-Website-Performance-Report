@@ -224,3 +224,4 @@ Here is a list of features that would make creating and managing custom reports 
 - Editing text labels
 - Adding multiple comparison dates, e.g. MoM, YoY
 - Setting theme variable colours, which can be used as default colour by all tables, charts and graphs. The ideal solution would allow users to adjust the colours used by all tables, charts and graphs on all pages with a few clicks.
+- A way to show sessions by major browser versions, using dimensions or calculated fields, e.g. Chrome 72.0 instead of Chrome 72.0.3626.109, Chrome 72.0.3626.96, 72.0.3626.119, etc. Also, why there always seem to be 0 after the first full stop?
