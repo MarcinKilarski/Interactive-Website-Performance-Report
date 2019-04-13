@@ -68,9 +68,9 @@ Changelog:
 5. Edit the report
 
    - If you are not in the "Edit mode". Move your mouse cursor to the top edge of the report window. Top navigation will appear. Then click a grey button that says "Edit". Now you can change every single thing in this report.
-   - Remove the "Company's Logo" placeholder. Once removed, it should automatically disappear from all pages.
-   - Add your company's or client's logo.
-   - Add any branding that you want (e.g. your logo, contact details, change the colour theme, etc.)
+   - Remove the "Company's Logo" placeholder. Once removed, it should automatically disappear from all pages. Then add your company's or client's logo by going to Insert (top navigation), then Image. Upload the logo, resize it a place in the top-left corner. Right-click on it, and select "Make report-level". The logo will appear on all pages in this report.
+   - Replace "YourCompantName" in the footer with your company name
+   - Add any branding that you want (e.g. your logo, contact details, change the used colour, etc.)
 
 6. Optional improvements
    - make page names in the top navigation clickable by adding links to them
