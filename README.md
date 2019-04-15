@@ -85,6 +85,10 @@ Changelog:
    - To share a link to the report with your client or your team, click on an icon of a person with the plus sign beside in the top right-hand corner. Enter an email or a person that you would like to send an invitation to see this report. In the drop-down field on the right-hand side select if you would like to give that person an editor only viewer permission.
    - To save the report as a PDF and send a static version of it to the customer. To do it, go to "File" (top navigation), select "Download as" > select "PDF".
 
+9. Navigating the report
+
+To navigate the report use the "right" and "left" arrows on your keyboard to see the next and previous page respectively.
+
 ## An Open-Source License
 
 License: MIT license
