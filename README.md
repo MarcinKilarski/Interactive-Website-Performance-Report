@@ -4,7 +4,7 @@
 
 The report template is created for anyone who would like to analyse the performance of a website. It takes data from your site using Google Analytics and displays it in [Google Data Studio](https://datastudio.google.com/), Google's free online tool for visualising a large amount of data to get useful insights. Google Data Studio can load data from all kinds of sources, e.g. Google Analytics, Google Search Console, Google Ads, Facebook and a lot more.
 
-## Ready to Use Versions
+## Versions Ready to Use
 
 ### Version 1.2
 
