@@ -73,6 +73,7 @@ Changelog:
    - Add any branding that you want (e.g. your logo, contact details, change the used colour, etc.)
 
 6. Optional improvements
+
    - make page names in the top navigation clickable by adding links to them
    - make titles of pages on a website clickable by creating a calculated filed like HYPERLINK(CONCAT("//mydomain.com", Page), Page Title)
 
@@ -87,7 +88,7 @@ Changelog:
 
 9. Navigating the report
 
-To navigate the report use the "right" and "left" arrows on your keyboard to see the next and previous page respectively.
+   - To navigate the report use the "right" and "left" arrows on your keyboard to see the next and previous page respectively.
 
 ## An Open-Source License
 
@@ -187,6 +188,13 @@ This template couldn't be prepared without amazing people who experimented with 
    - https://helpfullee.com/google-search-console-data-studio-1/
    - https://medium.com/@singularbean/google-search-console-data-into-google-bigquery-3e794127fa08
 
+### Google Ads Reports
+
+   - https://datastudio.google.com/u/0/reporting/0B_U5RNpwhcE6ckdmZEJ0ZDJXUnM/page/VgD
+   - https://datastudio.google.com/u/0/reporting/1IdigljFLqsYdRgIv2se_r4c4fXL45-18/page/hpbQ
+   - https://oneppcagency.co.uk/everything-else/data-studio-adwords-template/
+   - https://datastudio.google.com/reporting/0BzxVL_5BUjZhWm93VHJFZHl3NGs/page/B2GB
+
 ### Social Media Reports
 
    - https://datastudio.google.com/u/0/reporting/0BxGPgjQHCLwZWVAyNDJMLVNYWFU/page/mA7C
@@ -194,13 +202,6 @@ This template couldn't be prepared without amazing people who experimented with 
    - https://datastudio.google.com/reporting/0B1Pzjx-lZIhbS2FjM19Hdl8xLXc/page/dXmD
    - https://www.rivaliq.com/blog/ultimate-social-media-analytics-dashboard/
    - https://www.lovesdata.com/blog/social-dashboard-google-data-studio
-
-### Google Ads Reports
-
-   - https://datastudio.google.com/u/0/reporting/0B_U5RNpwhcE6ckdmZEJ0ZDJXUnM/page/VgD
-   - https://datastudio.google.com/u/0/reporting/1IdigljFLqsYdRgIv2se_r4c4fXL45-18/page/hpbQ
-   - https://oneppcagency.co.uk/everything-else/data-studio-adwords-template/
-   - https://datastudio.google.com/reporting/0BzxVL_5BUjZhWm93VHJFZHl3NGs/page/B2GB
 
 ### Cloudflare Report
 
