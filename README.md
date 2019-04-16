@@ -55,39 +55,26 @@ Changelog:
 1. Log into your Google Data Studio or [create a free account](https://datastudio.google.com/)
 2. Click on a link to one of the reports above that you want to use.
 3. Copy the report
-
    - Move your mouse cursor to the top edge of the report window. Top navigation will appear.
    - On the right-hand side, you will see an icon with two rectangles, one on top of another. Click on it to make a copy of the report.
    - In a pop-up window, select a new Data Source. You can use a "Sample Google Analytics Data" if you would like to just play with the report or click on a drop-down field below heading the "New Data Source". Then click "Create New Data Source" button at the bottom if you would like to use data from one of the sites that you manage. In the search box, type "Google Analytics" and select it. Then press an "Authorize" button, and "Allow" on a page that will appear. Now select a Google Analytics account, then a property, and a view or a website for which you would like to use this report. Next press "Connect" button in the top-right corner. Then "Add to Report" button in the top-right corner. Then press "Copy report" button. You can find more information about this step in [Google Analytics data source tutorial](https://support.google.com/datastudio/answer/6295036?hl=en) at Google Help Center.
    - Give it an appropriate name like "Website Performance Report for Company X - March 2019" by clicking on the text "Website Performance Report..." in the top-right corner.
-
 4. Set the date
-
    - Go to "File" (top navigation) > select "Report Settings" > select the date range for which you would like to show the data (to be able to do it, you need first select the report-level data source). Once done, it will be updated on all pages.
-
 5. Edit the report
-
    - If you are not in the "Edit mode". Move your mouse cursor to the top edge of the report window. Top navigation will appear. Then click a grey button that says "Edit". Now you can change every single thing in this report.
    - Remove the "Company's Logo" placeholder. Once removed, it should automatically disappear from all pages. Then add your company's or client's logo by going to Insert (top navigation), then Image. Upload the logo, resize it a place in the top-left corner. Right-click on it, and select "Make report-level". The logo will appear on all pages in this report.
    - Replace "YourCompantName" in the footer with your company name
    - Add any branding that you want (e.g. your logo, contact details, change the used colour, etc.)
-
 6. Optional improvements
-
    - make page names in the top navigation clickable by adding links to them
    - make titles of pages on a website clickable by creating a calculated filed like HYPERLINK(CONCAT("//mydomain.com", Page), Page Title)
-
 7. Check each page
-
    - Quickly glance through each page and check if you are happy with everything.
-
 8. Sharing report
-
    - To share a link to the report with your client or your team, click on an icon of a person with the plus sign beside in the top right-hand corner. Enter an email or a person that you would like to send an invitation to see this report. In the drop-down field on the right-hand side select if you would like to give that person an editor only viewer permission.
    - To save the report as a PDF and send a static version of it to the customer. To do it, go to "File" (top navigation), select "Download as" > select "PDF".
-
 9. Navigating the report
-
    - To navigate the report use the "right" and "left" arrows on your keyboard to see the next and previous page respectively.
 
 ## An Open-Source License
