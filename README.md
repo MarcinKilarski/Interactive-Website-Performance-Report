@@ -106,112 +106,112 @@ This template couldn't be prepared without amazing people who experimented with 
 
 1. Multiple pages:
 
-   - https://datastudio.google.com/reporting/1_TRiGmfJrdR5jdSoX9vV1brQu_THXNae/page/7xDO
-   - https://datastudio.google.com/reporting/0BzHxHRjCBXe8WVRMa0tULUJGMm8/page/SZaD
-   - https://datastudio.google.com/u/0/reporting/1igHMbckc4tScPBcIX7pmzb1sGAeZHwZz/page/8yDZ
+   - [https://datastudio.google.com/reporting/1_TRiGmfJrdR5jdSoX9vV1brQu_THXNae/page/7xDO](https://datastudio.google.com/reporting/1_TRiGmfJrdR5jdSoX9vV1brQu_THXNae/page/7xDO)
+   - [https://datastudio.google.com/reporting/0BzHxHRjCBXe8WVRMa0tULUJGMm8/page/SZaD](https://datastudio.google.com/reporting/0BzHxHRjCBXe8WVRMa0tULUJGMm8/page/SZaD)
+   - [https://datastudio.google.com/u/0/reporting/1igHMbckc4tScPBcIX7pmzb1sGAeZHwZz/page/8yDZ](https://datastudio.google.com/u/0/reporting/1igHMbckc4tScPBcIX7pmzb1sGAeZHwZz/page/8yDZ)
 
 2. Overview:
 
-   - https://datastudio.google.com/u/0/reporting/0B_U5RNpwhcE6YmJXZ081VG5DSXc/page/KthH
-   - https://datastudio.google.com/u/0/reporting/0B3zl3GIjosRCQTRjdTlNSlNfc3M/page/L1Q
-   - https://datastudio.google.com/u/0/reporting/1apr57Vpe3Jjj10QhJ2YS_QCpwYWkd93C/page/UrhH
+   - [https://datastudio.google.com/u/0/reporting/0B_U5RNpwhcE6YmJXZ081VG5DSXc/page/KthH](https://datastudio.google.com/u/0/reporting/0B_U5RNpwhcE6YmJXZ081VG5DSXc/page/KthH)
+   - [https://datastudio.google.com/u/0/reporting/0B3zl3GIjosRCQTRjdTlNSlNfc3M/page/L1Q](https://datastudio.google.com/u/0/reporting/0B3zl3GIjosRCQTRjdTlNSlNfc3M/page/L1Q)
+   - [https://datastudio.google.com/u/0/reporting/1apr57Vpe3Jjj10QhJ2YS_QCpwYWkd93C/page/UrhH](https://datastudio.google.com/u/0/reporting/1apr57Vpe3Jjj10QhJ2YS_QCpwYWkd93C/page/UrhH)
 
 3. SEO:
 
-   - https://webris.org/seo-report/
+   - [https://webris.org/seo-report/](https://webris.org/seo-report/)
 
 4. Website Goals and page descriptions:
 
-   - https://datastudio.google.com/reporting/1lK4qQV1orRoyd1s_mYeNt-Mbye4f40YT/page/sfjO
+   - [https://datastudio.google.com/reporting/1lK4qQV1orRoyd1s_mYeNt-Mbye4f40YT/page/sfjO](https://datastudio.google.com/reporting/1lK4qQV1orRoyd1s_mYeNt-Mbye4f40YT/page/sfjO)
 
 5. Page Load:
 
-   - https://datastudio.google.com/u/0/reporting/0B-7yurpNRXouUzNibGNsYlBzT2s/page/kKrB
-   - https://datastudio.google.com/reporting/0B1Pzjx-lZIhbYkNia3VqV3V2WDA/page/pjM
+   - [https://datastudio.google.com/u/0/reporting/0B-7yurpNRXouUzNibGNsYlBzT2s/page/kKrB](https://datastudio.google.com/u/0/reporting/0B-7yurpNRXouUzNibGNsYlBzT2s/page/kKrB)
+   - [https://datastudio.google.com/reporting/0B1Pzjx-lZIhbYkNia3VqV3V2WDA/page/pjM](https://datastudio.google.com/reporting/0B1Pzjx-lZIhbYkNia3VqV3V2WDA/page/pjM)
 
 6. Engagement:
 
-   - https://datastudio.google.com/u/0/reporting/0ByVApA41aYJibW1feEkyWjNFN3c/page/q7E
+   - [https://datastudio.google.com/u/0/reporting/0ByVApA41aYJibW1feEkyWjNFN3c/page/q7E](https://datastudio.google.com/u/0/reporting/0ByVApA41aYJibW1feEkyWjNFN3c/page/q7E)
 
 7. Acquisition:
 
-   - https://datastudio.google.com/u/0/reporting/0B_U5RNpwhcE6T19aRHE1QWRqN3M/page/UrhH
+   - [https://datastudio.google.com/u/0/reporting/0B_U5RNpwhcE6T19aRHE1QWRqN3M/page/UrhH](https://datastudio.google.com/u/0/reporting/0B_U5RNpwhcE6T19aRHE1QWRqN3M/page/UrhH)
 
 8. Behaviour:
 
-   - https://datastudio.google.com/u/0/reporting/0B_U5RNpwhcE6dDFzTHNtMC1UZnc/page/ly5G
+   - [https://datastudio.google.com/u/0/reporting/0B_U5RNpwhcE6dDFzTHNtMC1UZnc/page/ly5G](https://datastudio.google.com/u/0/reporting/0B_U5RNpwhcE6dDFzTHNtMC1UZnc/page/ly5G)
 
 9. Ecommerce:
 
-   - https://datastudio.google.com/u/0/reporting/0B2-rNcnRS4x5UG50LTBMT0E4aXM/page/nQN
-   - https://datastudio.google.com/u/0/reporting/1rHTK9qrgLX695_W0fGTqPU-djw13O0Mm/page/zNjM
-   - https://datastudio.google.com/reporting/0BzHxHRjCBXe8WVRMa0tULUJGMm8/page/SZaD
+   - [https://datastudio.google.com/u/0/reporting/0B2-rNcnRS4x5UG50LTBMT0E4aXM/page/nQN](https://datastudio.google.com/u/0/reporting/0B2-rNcnRS4x5UG50LTBMT0E4aXM/page/nQN)
+   - [https://datastudio.google.com/u/0/reporting/1rHTK9qrgLX695_W0fGTqPU-djw13O0Mm/page/zNjM](https://datastudio.google.com/u/0/reporting/1rHTK9qrgLX695_W0fGTqPU-djw13O0Mm/page/zNjM)
+   - [https://datastudio.google.com/reporting/0BzHxHRjCBXe8WVRMa0tULUJGMm8/page/SZaD](https://datastudio.google.com/reporting/0BzHxHRjCBXe8WVRMa0tULUJGMm8/page/SZaD)
 
 10. Technology:
 
-   - https://datastudio.google.com/u/0/reporting/1k35R2Y1kSlcuZcsx08FqiRlaI7aLZGKr/page/zAqM
+   - [https://datastudio.google.com/u/0/reporting/1k35R2Y1kSlcuZcsx08FqiRlaI7aLZGKr/page/zAqM](https://datastudio.google.com/u/0/reporting/1k35R2Y1kSlcuZcsx08FqiRlaI7aLZGKr/page/zAqM)
 
 11. Content:
 
-   - https://datastudio.google.com/u/0/reporting/0B2NrKDhNqfULS3hGc0tFQTVKZzQ/page/1M
+   - [https://datastudio.google.com/u/0/reporting/0B2NrKDhNqfULS3hGc0tFQTVKZzQ/page/1M](https://datastudio.google.com/u/0/reporting/0B2NrKDhNqfULS3hGc0tFQTVKZzQ/page/1M)
 
 12. Funnel:
 
-   - https://datastudio.google.com/u/0/reporting/1igHMbckc4tScPBcIX7pmzb1sGAeZHwZz/page/8yDZ
+   - [https://datastudio.google.com/u/0/reporting/1igHMbckc4tScPBcIX7pmzb1sGAeZHwZz/page/8yDZ](https://datastudio.google.com/u/0/reporting/1igHMbckc4tScPBcIX7pmzb1sGAeZHwZz/page/8yDZ)
 
 12. Audience:
 
-   - https://datastudio.google.com/reporting/0B53LFtWUM76uT2RSVmZrMmE2bUk/page/7JPB
-   - https://medium.com/centerforcooperativemedia/introducing-the-audience-explorer-dashboard-for-small-publishers-9fbff748c47
+   - [https://datastudio.google.com/reporting/0B53LFtWUM76uT2RSVmZrMmE2bUk/page/7JPB](https://datastudio.google.com/reporting/0B53LFtWUM76uT2RSVmZrMmE2bUk/page/7JPB)
+   - [https://medium.com/centerforcooperativemedia/introducing-the-audience-explorer-dashboard-for-small-publishers-9fbff748c47](https://medium.com/centerforcooperativemedia/introducing-the-audience-explorer-dashboard-for-small-publishers-9fbff748c47)
 
 14. A/B Tests:
 
-   - https://stories.scandiweb.com/live-mode-dashboard-for-a-b-test-results-with-data-studio-e3b476f181a8
+   - [https://stories.scandiweb.com/live-mode-dashboard-for-a-b-test-results-with-data-studio-e3b476f181a8](https://stories.scandiweb.com/live-mode-dashboard-for-a-b-test-results-with-data-studio-e3b476f181a8)
 
 ### Google Search Console Reports
 
-   - http://online-behavior.com/analytics/search-console-data-studio
-   - https://www.aleydasolis.com/en/search-engine-optimization/using-google-data-studio-actionable-search-console-performance-report/
-   - https://helpfullee.com/google-search-console-data-studio-1/
-   - https://medium.com/@singularbean/google-search-console-data-into-google-bigquery-3e794127fa08
+   - [http://online-behavior.com/analytics/search-console-data-studio](http://online-behavior.com/analytics/search-console-data-studio)
+   - [https://www.aleydasolis.com/en/search-engine-optimization/using-google-data-studio-actionable-search-console-performance-report/](https://www.aleydasolis.com/en/search-engine-optimization/using-google-data-studio-actionable-search-console-performance-report/)
+   - [https://helpfullee.com/google-search-console-data-studio-1/](https://helpfullee.com/google-search-console-data-studio-1/)
+   - [https://medium.com/@singularbean/google-search-console-data-into-google-bigquery-3e794127fa08](https://medium.com/@singularbean/google-search-console-data-into-google-bigquery-3e794127fa08)
 
 ### Google Ads Reports
 
-   - https://datastudio.google.com/u/0/reporting/0B_U5RNpwhcE6ckdmZEJ0ZDJXUnM/page/VgD
-   - https://datastudio.google.com/u/0/reporting/1IdigljFLqsYdRgIv2se_r4c4fXL45-18/page/hpbQ
-   - https://oneppcagency.co.uk/everything-else/data-studio-adwords-template/
-   - https://datastudio.google.com/reporting/0BzxVL_5BUjZhWm93VHJFZHl3NGs/page/B2GB
+   - [https://datastudio.google.com/u/0/reporting/0B_U5RNpwhcE6ckdmZEJ0ZDJXUnM/page/VgD](https://datastudio.google.com/u/0/reporting/0B_U5RNpwhcE6ckdmZEJ0ZDJXUnM/page/VgD)
+   - [https://datastudio.google.com/u/0/reporting/1IdigljFLqsYdRgIv2se_r4c4fXL45-18/page/hpbQ](https://datastudio.google.com/u/0/reporting/1IdigljFLqsYdRgIv2se_r4c4fXL45-18/page/hpbQ)
+   - [https://oneppcagency.co.uk/everything-else/data-studio-adwords-template/](https://oneppcagency.co.uk/everything-else/data-studio-adwords-template/)
+   - [https://datastudio.google.com/reporting/0BzxVL_5BUjZhWm93VHJFZHl3NGs/page/B2GB](https://datastudio.google.com/reporting/0BzxVL_5BUjZhWm93VHJFZHl3NGs/page/B2GB)
 
 ### Social Media Reports
 
-   - https://datastudio.google.com/u/0/reporting/0BxGPgjQHCLwZWVAyNDJMLVNYWFU/page/mA7C
-   - https://datastudio.google.com/u/0/reporting/1hSOTY3Ea_fMmdylPu5ZVxow4-YkvCDYK/page/KgJb
-   - https://datastudio.google.com/reporting/0B1Pzjx-lZIhbS2FjM19Hdl8xLXc/page/dXmD
-   - https://www.rivaliq.com/blog/ultimate-social-media-analytics-dashboard/
-   - https://www.lovesdata.com/blog/social-dashboard-google-data-studio
+   - [https://datastudio.google.com/u/0/reporting/0BxGPgjQHCLwZWVAyNDJMLVNYWFU/page/mA7C](https://datastudio.google.com/u/0/reporting/0BxGPgjQHCLwZWVAyNDJMLVNYWFU/page/mA7C)
+   - [https://datastudio.google.com/u/0/reporting/1hSOTY3Ea_fMmdylPu5ZVxow4-YkvCDYK/page/KgJb](https://datastudio.google.com/u/0/reporting/1hSOTY3Ea_fMmdylPu5ZVxow4-YkvCDYK/page/KgJb)
+   - [https://datastudio.google.com/reporting/0B1Pzjx-lZIhbS2FjM19Hdl8xLXc/page/dXmD](https://datastudio.google.com/reporting/0B1Pzjx-lZIhbS2FjM19Hdl8xLXc/page/dXmD)
+   - [https://www.rivaliq.com/blog/ultimate-social-media-analytics-dashboard/](https://www.rivaliq.com/blog/ultimate-social-media-analytics-dashboard/)
+   - [https://www.lovesdata.com/blog/social-dashboard-google-data-studio](https://www.lovesdata.com/blog/social-dashboard-google-data-studio)
 
 ### Cloudflare Report
 
-   - https://developers.cloudflare.com/logs/tutorials/analyze-logs-gcp/
+   - [https://developers.cloudflare.com/logs/tutorials/analyze-logs-gcp/](https://developers.cloudflare.com/logs/tutorials/analyze-logs-gcp/)
 
 ### Errors Report
 
-   - https://datastudio.google.com/reporting/0B1Pzjx-lZIhbYkNia3VqV3V2WDA/page/pjM
+   - [https://datastudio.google.com/reporting/0B1Pzjx-lZIhbYkNia3VqV3V2WDA/page/pjM](https://datastudio.google.com/reporting/0B1Pzjx-lZIhbYkNia3VqV3V2WDA/page/pjM)
 
 ### Glossary Page
 
-   - https://www.lovesdata.com/blog/google-analytics-glossary
+   - [https://www.lovesdata.com/blog/google-analytics-glossary](https://www.lovesdata.com/blog/google-analytics-glossary)
 
 ### Designing a Report Guide
 
-   - https://supermetrics.com/blog/laws-ux-data-studio
+   - [https://supermetrics.com/blog/laws-ux-data-studio](https://supermetrics.com/blog/laws-ux-data-studio)
 
 ### Collections of Report Templates
 
-   - https://datastudiogallery.appspot.com/gallery
-   - https://datastudio.google.com/u/0/reporting/0B2lgFyX5qOqhbFE5RllsdFdtMXc/page/0DlG
-   - https://supermetrics.com/template-gallery/google-data-studio
-   - https://datastudio.tumblr.com/
+   - [https://datastudiogallery.appspot.com/gallery](https://datastudiogallery.appspot.com/gallery)
+   - [https://datastudio.google.com/u/0/reporting/0B2lgFyX5qOqhbFE5RllsdFdtMXc/page/0DlG](https://datastudio.google.com/u/0/reporting/0B2lgFyX5qOqhbFE5RllsdFdtMXc/page/0DlG)
+   - [https://supermetrics.com/template-gallery/google-data-studio](https://supermetrics.com/template-gallery/google-data-studio)
+   - [https://datastudio.tumblr.com/](https://datastudio.tumblr.com/)
 
 ## Google Data Studio Feature Requests
 
