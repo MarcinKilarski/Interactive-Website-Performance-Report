@@ -99,7 +99,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 If you are interested in making this Google Data Studio report template event better, feel free to contact me. It will be great to join forces with you on this amazing journey to help everyone easily prepare an interactive report template that shows the performance of any website.
 
-## Data Studio Courses
+## Google Data Studio Courses
 
 1. Free:
 
