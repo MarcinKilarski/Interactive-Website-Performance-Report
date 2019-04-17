@@ -8,13 +8,13 @@ The report template is created for everyone who would like to analyse the perfor
 
 ### Version 1.2
 
-- [Google Analytics: Standard](https://datastudio.google.com/open/1Jiavzc2nbjqSwVTwD5x5UNKHvI2JDLbd)
+- [Google Analytics: Standard](https://datastudio.google.com/open/1Jiavzc2nbjqSwVTwD5x5UNKHvI2JDLbd) - choose if a site has Google Analytics set up
 - Google Analytics: Standard + Blog
-- [Google Analytics: Standard + Goals](https://datastudio.google.com/open/1QZ_rwCEUBy-Mf_THaHWvM8pyxksHDqEU)
+- [Google Analytics: Standard + Goals](https://datastudio.google.com/open/1QZ_rwCEUBy-Mf_THaHWvM8pyxksHDqEU) - choose it if a site has Goals set up in Google Analytics
 - Google Analytics: Standard + Ecommerce
 - Google Analytics: Standard + Blog + Goals
-- [Google Analytics: Standard + Blog + Ecommerce](https://datastudio.google.com/open/1mhFKT-lvu3GJWKTJ2-YxNZrVRg71YMVR)
-- [Google Analytics: Standard + Blog + Goals + Ecommerce](https://datastudio.google.com/open/1EaReqzhLwPjgKXC4tuYreRKcjGhm_XaV)
+- [Google Analytics: Standard + Blog + Ecommerce](https://datastudio.google.com/open/1mhFKT-lvu3GJWKTJ2-YxNZrVRg71YMVR) - choose it if a site has a blog and Enhanced Ecommerce set up in Google Analytics
+- [Google Analytics: Standard + Blog + Goals + Ecommerce](https://datastudio.google.com/open/1EaReqzhLwPjgKXC4tuYreRKcjGhm_XaV) - choose it if a site has a blog, Goals and Enhanced Ecommerce set up in Google Analytics
 
 Changelog:
 
@@ -60,8 +60,10 @@ Changelog:
 
 ## Instructions
 
-1. Log into your Google Data Studio or [create a free account](https://datastudio.google.com/)
-2. Click on a link to one of the reports above that you want to use.
+1. Log into your Google Data Studio account
+   - Log into your Google Data Studio or [create a free account](https://datastudio.google.com/)
+2. Selecting a report
+   - Click on a link to one of the reports that you would like to use above.
 3. Copy the report
    - Move your mouse cursor to the top edge of the report window. The top navigation will appear.
    - On the right-hand side, you will see an icon with two rectangles, one on top of another. Click on it to make a copy of the report.
