@@ -8,13 +8,13 @@ The report template is created for everyone who would like to analyse the perfor
 
 ### Version 1.2
 
-- [Google Analytics: Standard](https://datastudio.google.com/open/1Jiavzc2nbjqSwVTwD5x5UNKHvI2JDLbd) - choose if a site has Google Analytics set up
-- Google Analytics: Standard + Blog
-- [Google Analytics: Standard + Goals](https://datastudio.google.com/open/1QZ_rwCEUBy-Mf_THaHWvM8pyxksHDqEU) - choose it if a site has Goals set up in Google Analytics
+- [Google Analytics: Standard](https://datastudio.google.com/open/1Jiavzc2nbjqSwVTwD5x5UNKHvI2JDLbd) - for sites that use Google Analytics
+- [Google Analytics: Standard + Blog](https://datastudio.google.com/open/1MYPa8HNdkmAPOxifsimT87I1fWnMdX8n) - for sites that use Google Analytics and a blog
+- [Google Analytics: Standard + Goals](https://datastudio.google.com/open/1QZ_rwCEUBy-Mf_THaHWvM8pyxksHDqEU) - for sites that have Goals set up in Google Analytics
 - Google Analytics: Standard + Ecommerce
 - Google Analytics: Standard + Blog + Goals
-- [Google Analytics: Standard + Blog + Ecommerce](https://datastudio.google.com/open/1mhFKT-lvu3GJWKTJ2-YxNZrVRg71YMVR) - choose it if a site has a blog and Enhanced Ecommerce set up in Google Analytics
-- [Google Analytics: Standard + Blog + Goals + Ecommerce](https://datastudio.google.com/open/1EaReqzhLwPjgKXC4tuYreRKcjGhm_XaV) - choose it if a site has a blog, Goals and Enhanced Ecommerce set up in Google Analytics
+- [Google Analytics: Standard + Blog + Ecommerce](https://datastudio.google.com/open/1mhFKT-lvu3GJWKTJ2-YxNZrVRg71YMVR) - for sites that have a blog and Enhanced Ecommerce set up in Google Analytics
+- [Google Analytics: Standard + Blog + Goals + Ecommerce](https://datastudio.google.com/open/1EaReqzhLwPjgKXC4tuYreRKcjGhm_XaV) - for sites that have a blog, Goals and Enhanced Ecommerce set up in Google Analytics
 
 Changelog:
 
@@ -230,7 +230,7 @@ It's a list of features that would make creating and managing reports in Google 
 
 - Relative links to pages in the report so that when you copy a report links don't point to the original report.
 - Editing text labels
-- Adding multiple comparison dates, e.g. MoM, YoY
+- Adding multiple comparison dates, e.g. MoM and YoY
 - Setting theme variable colours, which can be used as default colour by all tables, charts and graphs. The ideal solution would allow users to adjust the colours used by all tables, charts and graphs on all pages with a few clicks.
 - A way to show sessions by major browser versions, using dimensions or calculated fields, e.g. Chrome 72.0 instead of 72.0.3626.109, 72.0.3626.96, 72.0.3626.119, etc. Also there seems to be always zero after the first full stop. I wonder, why is that?
 - Taking the domain name from Google Analytics so that it can be used in calculated fields with hyperlinks and it does not need to be manually specified when the report is used for to analyse the traffic of a new website.
