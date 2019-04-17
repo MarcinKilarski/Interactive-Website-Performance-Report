@@ -232,5 +232,5 @@ It's a list of features that would make creating and managing reports in Google 
 - Editing text labels
 - Adding multiple comparison dates, e.g. MoM, YoY
 - Setting theme variable colours, which can be used as default colour by all tables, charts and graphs. The ideal solution would allow users to adjust the colours used by all tables, charts and graphs on all pages with a few clicks.
-- A way to show sessions by major browser versions, using dimensions or calculated fields, e.g. Chrome 72.0 instead of Chrome 72.0.3626.109, Chrome 72.0.3626.96, 72.0.3626.119, etc. Also, why there always seem to be 0 after the first full stop?
+- A way to show sessions by major browser versions, using dimensions or calculated fields, e.g. Chrome 72.0 instead of 72.0.3626.109, 72.0.3626.96, 72.0.3626.119, etc. Also there seems to be always zero after the first full stop. I wonder, why is that?
 - Taking the domain name from Google Analytics so that it can be used in calculated fields with hyperlinks and it does not need to be manually specified when the report is used for to analyse the traffic of a new website.
