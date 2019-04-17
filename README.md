@@ -1,4 +1,4 @@
-![A screenshot of nine pages from the report template with charts and tables](/img/Interactive-Website-Performance-Report-Template-Thumbnail-v-1-2.png)
+![A screenshot of nine pages with charts and tables from the report template](/img/Interactive-Website-Performance-Report-Template-Thumbnail-v-1-2.png)
 
 ## Overview
 
@@ -8,7 +8,13 @@ The report template is created for anyone who would like to analyse the performa
 
 ### Version 1.2
 
-[https://datastudio.google.com/open/1EaReqzhLwPjgKXC4tuYreRKcjGhm_XaV](https://datastudio.google.com/open/1EaReqzhLwPjgKXC4tuYreRKcjGhm_XaV)
+- [Google Analytics: Standard](https://datastudio.google.com/open/1Jiavzc2nbjqSwVTwD5x5UNKHvI2JDLbd)
+- Google Analytics: Standard + Blog
+- [Google Analytics: Standard + Goals](https://datastudio.google.com/open/1QZ_rwCEUBy-Mf_THaHWvM8pyxksHDqEU)
+- Google Analytics: Standard + Ecommerce
+- Google Analytics: Standard + Blog + Goals
+- [Google Analytics: Standard + Blog + Ecommerce](https://datastudio.google.com/open/1mhFKT-lvu3GJWKTJ2-YxNZrVRg71YMVR)
+- [Google Analytics: Standard + Blog + Goals + Ecommerce](https://datastudio.google.com/open/1EaReqzhLwPjgKXC4tuYreRKcjGhm_XaV)
 
 Changelog:
 
@@ -17,6 +23,7 @@ Changelog:
 - Removed page descriptions from all pages
 - Added "Prepared with 'heart-icon' by YourCompanyName" in the footer of every page as a small branding accent
 - Decreased page side margins
+- Creating four variations of the report to avoid showing charts with no data
 - Tens of smaller improvements were made to layout and charts
 
 ### Version 1.1
@@ -49,6 +56,7 @@ Changelog:
 Changelog:
 
 - Adding pages: Google Ads, Google Search Console, Facebook Ads
+- Tens of smaller improvements were made to layout and charts
 
 ## Instructions
 
@@ -66,6 +74,7 @@ Changelog:
    - Remove the "Company's Logo" placeholder. Once removed, it should automatically disappear from all pages. Then add your company's or client's logo by going to Insert (top navigation), then Image. Upload the logo, resize it a place in the top-left corner. Right-click on it, and select "Make report-level". The logo will appear on all pages in this report.
    - Replace "YourCompantName" in the footer with your company name
    - Add any branding that you want (e.g. your logo, contact details, change the used colour, etc.)
+   - If your report includes the "Blog" page, in the 
 6. Optional improvements
    - make page names in the top navigation clickable by adding links to them
    - make titles of pages on a website clickable by creating a calculated filed like HYPERLINK(CONCAT("//mydomain.com", Page), Page Title)
