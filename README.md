@@ -116,14 +116,14 @@ This template couldn't be prepared without amazing people who experimented with 
 Multiple pages:
 
    - [DigitalSasi Web Analytics 3.1](https://datastudio.google.com/reporting/1_TRiGmfJrdR5jdSoX9vV1brQu_THXNae/) by [DataSasi](https://datasasi.com/)
-   - [E-commerce Website Analytics Data Studio Report](https://datastudio.google.com/reporting/0BzHxHRjCBXe8WVRMa0tULUJGMm8/) by Onur SOYLAN
+   - [E-commerce Website Analytics Data Studio Report](https://datastudio.google.com/reporting/0BzHxHRjCBXe8WVRMa0tULUJGMm8/) by [Onur SOYLAN](https://www.linkedin.com/in/onursoylan/)
    - [Funnel Visualizer by](https://datastudio.google.com/u/0/reporting/1igHMbckc4tScPBcIX7pmzb1sGAeZHwZz/) by [Click Targeter](https://www.clicktargeter.com/)
 
 Overview:
 
    - [GA Audience Overview with Data Control](https://datastudio.google.com/u/0/reporting/0B_U5RNpwhcE6YmJXZ081VG5DSXc/) by Unknown
    - [Monthly Overview](https://datastudio.google.com/u/0/reporting/0B3zl3GIjosRCQTRjdTlNSlNfc3M/) by [Bounteous](https://www.bounteous.com/)
-   - [https://datastudio.google.com/u/0/reporting/1apr57Vpe3Jjj10QhJ2YS_QCpwYWkd93C/page/UrhH](https://datastudio.google.com/u/0/reporting/1apr57Vpe3Jjj10QhJ2YS_QCpwYWkd93C/)
+   - [Acquisition EEG](https://datastudio.google.com/u/0/reporting/1apr57Vpe3Jjj10QhJ2YS_QCpwYWkd93C/) by [Joshua Cottrell-Schloemer](https://www.linkedin.com/in/joshcottrell/)
 
 SEO:
 
