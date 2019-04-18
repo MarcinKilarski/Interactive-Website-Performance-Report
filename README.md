@@ -116,67 +116,67 @@ This report template couldn't be prepared without amazing people who experimente
 
 ### Google Analytics Reports
 
-Multiple pages:
+#### Multiple pages
 
    - [DigitalSasi Web Analytics 3.1](https://datastudio.google.com/reporting/1_TRiGmfJrdR5jdSoX9vV1brQu_THXNae/) by [DataSasi](https://datasasi.com/)
    - [E-commerce Website Analytics Data Studio Report](https://datastudio.google.com/reporting/0BzHxHRjCBXe8WVRMa0tULUJGMm8/) by [Onur SOYLAN](https://www.linkedin.com/in/onursoylan/)
    - [Funnel Visualizer by](https://datastudio.google.com/u/0/reporting/1igHMbckc4tScPBcIX7pmzb1sGAeZHwZz/) by [Click Targeter](https://www.clicktargeter.com/)
 
-Overview:
+#### Overview
 
    - [GA Audience Overview with Data Control](https://datastudio.google.com/u/0/reporting/0B_U5RNpwhcE6YmJXZ081VG5DSXc/) by Unknown
    - [Monthly Overview](https://datastudio.google.com/u/0/reporting/0B3zl3GIjosRCQTRjdTlNSlNfc3M/) by [Bounteous](https://www.bounteous.com/)
    - [Acquisition EEG](https://datastudio.google.com/u/0/reporting/1apr57Vpe3Jjj10QhJ2YS_QCpwYWkd93C/) by [Joshua Cottrell-Schloemer](https://www.linkedin.com/in/joshcottrell/)
 
-SEO:
+#### SEO
 
    - [SEO report](https://webris.org/seo-report/) by [Webris](https://webris.org/)
 
-Website Goals and page descriptions:
+#### Website Goals and page descriptions
 
    - [Data Runs Deep - AABC](https://datastudio.google.com/reporting/1lK4qQV1orRoyd1s_mYeNt-Mbye4f40YT/) by [Data Runs Deep](http://www.datarunsdeep.com.au/)
 
-Page Load:
+#### Page Load
 
    - [eCommerce speed](https://datastudio.google.com/u/0/reporting/0B-7yurpNRXouUzNibGNsYlBzT2s/) by Canonicalized
    - [Demo - Technical performance indicators for your website](https://datastudio.google.com/reporting/0B1Pzjx-lZIhbYkNia3VqV3V2WDA/) by [Owox](https://www.owox.com/)
 
-Engagement:
+#### Engagement
 
    - [Datasaurus-Rex Google Analytics & YouTube Dashboard](https://datastudio.google.com/u/0/reporting/0ByVApA41aYJibW1feEkyWjNFN3c/) by [Datasaurus Rex](https://datasaurus-rex.com/)
 
-Acquisition:
+#### Acquisition
 
    - [GA Acquisition Overview with Data Control](https://datastudio.google.com/u/0/reporting/0B_U5RNpwhcE6T19aRHE1QWRqN3M/) by Unknown
 
-Behaviour:
+#### Behaviour
 
    - [GA Behavior Overview with Data Control](https://datastudio.google.com/u/0/reporting/0B_U5RNpwhcE6dDFzTHNtMC1UZnc/) by [Waar Gaan We Eten](https://waargaanweeten.home.blog/)
 
-Ecommerce:
+#### Ecommerce
 
    - [https://datastudio.google.com/u/0/reporting/0B2-rNcnRS4x5UG50LTBMT0E4aXM/page/nQN](https://datastudio.google.com/u/0/reporting/0B2-rNcnRS4x5UG50LTBMT0E4aXM/) by 
    - [https://datastudio.google.com/u/0/reporting/1rHTK9qrgLX695_W0fGTqPU-djw13O0Mm/page/zNjM](https://datastudio.google.com/u/0/reporting/1rHTK9qrgLX695_W0fGTqPU-djw13O0Mm/)
    - [https://datastudio.google.com/reporting/0BzHxHRjCBXe8WVRMa0tULUJGMm8/page/SZaD](https://datastudio.google.com/reporting/0BzHxHRjCBXe8WVRMa0tULUJGMm8/)
 
-Technology:
+#### Technology
 
    - [https://datastudio.google.com/u/0/reporting/1k35R2Y1kSlcuZcsx08FqiRlaI7aLZGKr/page/zAqM](https://datastudio.google.com/u/0/reporting/1k35R2Y1kSlcuZcsx08FqiRlaI7aLZGKr/)
 
-Content:
+#### Content
 
    - [https://datastudio.google.com/u/0/reporting/0B2NrKDhNqfULS3hGc0tFQTVKZzQ/page/1M](https://datastudio.google.com/u/0/reporting/0B2NrKDhNqfULS3hGc0tFQTVKZzQ/)
 
-Funnel:
+#### Funnel
 
    - [https://datastudio.google.com/u/0/reporting/1igHMbckc4tScPBcIX7pmzb1sGAeZHwZz/page/8yDZ](https://datastudio.google.com/u/0/reporting/1igHMbckc4tScPBcIX7pmzb1sGAeZHwZz/)
 
-Audience:
+#### Audience
 
    - [https://datastudio.google.com/reporting/0B53LFtWUM76uT2RSVmZrMmE2bUk/page/7JPB](https://datastudio.google.com/reporting/0B53LFtWUM76uT2RSVmZrMmE2bUk/)
    - [https://medium.com/centerforcooperativemedia/introducing-the-audience-explorer-dashboard-for-small-publishers-9fbff748c47](https://medium.com/centerforcooperativemedia/introducing-the-audience-explorer-dashboard-for-small-publishers-9fbff748c47)
 
-A/B Tests:
+#### A/B Tests
 
    - [https://stories.scandiweb.com/live-mode-dashboard-for-a-b-test-results-with-data-studio-e3b476f181a8](https://stories.scandiweb.com/live-mode-dashboard-for-a-b-test-results-with-data-studio-e3b476f181a8)
 
@@ -214,11 +214,11 @@ A/B Tests:
 
    - [https://www.lovesdata.com/blog/google-analytics-glossary](https://www.lovesdata.com/blog/google-analytics-glossary)
 
-### Designing a Report Guide
+### A Guide to Designing a Report
 
    - [https://supermetrics.com/blog/laws-ux-data-studio](https://supermetrics.com/blog/laws-ux-data-studio)
 
-### Collections of Report Templates
+### A Collections of Google Data Studio Report Templates
 
    - [Google Data Studio Report Gallery](https://datastudiogallery.appspot.com/gallery) by Google
    - [Google Data Studio Resources](https://datastudio.google.com/u/0/reporting/0B2lgFyX5qOqhbFE5RllsdFdtMXc/) by [Helpfullee](https://helpfullee.com/)
