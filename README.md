@@ -8,13 +8,13 @@ The report template is created for everyone who would like to analyse the perfor
 
 ### Version 1.2
 
-- [Google Analytics: Standard](https://datastudio.google.com/open/1Jiavzc2nbjqSwVTwD5x5UNKHvI2JDLbd) - for sites that use Google Analytics
-- [Google Analytics: Standard + Blog](https://datastudio.google.com/open/1MYPa8HNdkmAPOxifsimT87I1fWnMdX8n) - for sites that use Google Analytics and a blog
-- [Google Analytics: Standard + Goals](https://datastudio.google.com/open/1QZ_rwCEUBy-Mf_THaHWvM8pyxksHDqEU) - for sites that have Goals set up in Google Analytics
+- [Google Analytics: Standard](https://datastudio.google.com/open/1Jiavzc2nbjqSwVTwD5x5UNKHvI2JDLbd) - for any website that uses Google Analytics
+- [Google Analytics: Standard + Blog](https://datastudio.google.com/open/1MYPa8HNdkmAPOxifsimT87I1fWnMdX8n) - for any website that uses Google Analytics and has a blog
+- [Google Analytics: Standard + Goals](https://datastudio.google.com/open/1QZ_rwCEUBy-Mf_THaHWvM8pyxksHDqEU) - for any website that uses Google Analytics and has Goals set up in Google Analytics
 - Google Analytics: Standard + Ecommerce
 - Google Analytics: Standard + Blog + Goals
-- [Google Analytics: Standard + Blog + Ecommerce](https://datastudio.google.com/open/1mhFKT-lvu3GJWKTJ2-YxNZrVRg71YMVR) - for sites that have a blog and Enhanced Ecommerce set up in Google Analytics
-- [Google Analytics: Standard + Blog + Goals + Ecommerce](https://datastudio.google.com/open/1EaReqzhLwPjgKXC4tuYreRKcjGhm_XaV) - for sites that have a blog, Goals and Enhanced Ecommerce set up in Google Analytics
+- [Google Analytics: Standard + Blog + Ecommerce](https://datastudio.google.com/open/1mhFKT-lvu3GJWKTJ2-YxNZrVRg71YMVR) - for any website that uses Google Analytics and has Enhanced Ecommerce set up in Google Analytics
+- [Google Analytics: Standard + Blog + Goals + Ecommerce](https://datastudio.google.com/open/1EaReqzhLwPjgKXC4tuYreRKcjGhm_XaV) - for any website that uses Google Analytics and has a blog, Goals and Enhanced Ecommerce set up in Google Analytics
 
 Changelog:
 
@@ -23,7 +23,7 @@ Changelog:
 - Removed page descriptions from all pages
 - Added "Prepared with 'heart-icon' by YourCompanyName" in the footer of every page as a small branding accent
 - Decreased page side margins
-- Creating four variations of the report to avoid showing charts with no data
+- Creating report variations for specific use cases to avoid showing charts with no data
 - Tens of smaller improvements were made to the layout and charts
 
 ### Version 1.1
@@ -51,11 +51,12 @@ Changelog:
 
 ### Version 1.3
 
-[Google Analytics: Standard + Blog + Goals + Ecommerce + Ads](https://datastudio.google.com/open/1tQ6uCHDo7lIpHNnmmPFlHLLpuE9iw3D2)
+[Google Analytics: Standard + Blog + Goals + Ecommerce + Google Ads](https://datastudio.google.com/open/1tQ6uCHDo7lIpHNnmmPFlHLLpuE9iw3D2)
 
 Changelog:
 
 - Adding pages: Google Ads, Google Search Console, Facebook Ads
+- Corrected positive and negative colours for all page load and bounce rate scorecards
 - Tens of smaller improvements were made to the layout and charts
 
 ## Instructions
@@ -229,8 +230,12 @@ A/B Tests:
 It's a list of features that would make creating and managing reports in Google Data Studio much easier.
 
 - Relative links to pages in the report so that when you copy a report links don't point to the original report.
-- Editing text labels
-- Adding multiple comparison dates, e.g. MoM and YoY
+- Editing header text in tables, metrics name and comparison label in scorecards to make them more descriptive or shorter.
+- Adding multiple comparison dates in scorecards, tables, charts, etc., e.g. MoM and YoY.
 - Setting theme variable colours, which can be used as default colour by all tables, charts and graphs. The ideal solution would allow users to adjust the colours used by all tables, charts and graphs on all pages with a few clicks.
 - A way to show sessions by major browser versions, using dimensions or calculated fields, e.g. Chrome 72.0 instead of 72.0.3626.109, 72.0.3626.96, 72.0.3626.119, etc. Also there seems to be always zero after the first full stop. I wonder, why is that?
 - Taking the domain name from Google Analytics so that it can be used in calculated fields with hyperlinks and it does not need to be manually specified when the report is used for to analyse the traffic of a new website.
+- Having positive and negative change colours switched by default for the bounce rate and all page load. E.g. an increase in bounce rate showing by default in red, while a decrease in green.
+- Ability to set positive and negative change colours for each column with a '% Change' metric. E.g. the positive change colour for Sessions is green, while the positive change colour for bounce Rate should be red.
+- Renaming positive and negative change colours titles to increased and decreased change colours, as it's not always accurate. E.g. Increase in bounce rate or page load is not something positive for a website.
+- Official connector with Google My Business.
