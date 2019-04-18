@@ -24,7 +24,7 @@ Changelog:
 - Added "Prepared with 'heart-icon' by YourCompanyName" in the footer of every page as a small branding accent
 - Decreased page side margins
 - Creating report variations for specific use cases to avoid showing charts with no data
-- Tens of smaller improvements were made to the layout and charts
+- Tens of small improvements
 
 ### Version 1.1
 
@@ -35,7 +35,7 @@ Changelog:
 - Added pages: Audience, Page Load, Blog, Glossary
 - Expanded the Device page
 - Temporary removed linkings from the top navigation to avoid confusion when you copy the report and navigation items still linked to the original report
-- Tens of smaller improvements were made to the layout and charts
+- Tens of small improvements
 
 ### Version 1.0
 
@@ -55,9 +55,9 @@ Changelog:
 
 Changelog:
 
-- Adding pages: Google Ads, Google Search Console, Facebook Ads
+- Added pages: Ads 1, Ads 2
 - Corrected positive and negative colours for all page load and bounce rate scorecards
-- Tens of smaller improvements were made to the layout and charts
+- Tens of small improvements
 
 ## Instructions
 
@@ -76,7 +76,7 @@ Changelog:
    - Remove the "Company's Logo" placeholder. Once removed, it should automatically disappear from all pages. Then add your company's or client's logo by going to Insert (top navigation), then Image. Upload the logo, resize it a place in the top-left corner. Right-click on it, and select "Make report-level". The logo will appear on all pages in this report.
    - Replace "YourCompantName" in the footer with your company name.
    - Update a text field in the top-right corner so that it reflects the month and year from which the data was pulled.
-   - If your report includes the "Blog" page, you need to make the following changes: 1. In the section "Session by Authors" you need to edit the table and change dimension "Brands" to "Authors". 2. In the section "Session by Content Categories" you need to edit the table and change dimension "Product Categories" to "Post Categories". 3. Select "Resources" in the top navigation, then "Manage Filters". You will need to edit "Blog Pages" and "Blog as a Starting Point" filters by clicking the "EDIT" buttons. Replace "/google+" with the name of the directory that the blog posts contain in the URL. E.g. if you post URL look like www.example.com/blog/post-name/ enter in the field "/blog/", if it looks like www.example.com/insights/post-name/ enter in the field "/insights/".
+   - If the report includes the "Blog" page, you need to make the following changes: 1. In the section "Session by Authors" you need to edit the table and change dimension "Brands" to "Authors". 2. In the section "Session by Content Categories" you need to edit the table and change dimension "Product Categories" to "Post Categories". 3. Select "Resources" in the top navigation, then "Manage Filters". You will need to edit "Blog Pages" and "Blog as a Starting Point" filters by clicking the "EDIT" buttons. Replace "/google+" with the name of the directory that the blog posts contain in the URL. E.g. if you post URL look like www.example.com/blog/post-name/ enter in the field "/blog/", if it looks like www.example.com/insights/post-name/ enter in the field "/insights/".
 5. Optional improvements
    - make page names in the top navigation clickable by adding links to them
    - make titles of pages on a website clickable by creating a calculated filed like HYPERLINK(CONCAT("//mydomain.com", Page), Page Title)
@@ -112,7 +112,7 @@ If you are interested in making this Google Data Studio report template event be
 
 ## Credits
 
-This template couldn't be prepared without amazing people who experimented with Google Data Studio before and who shared their work with the community.
+This report template couldn't be prepared without amazing people who experimented with Google Data Studio before and shared their work with the community.
 
 ### Google Analytics Reports
 
@@ -138,24 +138,24 @@ Website Goals and page descriptions:
 
 Page Load:
 
-   - [https://datastudio.google.com/u/0/reporting/0B-7yurpNRXouUzNibGNsYlBzT2s/page/kKrB](https://datastudio.google.com/u/0/reporting/0B-7yurpNRXouUzNibGNsYlBzT2s/)
-   - [https://datastudio.google.com/reporting/0B1Pzjx-lZIhbYkNia3VqV3V2WDA/page/pjM](https://datastudio.google.com/reporting/0B1Pzjx-lZIhbYkNia3VqV3V2WDA/)
+   - [eCommerce speed](https://datastudio.google.com/u/0/reporting/0B-7yurpNRXouUzNibGNsYlBzT2s/) by Canonicalized
+   - [Demo - Technical performance indicators for your website](https://datastudio.google.com/reporting/0B1Pzjx-lZIhbYkNia3VqV3V2WDA/) by [Owox](https://www.owox.com/)
 
 Engagement:
 
-   - [https://datastudio.google.com/u/0/reporting/0ByVApA41aYJibW1feEkyWjNFN3c/page/q7E](https://datastudio.google.com/u/0/reporting/0ByVApA41aYJibW1feEkyWjNFN3c/)
+   - [Datasaurus-Rex Google Analytics & YouTube Dashboard](https://datastudio.google.com/u/0/reporting/0ByVApA41aYJibW1feEkyWjNFN3c/) by [Datasaurus Rex](https://datasaurus-rex.com/)
 
 Acquisition:
 
-   - [https://datastudio.google.com/u/0/reporting/0B_U5RNpwhcE6T19aRHE1QWRqN3M/page/UrhH](https://datastudio.google.com/u/0/reporting/0B_U5RNpwhcE6T19aRHE1QWRqN3M/)
+   - [GA Acquisition Overview with Data Control](https://datastudio.google.com/u/0/reporting/0B_U5RNpwhcE6T19aRHE1QWRqN3M/) by Unknown
 
 Behaviour:
 
-   - [https://datastudio.google.com/u/0/reporting/0B_U5RNpwhcE6dDFzTHNtMC1UZnc/page/ly5G](https://datastudio.google.com/u/0/reporting/0B_U5RNpwhcE6dDFzTHNtMC1UZnc/)
+   - [GA Behavior Overview with Data Control](https://datastudio.google.com/u/0/reporting/0B_U5RNpwhcE6dDFzTHNtMC1UZnc/) by [Waar Gaan We Eten](https://waargaanweeten.home.blog/)
 
 Ecommerce:
 
-   - [https://datastudio.google.com/u/0/reporting/0B2-rNcnRS4x5UG50LTBMT0E4aXM/page/nQN](https://datastudio.google.com/u/0/reporting/0B2-rNcnRS4x5UG50LTBMT0E4aXM/)
+   - [https://datastudio.google.com/u/0/reporting/0B2-rNcnRS4x5UG50LTBMT0E4aXM/page/nQN](https://datastudio.google.com/u/0/reporting/0B2-rNcnRS4x5UG50LTBMT0E4aXM/) by 
    - [https://datastudio.google.com/u/0/reporting/1rHTK9qrgLX695_W0fGTqPU-djw13O0Mm/page/zNjM](https://datastudio.google.com/u/0/reporting/1rHTK9qrgLX695_W0fGTqPU-djw13O0Mm/)
    - [https://datastudio.google.com/reporting/0BzHxHRjCBXe8WVRMa0tULUJGMm8/page/SZaD](https://datastudio.google.com/reporting/0BzHxHRjCBXe8WVRMa0tULUJGMm8/)
 
@@ -220,10 +220,10 @@ A/B Tests:
 
 ### Collections of Report Templates
 
-   - [https://datastudiogallery.appspot.com/gallery](https://datastudiogallery.appspot.com/gallery)
-   - [https://datastudio.google.com/u/0/reporting/0B2lgFyX5qOqhbFE5RllsdFdtMXc/page/0DlG](https://datastudio.google.com/u/0/reporting/0B2lgFyX5qOqhbFE5RllsdFdtMXc/)
+   - [Google Data Studio Report Gallery](https://datastudiogallery.appspot.com/gallery) by Google
+   - [Google Data Studio Resources](https://datastudio.google.com/u/0/reporting/0B2lgFyX5qOqhbFE5RllsdFdtMXc/) by [Helpfullee](https://helpfullee.com/)
    - [https://supermetrics.com/template-gallery/google-data-studio](https://supermetrics.com/template-gallery/google-data-studio)
-   - [https://datastudio.tumblr.com/](https://datastudio.tumblr.com/)
+   - [Google Data Studio Tumblr page](https://datastudio.tumblr.com/) by DataStudio
 
 ## Google Data Studio Feature Requests
 
