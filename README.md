@@ -204,25 +204,25 @@ This report template couldn't be prepared without amazing people who experimente
 
 ### Cloudflare Report
 
-   - [https://developers.cloudflare.com/logs/tutorials/analyze-logs-gcp/](https://developers.cloudflare.com/logs/tutorials/analyze-logs-gcp/)
+   - [Final - Cloudflare Logs Analysis for mydomain.com](https://datastudio.google.com/u/0/reporting/1ez3m7Yf8AZLfM6aYRjfgF0pPpRvOwhTh/) by [Cloudflare](https://www.cloudflare.com/)
 
 ### Errors Report
 
-   - [https://datastudio.google.com/reporting/0B1Pzjx-lZIhbYkNia3VqV3V2WDA/page/pjM](https://datastudio.google.com/reporting/0B1Pzjx-lZIhbYkNia3VqV3V2WDA/)
+   - [Demo - Technical performance indicators for your website](https://datastudio.google.com/reporting/0B1Pzjx-lZIhbYkNia3VqV3V2WDA/) by [Owox](https://www.owox.com/)
 
 ### Glossary Page
 
-   - [https://www.lovesdata.com/blog/google-analytics-glossary](https://www.lovesdata.com/blog/google-analytics-glossary)
+   - [The Ultimate Google Analytics Glossary – 2019 Edition](https://www.lovesdata.com/blog/google-analytics-glossary) by [Loves Data](https://www.lovesdata.com)
 
 ### A Guide to Designing a Report
 
-   - [https://supermetrics.com/blog/laws-ux-data-studio](https://supermetrics.com/blog/laws-ux-data-studio)
+   - [Perfect Your Google Data Studio Dashboards with 7 Laws of UX](https://supermetrics.com/blog/laws-ux-data-studio) by [Supermetrics](https://supermetrics.com/)
 
 ### A Collections of Google Data Studio Report Templates
 
    - [Google Data Studio Report Gallery](https://datastudiogallery.appspot.com/gallery) by Google
    - [Google Data Studio Resources](https://datastudio.google.com/u/0/reporting/0B2lgFyX5qOqhbFE5RllsdFdtMXc/) by [Helpfullee](https://helpfullee.com/)
-   - [https://supermetrics.com/template-gallery/google-data-studio](https://supermetrics.com/template-gallery/google-data-studio)
+   - [Google Data Studio templates](https://supermetrics.com/template-gallery/google-data-studio) by [Supermetrics](https://supermetrics.com/)
    - [Google Data Studio Tumblr page](https://datastudio.tumblr.com/) by DataStudio
 
 ## Google Data Studio Feature Requests
@@ -238,4 +238,4 @@ It's a list of features that would make creating and managing reports in Google 
 - Having positive and negative change colours switched by default for the bounce rate and all page load. E.g. an increase in bounce rate showing by default in red, while a decrease in green.
 - Ability to set positive and negative change colours for each column with a '% Change' metric. E.g. the positive change colour for Sessions is green, while the positive change colour for bounce Rate should be red.
 - Renaming positive and negative change colours titles to increased and decreased change colours, as it's not always accurate. E.g. Increase in bounce rate or page load is not something positive for a website.
-- Official connector with Google My Business.
+- Official Google My Business connector for Google Data Studio by Google.
