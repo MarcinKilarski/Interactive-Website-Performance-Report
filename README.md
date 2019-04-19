@@ -155,30 +155,30 @@ This report template couldn't be prepared without amazing people who experimente
 
 #### Ecommerce
 
-   - [[Sample] Google Merchandise Store Ecommerce Report](https://datastudio.google.com/u/0/reporting/0B2-rNcnRS4x5UG50LTBMT0E4aXM/) by 
-   - [https://datastudio.google.com/u/0/reporting/1rHTK9qrgLX695_W0fGTqPU-djw13O0Mm/page/zNjM](https://datastudio.google.com/u/0/reporting/1rHTK9qrgLX695_W0fGTqPU-djw13O0Mm/)
-   - [https://datastudio.google.com/reporting/0BzHxHRjCBXe8WVRMa0tULUJGMm8/page/SZaD](https://datastudio.google.com/reporting/0BzHxHRjCBXe8WVRMa0tULUJGMm8/)
+   - [Google Merchandise Store Ecommerce Report](https://datastudio.google.com/u/0/reporting/0B2-rNcnRS4x5UG50LTBMT0E4aXM/) by Unknown
+   - [Google Merchandise Store](https://datastudio.google.com/u/0/reporting/1rHTK9qrgLX695_W0fGTqPU-djw13O0Mm/) by [Digital Allies](https://digitalallies.co.uk/)
+   - [E-commerce Website Analytics Data Studio Report](https://datastudio.google.com/reporting/0BzHxHRjCBXe8WVRMa0tULUJGMm8/) by [Onur SOYLAN](https://www.linkedin.com/in/onursoylan/)
 
 #### Technology
 
-   - [https://datastudio.google.com/u/0/reporting/1k35R2Y1kSlcuZcsx08FqiRlaI7aLZGKr/page/zAqM](https://datastudio.google.com/u/0/reporting/1k35R2Y1kSlcuZcsx08FqiRlaI7aLZGKr/)
+   - [User Technology Report](https://datastudio.google.com/u/0/reporting/1k35R2Y1kSlcuZcsx08FqiRlaI7aLZGKr/) by [Anicca Digital](https://anicca.co.uk/)
 
 #### Content
 
-   - [https://datastudio.google.com/u/0/reporting/0B2NrKDhNqfULS3hGc0tFQTVKZzQ/page/1M](https://datastudio.google.com/u/0/reporting/0B2NrKDhNqfULS3hGc0tFQTVKZzQ/)
+   - [Blog Content Performance](https://datastudio.google.com/u/0/reporting/0B2NrKDhNqfULS3hGc0tFQTVKZzQ/) by Unknown
 
-#### Funnel
+#### Conversion Funnel
 
-   - [https://datastudio.google.com/u/0/reporting/1igHMbckc4tScPBcIX7pmzb1sGAeZHwZz/page/8yDZ](https://datastudio.google.com/u/0/reporting/1igHMbckc4tScPBcIX7pmzb1sGAeZHwZz/)
+   - [Funnel Visualizer by](https://datastudio.google.com/u/0/reporting/1igHMbckc4tScPBcIX7pmzb1sGAeZHwZz/) by [Click Targeter](https://www.clicktargeter.com/)
 
 #### Audience
 
-   - [https://datastudio.google.com/reporting/0B53LFtWUM76uT2RSVmZrMmE2bUk/page/7JPB](https://datastudio.google.com/reporting/0B53LFtWUM76uT2RSVmZrMmE2bUk/)
-   - [https://medium.com/centerforcooperativemedia/introducing-the-audience-explorer-dashboard-for-small-publishers-9fbff748c47](https://medium.com/centerforcooperativemedia/introducing-the-audience-explorer-dashboard-for-small-publishers-9fbff748c47)
+   - [La Crosse Audience Report](https://datastudio.google.com/reporting/0B53LFtWUM76uT2RSVmZrMmE2bUk/) by [River Valley Media Group](http://www.rivervalleymediagroup.com/)
+   - [Audience Explorer Analytics Dashboard](https://medium.com/centerforcooperativemedia/introducing-the-audience-explorer-dashboard-for-small-publishers-9fbff748c47) by [Ned Berke](https://www.linkedin.com/in/ned-berke/)
 
 #### A/B Tests
 
-   - [https://stories.scandiweb.com/live-mode-dashboard-for-a-b-test-results-with-data-studio-e3b476f181a8](https://stories.scandiweb.com/live-mode-dashboard-for-a-b-test-results-with-data-studio-e3b476f181a8)
+   - [Live-Mode Dashboard for A/B Test](https://stories.scandiweb.com/live-mode-dashboard-for-a-b-test-results-with-data-studio-e3b476f181a8) by [Scandiweb](https://scandiweb.com/)
 
 ### Google Search Console Reports
 
@@ -204,11 +204,11 @@ This report template couldn't be prepared without amazing people who experimente
 
 ### Cloudflare Report
 
-   - [Final - Cloudflare Logs Analysis for mydomain.com](https://datastudio.google.com/u/0/reporting/1ez3m7Yf8AZLfM6aYRjfgF0pPpRvOwhTh/) by [Cloudflare](https://www.cloudflare.com/)
+   - [Cloudflare Logs Analysis for mydomain.com](https://datastudio.google.com/u/0/reporting/1ez3m7Yf8AZLfM6aYRjfgF0pPpRvOwhTh/) by [Cloudflare](https://www.cloudflare.com/)
 
 ### Errors Report
 
-   - [Demo - Technical performance indicators for your website](https://datastudio.google.com/reporting/0B1Pzjx-lZIhbYkNia3VqV3V2WDA/) by [Owox](https://www.owox.com/)
+   - [Technical performance indicators for your website](https://datastudio.google.com/reporting/0B1Pzjx-lZIhbYkNia3VqV3V2WDA/) by [Owox](https://www.owox.com/)
 
 ### Glossary Page
 
@@ -218,7 +218,7 @@ This report template couldn't be prepared without amazing people who experimente
 
    - [Perfect Your Google Data Studio Dashboards with 7 Laws of UX](https://supermetrics.com/blog/laws-ux-data-studio) by [Supermetrics](https://supermetrics.com/)
 
-### A Collections of Google Data Studio Report Templates
+### Collections of Google Data Studio Report Templates
 
    - [Google Data Studio Report Gallery](https://datastudiogallery.appspot.com/gallery/) by Google
    - [Google Data Studio Resources](https://datastudio.google.com/u/0/reporting/0B2lgFyX5qOqhbFE5RllsdFdtMXc/) by [Helpfullee](https://helpfullee.com/)
