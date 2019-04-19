@@ -2,19 +2,19 @@
 
 ## Overview
 
-The report template is created for everyone who would like to analyse the performance of a website. It takes data from your site using Google Analytics and displays it in [Google Data Studio](https://datastudio.google.com/), Google's free online tool for visualising a large amount of data to get useful insights. Google Data Studio can load data from all kinds of sources, e.g. Google Analytics, Google Search Console, Google Ads, Facebook and a lot more.
+This report template is created for everyone who would like to analyse the performance of a website. It takes data from your site using Google Analytics and displays it in [Google Data Studio](https://datastudio.google.com/) (a free online tool for visualising a large amount of data), to find useful insights. Google Data Studio can load data from all kinds of sources, e.g. Google Analytics, Google Search Console, Google Ads, Facebook and a lot more.
 
 ## Versions Ready to Use
 
 ### Version 1.2
 
-- [Google Analytics: Standard](https://datastudio.google.com/open/1Jiavzc2nbjqSwVTwD5x5UNKHvI2JDLbd) - for any website that uses Google Analytics
-- [Google Analytics: Standard + Blog](https://datastudio.google.com/open/1MYPa8HNdkmAPOxifsimT87I1fWnMdX8n) - for any website that uses Google Analytics and has a blog
-- [Google Analytics: Standard + Goals](https://datastudio.google.com/open/1QZ_rwCEUBy-Mf_THaHWvM8pyxksHDqEU) - for any website that uses Google Analytics and has Goals set up in Google Analytics
-- Google Analytics: Standard + Ecommerce
-- Google Analytics: Standard + Blog + Goals
-- [Google Analytics: Standard + Blog + Ecommerce](https://datastudio.google.com/open/1mhFKT-lvu3GJWKTJ2-YxNZrVRg71YMVR) - for any website that uses Google Analytics and has Enhanced Ecommerce set up in Google Analytics
-- [Google Analytics: Standard + Blog + Goals + Ecommerce](https://datastudio.google.com/open/1EaReqzhLwPjgKXC4tuYreRKcjGhm_XaV) - for any website that uses Google Analytics and has a blog, Goals and Enhanced Ecommerce set up in Google Analytics
+- [Google Analytics: Standard](https://datastudio.google.com/open/1Jiavzc2nbjqSwVTwD5x5UNKHvI2JDLbd) - great for any website that uses Google Analytics
+- [Google Analytics: Standard + Blog](https://datastudio.google.com/open/1MYPa8HNdkmAPOxifsimT87I1fWnMdX8n) - great for any website that uses Google Analytics and has a blog
+- [Google Analytics: Standard + Goals](https://datastudio.google.com/open/1QZ_rwCEUBy-Mf_THaHWvM8pyxksHDqEU) - great for any website that uses Google Analytics and has Goals set up in Google Analytics
+- [Google Analytics: Standard + Ecommerce](https://datastudio.google.com/open/1M1UNeBzLJIWZaDhN0bISIzUZOF5fl8z9) - great for any website that uses Google Analytics and has Enhanced Ecommerce set up in Google Analytics
+- [Google Analytics: Standard + Blog + Goals](https://datastudio.google.com/open/1vVGsRNgXDsN_cmeTYsoJYT6BRDO7Z1qt) - great for any website that uses Google Analytics and has a blog and Goals set up in Google Analytics
+- [Google Analytics: Standard + Blog + Ecommerce](https://datastudio.google.com/open/1mhFKT-lvu3GJWKTJ2-YxNZrVRg71YMVR) - great for any website that uses Google Analytics and has Enhanced Ecommerce set up in Google Analytics
+- [Google Analytics: Standard + Blog + Goals + Ecommerce](https://datastudio.google.com/open/1EaReqzhLwPjgKXC4tuYreRKcjGhm_XaV) - great for any website that uses Google Analytics and has a blog, Goals and Enhanced Ecommerce set up in Google Analytics
 
 Changelog:
 
@@ -108,7 +108,7 @@ If you are interested in making this Google Data Studio report template event be
 ## Helpful Resources
 
 - [What's new in Google Data Studio](https://support.google.com/datastudio/answer/6311467)
-- [A list of functions available for calculated fields](https://support.google.com/datastudio/table/6379764)
+- [A list of available functions for calculated fields](https://support.google.com/datastudio/table/6379764)
 
 ## Credits
 
@@ -155,7 +155,7 @@ This report template couldn't be prepared without amazing people who experimente
 
 #### Ecommerce
 
-   - [https://datastudio.google.com/u/0/reporting/0B2-rNcnRS4x5UG50LTBMT0E4aXM/page/nQN](https://datastudio.google.com/u/0/reporting/0B2-rNcnRS4x5UG50LTBMT0E4aXM/) by 
+   - [[Sample] Google Merchandise Store Ecommerce Report](https://datastudio.google.com/u/0/reporting/0B2-rNcnRS4x5UG50LTBMT0E4aXM/) by 
    - [https://datastudio.google.com/u/0/reporting/1rHTK9qrgLX695_W0fGTqPU-djw13O0Mm/page/zNjM](https://datastudio.google.com/u/0/reporting/1rHTK9qrgLX695_W0fGTqPU-djw13O0Mm/)
    - [https://datastudio.google.com/reporting/0BzHxHRjCBXe8WVRMa0tULUJGMm8/page/SZaD](https://datastudio.google.com/reporting/0BzHxHRjCBXe8WVRMa0tULUJGMm8/)
 
@@ -220,7 +220,7 @@ This report template couldn't be prepared without amazing people who experimente
 
 ### A Collections of Google Data Studio Report Templates
 
-   - [Google Data Studio Report Gallery](https://datastudiogallery.appspot.com/gallery) by Google
+   - [Google Data Studio Report Gallery](https://datastudiogallery.appspot.com/gallery/) by Google
    - [Google Data Studio Resources](https://datastudio.google.com/u/0/reporting/0B2lgFyX5qOqhbFE5RllsdFdtMXc/) by [Helpfullee](https://helpfullee.com/)
    - [Google Data Studio templates](https://supermetrics.com/template-gallery/google-data-studio) by [Supermetrics](https://supermetrics.com/)
    - [Google Data Studio Tumblr page](https://datastudio.tumblr.com/) by DataStudio
