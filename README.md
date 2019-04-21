@@ -8,13 +8,13 @@ This report template is created for everyone who would like to analyse the perfo
 
 ### Version 1.2
 
-- [Google Analytics (Basic)](https://datastudio.google.com/open/1Jiavzc2nbjqSwVTwD5x5UNKHvI2JDLbd) - designed for any website that uses Google Analytics
-- [Google Analytics (Basic + Blog)](https://datastudio.google.com/open/1MYPa8HNdkmAPOxifsimT87I1fWnMdX8n) - designed for any website that uses Google Analytics and has a blog
-- [Google Analytics (Basic + Goals)](https://datastudio.google.com/open/1QZ_rwCEUBy-Mf_THaHWvM8pyxksHDqEU) - designed for any website that uses Google Analytics and has Goals set up in Google Analytics
-- [Google Analytics (Basic + Ecommerce)](https://datastudio.google.com/open/1M1UNeBzLJIWZaDhN0bISIzUZOF5fl8z9) - designed for any website that uses Google Analytics and has Enhanced Ecommerce set up in Google Analytics
-- [Google Analytics (Basic + Blog + Goals)](https://datastudio.google.com/open/1vVGsRNgXDsN_cmeTYsoJYT6BRDO7Z1qt) - designed for any website that uses Google Analytics and has a blog and Goals set up in Google Analytics
-- [Google Analytics (Basic + Blog + Ecommerce)](https://datastudio.google.com/open/1mhFKT-lvu3GJWKTJ2-YxNZrVRg71YMVR) - designed for any website that uses Google Analytics and has Enhanced Ecommerce set up in Google Analytics
-- [Google Analytics (Basic + Blog + Goals + Ecommerce)](https://datastudio.google.com/open/1EaReqzhLwPjgKXC4tuYreRKcjGhm_XaV) - designed for any website that uses Google Analytics and has a blog, Goals and Enhanced Ecommerce set up in Google Analytics
+- [Google Analytics (Basic)](https://datastudio.google.com/open/1Jiavzc2nbjqSwVTwD5x5UNKHvI2JDLbd/) - designed for any website that uses Google Analytics
+- [Google Analytics (Basic + Blog)](https://datastudio.google.com/open/1MYPa8HNdkmAPOxifsimT87I1fWnMdX8n/) - designed for any website that uses Google Analytics and has a blog
+- [Google Analytics (Basic + Goals)](https://datastudio.google.com/open/1QZ_rwCEUBy-Mf_THaHWvM8pyxksHDqEU/) - designed for any website that uses Google Analytics and has Goals set up in Google Analytics
+- [Google Analytics (Basic + Ecommerce)](https://datastudio.google.com/open/1M1UNeBzLJIWZaDhN0bISIzUZOF5fl8z9/) - designed for any website that uses Google Analytics and has Enhanced Ecommerce set up in Google Analytics
+- [Google Analytics (Basic + Blog + Goals)](https://datastudio.google.com/open/1vVGsRNgXDsN_cmeTYsoJYT6BRDO7Z1qt/) - designed for any website that uses Google Analytics and has a blog and Goals set up in Google Analytics
+- [Google Analytics (Basic + Blog + Ecommerce)](https://datastudio.google.com/open/1mhFKT-lvu3GJWKTJ2-YxNZrVRg71YMVR/) - designed for any website that uses Google Analytics and has Enhanced Ecommerce set up in Google Analytics
+- [Google Analytics (Basic + Blog + Goals + Ecommerce)](https://datastudio.google.com/open/1EaReqzhLwPjgKXC4tuYreRKcjGhm_XaV/ - designed for any website that uses Google Analytics and has a blog, Goals and Enhanced Ecommerce set up in Google Analytics
 
 Changelog:
 
@@ -28,7 +28,7 @@ Changelog:
 
 ### Version 1.1
 
-[Google Analytics (Basic + Blog + Goals + Ecommerce)](https://datastudio.google.com/open/1xfWErOo4-xmK8jqVG-74lfMDLeyOfA2q) - designed for any website that uses Google Analytics and has a blog, Goals and Enhanced Ecommerce set up in Google Analytics
+[Google Analytics (Basic + Blog + Goals + Ecommerce)](https://datastudio.google.com/open/1xfWErOo4-xmK8jqVG-74lfMDLeyOfA2q/) - designed for any website that uses Google Analytics and has a blog, Goals and Enhanced Ecommerce set up in Google Analytics
 
 Changelog:
 
@@ -39,7 +39,7 @@ Changelog:
 
 ### Version 1.0
 
-[Google Analytics (Basic + Goals + Ecommerce)](https://datastudio.google.com/open/1vNN1hnIoxbxz88Jv7LvO1VF6OZwJ07xW) - designed for any website that uses Google Analytics and has Goals and Enhanced Ecommerce set up in Google Analytics
+[Google Analytics (Basic + Goals + Ecommerce)](https://datastudio.google.com/open/1vNN1hnIoxbxz88Jv7LvO1VF6OZwJ07xW/) - designed for any website that uses Google Analytics and has Goals and Enhanced Ecommerce set up in Google Analytics
 
 Changelog:
 
@@ -51,7 +51,7 @@ Changelog:
 
 ### Version 1.3
 
-[Google Analytics (Basic + Blog + Goals + Ecommerce) & Google Ads](https://datastudio.google.com/open/1tQ6uCHDo7lIpHNnmmPFlHLLpuE9iw3D2) - designed for any website that uses Google Analytics, has a blog, Goals and Enhanced Ecommerce set up in Google Analytics and uses Google Ads to promote this website online
+[Google Analytics (Basic + Blog + Goals + Ecommerce) & Google Ads](https://datastudio.google.com/open/1tQ6uCHDo7lIpHNnmmPFlHLLpuE9iw3D2/) - designed for any website that uses Google Analytics, has a blog, Goals and Enhanced Ecommerce set up in Google Analytics and uses Google Ads to promote this website online
 
 Changelog:
 
@@ -62,7 +62,7 @@ Changelog:
 ## Instructions
 
 1. Log into your Google Data Studio account
-   - Log into your Google Data Studio or [create a free account](https://datastudio.google.com/)
+   - Log into your Google Data Studio or [create a free account](https://datastudio.google.com)
 2. Selecting a report
    - Click on a link to one of the reports that you would like to use above.
 3. Copy the report
@@ -108,8 +108,8 @@ If you are interested in making this Google Data Studio report template event be
 
 ## Helpful Resources
 
-- [What's new in Google Data Studio](https://support.google.com/datastudio/answer/6311467)
-- [A list of available functions for calculated fields](https://support.google.com/datastudio/table/6379764)
+- [What's new in Google Data Studio](https://support.google.com/datastudio/answer/6311467/)
+- [A list of available functions for calculated fields](https://support.google.com/datastudio/table/6379764/)
 
 ## Credits
 
@@ -144,7 +144,7 @@ This report template couldn't be prepared without amazing people who experimente
 
 #### Engagement
 
-   - [Datasaurus-Rex Google Analytics & YouTube Dashboard](https://datastudio.google.com/u/0/reporting/0ByVApA41aYJibW1feEkyWjNFN3c/) by [Datasaurus Rex](https://datasaurus-rex.com/)
+   - [Datasaurus-Rex Google Analytics & YouTube Dashboard](https://datastudio.google.com/u/0/reporting/0ByVApA41aYJibW1feEkyWjNFN3c/) by [Datasaurus Rex](https://datasaurus-rex.com)
 
 #### Acquisition
 
