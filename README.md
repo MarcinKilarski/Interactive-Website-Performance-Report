@@ -231,15 +231,15 @@ This report template couldn't be prepared without amazing people who experimente
 
 It's a list of features that would make creating and managing reports in Google Data Studio much easier.
 
-- Relative links to pages in the report so that when you copy a report links don't point to the original report.
-- Editing header text in tables, metrics name and comparison label in scorecards to make them more descriptive or shorter.
+- An ability to use relative links to pages in the report so that when you copy a report links don't point to the original report, e.g. /page/FChm/
+- Editing the header text in tables, metrics name and comparison label in scorecards to make them more descriptive or shorter.
 - Adding multiple comparison dates in scorecards, tables, charts, etc., e.g. MoM and YoY.
 - Setting theme variable colours, which can be used as default colour by all tables, charts and graphs. The ideal solution would allow users to adjust the colours used by all tables, charts and graphs on all pages with a few clicks.
 - A way to show sessions by major browser versions, using dimensions or calculated fields, e.g. Chrome 72.0 instead of 72.0.3626.109, 72.0.3626.96, 72.0.3626.119, etc. Also there seems to be always zero after the first full stop. I wonder, why is that?
-- Taking the domain name from Google Analytics so that it can be used in calculated fields with hyperlinks and it does not need to be manually specified when the report is used for to analyse the traffic of a new website.
-- Having positive and negative change colours switched by default for the bounce rate and all page load. E.g. an increase in bounce rate showing by default in red, while a decrease in green.
+- Taking the domain name from a Google Analytics property so that it can be used in calculated fields with hyperlinks and it does not need to be manually specified when the report is used for to analyse the traffic of a new website.
+- Having a 'positive change colour' and 'negative change colour' switched colours by default for the bounce rate and all page load. E.g. an increase in bounce rate showing by default in red, while a decrease in green.
 - Ability to set positive and negative change colours for each column with a '% Change' metric. E.g. the positive change colour for Sessions is green, while the positive change colour for bounce Rate should be red.
-- Renaming positive and negative change colours titles to increased and decreased change colours, as it's not always accurate. E.g. Increase in bounce rate or page load is not something positive for a website.
+- Renaming the 'positive change colour' and 'negative change colour' titles to 'increased value color' and 'decreased value colour', as it's not always accurate. E.g. Increase in bounce rate or page load is not something positive for a website.
 - Official Google My Business connector for Google Data Studio by Google.
 
 ## Google Data Studio Bugs
