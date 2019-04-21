@@ -240,3 +240,4 @@ It's a list of features that would make creating and managing reports in Google 
 - Ability to set positive and negative change colours for each column with a '% Change' metric. E.g. the positive change colour for Sessions is green, while the positive change colour for bounce Rate should be red.
 - Renaming positive and negative change colours titles to increased and decreased change colours, as it's not always accurate. E.g. Increase in bounce rate or page load is not something positive for a website.
 - Official Google My Business connector for Google Data Studio by Google.
+- On laptops, reports with a title over 85 characters start to push the 'Edit' button off the screen making it invisible for users. It would be great to have a small icon appear in the bottom-right corner of the header allowing users to show the end of the header by moving all items to the left when UI elements (e.g.icons, buttons) are pushed off the screen.
