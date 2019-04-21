@@ -8,27 +8,27 @@ This report template is created for everyone who would like to analyse the perfo
 
 ### Version 1.2
 
-- [Google Analytics: Standard](https://datastudio.google.com/open/1Jiavzc2nbjqSwVTwD5x5UNKHvI2JDLbd) - great for any website that uses Google Analytics
-- [Google Analytics: Standard + Blog](https://datastudio.google.com/open/1MYPa8HNdkmAPOxifsimT87I1fWnMdX8n) - great for any website that uses Google Analytics and has a blog
-- [Google Analytics: Standard + Goals](https://datastudio.google.com/open/1QZ_rwCEUBy-Mf_THaHWvM8pyxksHDqEU) - great for any website that uses Google Analytics and has Goals set up in Google Analytics
-- [Google Analytics: Standard + Ecommerce](https://datastudio.google.com/open/1M1UNeBzLJIWZaDhN0bISIzUZOF5fl8z9) - great for any website that uses Google Analytics and has Enhanced Ecommerce set up in Google Analytics
-- [Google Analytics: Standard + Blog + Goals](https://datastudio.google.com/open/1vVGsRNgXDsN_cmeTYsoJYT6BRDO7Z1qt) - great for any website that uses Google Analytics and has a blog and Goals set up in Google Analytics
-- [Google Analytics: Standard + Blog + Ecommerce](https://datastudio.google.com/open/1mhFKT-lvu3GJWKTJ2-YxNZrVRg71YMVR) - great for any website that uses Google Analytics and has Enhanced Ecommerce set up in Google Analytics
-- [Google Analytics: Standard + Blog + Goals + Ecommerce](https://datastudio.google.com/open/1EaReqzhLwPjgKXC4tuYreRKcjGhm_XaV) - great for any website that uses Google Analytics and has a blog, Goals and Enhanced Ecommerce set up in Google Analytics
+- [Google Analytics (Basic)](https://datastudio.google.com/open/1Jiavzc2nbjqSwVTwD5x5UNKHvI2JDLbd) - designed for any website that uses Google Analytics
+- [Google Analytics (Basic + Blog)](https://datastudio.google.com/open/1MYPa8HNdkmAPOxifsimT87I1fWnMdX8n) - designed for any website that uses Google Analytics and has a blog
+- [Google Analytics (Basic + Goals)](https://datastudio.google.com/open/1QZ_rwCEUBy-Mf_THaHWvM8pyxksHDqEU) - designed for any website that uses Google Analytics and has Goals set up in Google Analytics
+- [Google Analytics (Basic + Ecommerce)](https://datastudio.google.com/open/1M1UNeBzLJIWZaDhN0bISIzUZOF5fl8z9) - designed for any website that uses Google Analytics and has Enhanced Ecommerce set up in Google Analytics
+- [Google Analytics (Basic + Blog + Goals)](https://datastudio.google.com/open/1vVGsRNgXDsN_cmeTYsoJYT6BRDO7Z1qt) - designed for any website that uses Google Analytics and has a blog and Goals set up in Google Analytics
+- [Google Analytics (Basic + Blog + Ecommerce)](https://datastudio.google.com/open/1mhFKT-lvu3GJWKTJ2-YxNZrVRg71YMVR) - designed for any website that uses Google Analytics and has Enhanced Ecommerce set up in Google Analytics
+- [Google Analytics (Basic + Blog + Goals + Ecommerce)](https://datastudio.google.com/open/1EaReqzhLwPjgKXC4tuYreRKcjGhm_XaV) - designed for any website that uses Google Analytics and has a blog, Goals and Enhanced Ecommerce set up in Google Analytics
 
 Changelog:
 
 - Added filters: date range, marketing channel, country, device and gender
 - Added new content to the following pages: Engagement and Glossary
 - Removed page descriptions from all pages
-- Added "Prepared with 'heart-icon' by YourCompanyName" in the footer of every page as a small branding accent
+- Added 'Prepared with `[heart-icon]` by YourCompanyName' in the footer of every page as a small branding accent
 - Decreased page side margins
 - Creating report variations for specific use cases to avoid showing charts with no data
 - Tens of small improvements
 
 ### Version 1.1
 
-[Google Analytics: Standard + Blog + Goals + Ecommerce](https://datastudio.google.com/open/1xfWErOo4-xmK8jqVG-74lfMDLeyOfA2q)
+[Google Analytics (Basic + Blog + Goals + Ecommerce)](https://datastudio.google.com/open/1xfWErOo4-xmK8jqVG-74lfMDLeyOfA2q) - designed for any website that uses Google Analytics and has a blog, Goals and Enhanced Ecommerce set up in Google Analytics
 
 Changelog:
 
@@ -39,7 +39,7 @@ Changelog:
 
 ### Version 1.0
 
-[Google Analytics: Standard + Goals + Ecommerce](https://datastudio.google.com/open/1vNN1hnIoxbxz88Jv7LvO1VF6OZwJ07xW)
+[Google Analytics (Basic + Goals + Ecommerce)](https://datastudio.google.com/open/1vNN1hnIoxbxz88Jv7LvO1VF6OZwJ07xW) - designed for any website that uses Google Analytics and has Goals and Enhanced Ecommerce set up in Google Analytics
 
 Changelog:
 
@@ -51,7 +51,7 @@ Changelog:
 
 ### Version 1.3
 
-[Google Analytics: Standard + Blog + Goals + Ecommerce + Google Ads](https://datastudio.google.com/open/1tQ6uCHDo7lIpHNnmmPFlHLLpuE9iw3D2)
+[Google Analytics (Basic + Blog + Goals + Ecommerce) & Google Ads](https://datastudio.google.com/open/1tQ6uCHDo7lIpHNnmmPFlHLLpuE9iw3D2) - designed for any website that uses Google Analytics, has a blog, Goals and Enhanced Ecommerce set up in Google Analytics and uses Google Ads to promote this website online
 
 Changelog:
 
@@ -68,32 +68,33 @@ Changelog:
 3. Copy the report
    - Move your mouse cursor to the top edge of the report window. The top navigation will appear.
    - On the right-hand side, you will see an icon with two rectangles, one on top of another. Click on it to make a copy of the report.
-   - In a pop-up window, select a new Data Source. You can use a "Sample Google Analytics Data" if you would like to just play with the report or click on a drop-down field below heading the "New Data Source". Then click "Create New Data Source" button at the bottom if you would like to use data from one of the sites that you manage. In the search box, type "Google Analytics" and select it. Then press an "Authorize" button, and "Allow" on a page that will appear. Now select a Google Analytics account, then a property, and finally a view of the website for which you would like to use this report. Next press "Connect" button in the top-right corner. Then "Add to Report" button in the top-right corner. Then press "Copy report" button. You can find more information about this step in [Google Analytics data source tutorial](https://support.google.com/datastudio/answer/6295036?hl=en) at the Google Help Center.
-   - Give it an appropriate name like "Website Performance Report for Company X - March 2019" by clicking on the text "Website Performance Report..." in the top-right corner.
+   - In a pop-up window, select a new Data Source. You can use a 'Sample Google Analytics Data' if you would like to just play with the report or click on a drop-down field below heading the 'New Data Source'. Then click 'Create New Data Source' button at the bottom if you would like to use data from one of the sites that you manage. In the search box, type 'Google Analytics' and select it. Then press an 'Authorize' button, and 'Allow' on a page that will appear. Now select a Google Analytics account, then a property, and finally a view of the website for which you would like to use this report. Next press 'Connect' button in the top-right corner. Then 'Add to Report' button in the top-right corner. Then press 'Copy report' button. You can find more information about this step in [Google Analytics data source tutorial](https://support.google.com/datastudio/answer/6295036?hl=en) at the Google Help Center.
+   - Give it an appropriate name like 'Website Performance Report for Company X - March 2019' by clicking on the text 'Website Performance Report...' in the top-right corner.
 4. Edit the report
-   - If you are not in the "Edit mode". Move your mouse cursor to the top edge of the report window. Top navigation will appear. Then click a grey button that says "Edit". Now, you can change every single thing in this report.
-   - Go to "File" (top navigation) > select "Report Settings" > select the date range for which you would like to show the data (to be able to do it, you need first select the report-level data source). Once done, it will be updated on all pages.
-   - Remove the "Company's Logo" placeholder. Once removed, it should automatically disappear from all pages. Then add your company's or client's logo by going to Insert (top navigation), then Image. Upload the logo, resize it a place in the top-left corner. Right-click on it, and select "Make report-level". The logo will appear on all pages in this report.
-   - Replace "YourCompantName" in the footer with your company name.
+   - If you are not in the 'Edit mode'. Move your mouse cursor to the top edge of the report window. Top navigation will appear. Then click a grey button that says 'Edit'. Now, you can change every single thing in this report.
+   - Go to 'File' (top navigation) > select 'Report Settings' > select the date range for which you would like to show the data (to be able to do it, you need first select the report-level data source). Once done, it will be updated on all pages.
+   - Remove the 'Company's Logo' placeholder. Once removed, it should automatically disappear from all pages. Then add your company's or client's logo by going to Insert (top navigation), then Image. Upload the logo, resize it a place in the top-left corner. Right-click on it, and select 'Make report-level'. The logo will appear on all pages in this report.
+   - Replace 'YourCompantName' in the footer with your company name.
    - Update a text field in the top-right corner so that it reflects the month and year from which the data was pulled.
-   - If the report includes the "Blog" page, you need to make the following changes: 1. In the section "Session by Authors" you need to edit the table and change dimension "Brands" to "Authors". 2. In the section "Session by Content Categories" you need to edit the table and change dimension "Product Categories" to "Post Categories". 3. Select "Resources" in the top navigation, then "Manage Filters". You will need to edit "Blog Pages" and "Blog as a Starting Point" filters by clicking the "EDIT" buttons. Replace "/google+" with the name of the directory that the blog posts contain in the URL. E.g. if you post URL look like www.example.com/blog/post-name/ enter in the field "/blog/", if it looks like www.example.com/insights/post-name/ enter in the field "/insights/".
+   - If the report includes the 'Blog' page, you need to make the following changes: 1. In the section 'Session by Authors' you need to edit the table and change dimension 'Brands' to 'Authors'. 2. In the section 'Session by Content Categories' you need to edit the table and change dimension 'Product Categories' to 'Post Categories'. 3. Select 'Resources' in the top navigation, then 'Manage Filters'. You will need to edit 'Blog Pages' and 'Blog as a Starting Point' filters by clicking the 'EDIT' buttons. Replace '/google+' with the name of the directory that the blog posts contain in the URL. E.g. if you post URL look like www.example.com/blog/post-name/ enter in the field '/blog/', if it looks like www.example.com/insights/post-name/ enter in the field '/insights/'.
 5. Optional improvements
    - make page names in the top navigation clickable by adding links to them
    - make titles of pages on a website clickable by creating a calculated filed like HYPERLINK(CONCAT("//mydomain.com", Page), Page Title)
    - Add any branding that you want (e.g. your company logo, contact details, change the used colour, etc.).
+   - add a Google Analytics tracking code to the report by creating a new Google Analytics account or just a property. Then copying the tracking ID into your Google Data Studio report, under 'File' (top navigation) > 'Report Settings' > 'Google Analytics Tracking ID' section. It allows you to analyse how your client uses the report to make it even better.
 6. Check each page
    - Glance through each page to check if you are happy with everything. For some sites, a few charts might not show data. Report an issue on GitHub, and I will try to help you out.
 7. Sharing report
    - To share a link to the report with your client or your team, click on an icon of a person with the plus sign beside in the top right-hand corner. Enter an email or a person that you would like to send an invitation to see this report. In the drop-down field on the right-hand side select if you would like to give that person an editor only viewer permission.
-   - To save the report as a PDF and send a static version of it to the customer. To do it, go to "File" (top navigation), select "Download as" > select "PDF".
+   - To save the report as a PDF and send a static version of it to the customer. To do it, go to 'File' (top navigation), select 'Download as' > select 'PDF'.
 8. Navigating the report
-   - To navigate the report use the "right" and "left" arrows on your keyboard to see the next and previous page respectively.
+   - To navigate the report use the 'right' and 'left' arrows on your keyboard to see the next and previous page respectively.
 
 ## An Open-Source License
 
 License: MIT license
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this report template and associated documentation files (the "Report"), to deal in the Report without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Report, and to permit persons to whom the Report is furnished to do so.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this report template and associated documentation files (the 'Report'), to deal in the Report without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Report, and to permit persons to whom the Report is furnished to do so.
 
 ## Call for Contributors
 
@@ -206,7 +207,7 @@ This report template couldn't be prepared without amazing people who experimente
 
    - [Cloudflare Logs Analysis for mydomain.com](https://datastudio.google.com/u/0/reporting/1ez3m7Yf8AZLfM6aYRjfgF0pPpRvOwhTh/) by [Cloudflare](https://www.cloudflare.com/)
 
-### Errors Report
+### Error Report
 
    - [Technical performance indicators for your website](https://datastudio.google.com/reporting/0B1Pzjx-lZIhbYkNia3VqV3V2WDA/) by [Owox](https://www.owox.com/)
 
