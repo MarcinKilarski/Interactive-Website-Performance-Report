@@ -184,25 +184,25 @@ This report template couldn't be prepared without amazing people who experimente
 
 ### Google Search Console Reports
 
-   - [http://online-behavior.com/analytics/search-console-data-studio](http://online-behavior.com/analytics/search-console-data-studio)
-   - [https://www.aleydasolis.com/en/search-engine-optimization/using-google-data-studio-actionable-search-console-performance-report/](https://www.aleydasolis.com/en/search-engine-optimization/using-google-data-studio-actionable-search-console-performance-report/)
-   - [https://helpfullee.com/google-search-console-data-studio-1/](https://helpfullee.com/google-search-console-data-studio-1/)
-   - [https://medium.com/@singularbean/google-search-console-data-into-google-bigquery-3e794127fa08](https://medium.com/@singularbean/google-search-console-data-into-google-bigquery-3e794127fa08)
+   - [Reporting Search Performance in Google Data Studio](http://online-behavior.com/analytics/search-console-data-studio) by [Online Behavior](https://online-behavior.com/)
+   - [Using Google Data Studio for a more actionable Google Search Console Performance Dashboard](https://www.aleydasolis.com/en/search-engine-optimization/using-google-data-studio-actionable-search-console-performance-report/) by [Aleyda Solis](https://www.aleydasolis.com)
+   - [Google Search Console and Data Studio for SEO Questions Analysis](https://helpfullee.com/google-search-console-data-studio-1/) by [Helpfullee](https://helpfullee.com)
+   - [Google Search Console Data into Google BigQuery](https://medium.com/@singularbean/google-search-console-data-into-google-bigquery-3e794127fa08) by [Ben Powis](https://www.linkedin.com/in/benpowis/)
 
 ### Google Ads Reports
 
-   - [https://datastudio.google.com/u/0/reporting/0B_U5RNpwhcE6ckdmZEJ0ZDJXUnM/page/VgD](https://datastudio.google.com/u/0/reporting/0B_U5RNpwhcE6ckdmZEJ0ZDJXUnM/)
-   - [https://datastudio.google.com/u/0/reporting/1IdigljFLqsYdRgIv2se_r4c4fXL45-18/page/hpbQ](https://datastudio.google.com/u/0/reporting/1IdigljFLqsYdRgIv2se_r4c4fXL45-18/)
-   - [https://oneppcagency.co.uk/everything-else/data-studio-adwords-template/](https://oneppcagency.co.uk/everything-else/data-studio-adwords-template/)
-   - [https://datastudio.google.com/reporting/0BzxVL_5BUjZhWm93VHJFZHl3NGs/page/B2GB](https://datastudio.google.com/reporting/0BzxVL_5BUjZhWm93VHJFZHl3NGs/)
+   - [Google Ads Overview Report](https://datastudio.google.com/u/0/reporting/0B_U5RNpwhcE6ckdmZEJ0ZDJXUnM/) by Google
+   - [Adwords Sample Report](https://datastudio.google.com/u/0/reporting/1IdigljFLqsYdRgIv2se_r4c4fXL45-18/) by [Resultrix](http://www.resultrix.com/)
+   - [Adwords Data Studio Template Report (Free Google Ads)](https://oneppcagency.co.uk/everything-else/data-studio-adwords-template/) by [One PPC](https://oneppcagency.co.uk)
+   - [Google AdWords Dashboard](https://datastudio.google.com/reporting/0BzxVL_5BUjZhWm93VHJFZHl3NGs/) by [Christian Penseler](https://www.christian-penseler.de/)
 
 ### Social Media Reports
 
-   - [https://datastudio.google.com/u/0/reporting/0BxGPgjQHCLwZWVAyNDJMLVNYWFU/page/mA7C](https://datastudio.google.com/u/0/reporting/0BxGPgjQHCLwZWVAyNDJMLVNYWFU/)
-   - [https://datastudio.google.com/u/0/reporting/1hSOTY3Ea_fMmdylPu5ZVxow4-YkvCDYK/page/KgJb](https://datastudio.google.com/u/0/reporting/1hSOTY3Ea_fMmdylPu5ZVxow4-YkvCDYK/)
-   - [https://datastudio.google.com/reporting/0B1Pzjx-lZIhbS2FjM19Hdl8xLXc/page/dXmD](https://datastudio.google.com/reporting/0B1Pzjx-lZIhbS2FjM19Hdl8xLXc/)
-   - [https://www.rivaliq.com/blog/ultimate-social-media-analytics-dashboard/](https://www.rivaliq.com/blog/ultimate-social-media-analytics-dashboard/)
-   - [https://www.lovesdata.com/blog/social-dashboard-google-data-studio](https://www.lovesdata.com/blog/social-dashboard-google-data-studio)
+   - [Facebook Ads Overview Report - GSheets version](https://datastudio.google.com/u/0/reporting/0BxGPgjQHCLwZWVAyNDJMLVNYWFU/) by [Supermetrics](https://supermetrics.com/)
+   - [Facebook Campaign Insights](https://datastudio.google.com/u/0/reporting/1hSOTY3Ea_fMmdylPu5ZVxow4-YkvCDYK/) by [The Next Ad](https://www.thenextad.com/)
+   - [Facebook Ads Insights](https://datastudio.google.com/reporting/0B1Pzjx-lZIhbS2FjM19Hdl8xLXc/) by [Owox](https://www.owox.com/)
+   - [The Ultimate Social Media Analytics Dashboard and Reporting Guide](https://www.rivaliq.com/blog/ultimate-social-media-analytics-dashboard/) by [Rival IQ](https://www.rivaliq.com/)
+   - [Creating a Social Dashboard with Google Data Studio](https://www.lovesdata.com/blog/social-dashboard-google-data-studio) by [Loves Data](https://www.lovesdata.com)
 
 ### Cloudflare Report
 
