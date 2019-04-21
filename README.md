@@ -33,7 +33,7 @@ Changelog:
 Changelog:
 
 - Added pages: Audience, Page Load, Blog, Glossary
-- Expanded the Device page
+- Expanded pages: Device
 - Temporary removed linkings from the top navigation to avoid confusion when you copy the report and navigation items still linked to the original report
 - Tens of small improvements
 
@@ -57,6 +57,7 @@ Changelog:
 
 - Added pages: Ads 1, Ads 2
 - Corrected positive and negative colours for all page load and bounce rate scorecards
+- Expanded pages: Glossary
 - Tens of small improvements
 
 ## Instructions
@@ -240,4 +241,8 @@ It's a list of features that would make creating and managing reports in Google 
 - Ability to set positive and negative change colours for each column with a '% Change' metric. E.g. the positive change colour for Sessions is green, while the positive change colour for bounce Rate should be red.
 - Renaming positive and negative change colours titles to increased and decreased change colours, as it's not always accurate. E.g. Increase in bounce rate or page load is not something positive for a website.
 - Official Google My Business connector for Google Data Studio by Google.
+
+## Google Data Studio Bugs
+
+- When you are picking a custom colour for an item, the current colour has always attached additional 'ff' at the end of the Hex Code.
 - On laptops, reports with a title over 85 characters start to push the 'Edit' button off the screen making it invisible for users. It would be great to have a small icon appear in the bottom-right corner of the header allowing users to show the end of the header by moving all items to the left when UI elements (e.g.icons, buttons) are pushed off the screen.
