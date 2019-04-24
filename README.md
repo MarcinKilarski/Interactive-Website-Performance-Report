@@ -1,8 +1,10 @@
 ![A screenshot of nine pages with charts and tables from the report template](/img/Interactive-Website-Performance-Report-Template-Thumbnail-v-1-2.png)
 
+# Interactive Website's Performance Report Template
+
 ## Overview
 
-This report template is created for everyone who would like to analyse the performance of a website. It takes data from your site using Google Analytics and displays it in [Google Data Studio](https://datastudio.google.com/) (a free online tool for visualising a large amount of data), to find useful insights. Google Data Studio can load data from all kinds of sources, e.g. Google Analytics, Google Search Console, Google Ads, Facebook and a lot more.
+  This report template is created for anyone who would like to analyse a website’s performance. It takes data from your site using Google Analytics and displays it in [Google Data Studio](https://datastudio.google.com/) (a free online tool for visualising a large amount of data), to find useful insights. Google Data Studio can load data from all kinds of sources, for example, Google Analytics, Google Search Console, Google Ads, Facebook and a lot more.
 
 ## Versions Ready to Use
 
@@ -13,18 +15,18 @@ This report template is created for everyone who would like to analyse the perfo
 - [Google Analytics (Basic + Goals)](https://datastudio.google.com/open/1QZ_rwCEUBy-Mf_THaHWvM8pyxksHDqEU) - designed for any website that uses Google Analytics and has Goals set up in Google Analytics
 - [Google Analytics (Basic + Ecommerce)](https://datastudio.google.com/open/1M1UNeBzLJIWZaDhN0bISIzUZOF5fl8z9) - designed for any website that uses Google Analytics and has Enhanced Ecommerce set up in Google Analytics
 - [Google Analytics (Basic + Blog + Goals)](https://datastudio.google.com/open/1vVGsRNgXDsN_cmeTYsoJYT6BRDO7Z1qt) - designed for any website that uses Google Analytics and has a blog and Goals set up in Google Analytics
-- [Google Analytics (Basic + Blog + Ecommerce)](https://datastudio.google.com/open/1mhFKT-lvu3GJWKTJ2-YxNZrVRg71YMVR) - designed for any website that uses Google Analytics and has Enhanced Ecommerce set up in Google Analytics
+- [Google Analytics (Basic + Blog + Ecommerce)](https://datastudio.google.com/open/1mhFKT-lvu3GJWKTJ2-YxNZrVRg71YMVR) - designed for any website that uses Google Analytics and has a blog and Enhanced Ecommerce set up in Google Analytics
 - [Google Analytics (Basic + Blog + Goals + Ecommerce)](https://datastudio.google.com/open/1EaReqzhLwPjgKXC4tuYreRKcjGhm_XaV) - designed for any website that uses Google Analytics and has a blog, Goals and Enhanced Ecommerce set up in Google Analytics
 
 Changelog:
 
 - Added filters: date range, marketing channel, country, device and gender
-- Added new content to the following pages: Engagement and Glossary
+- Expanded pages: Engagement and Glossary
 - Removed page descriptions from all pages
-- Added 'Prepared with `[heart-icon]` by YourCompanyName' in the footer of every page as a small branding accent
+- Added ‘Prepared with `[heart-icon]` by YourCompanyName’ in the footer of every page as a small branding accent
 - Decreased page side margins
-- Creating report variations for specific use cases to avoid showing charts with no data
-- Tens of small improvements
+- Created report variations for specific use cases to avoid showing charts with no data
+- Multiple small improvements
 
 ### Version 1.1
 
@@ -32,10 +34,10 @@ Changelog:
 
 Changelog:
 
-- Added pages: Audience, Page Load, Blog, Glossary
-- Expanded pages: Device
-- Temporary removed linkings from the top navigation to avoid confusion when you copy the report and navigation items still linked to the original report
-- Tens of small improvements
+- Added pages: Audience, Page Load, Blog and Glossary
+- Expanded page: Device
+- Temporarily removed links from the top navigation bar to avoid confusion when you copy the report, and navigation items are still linked to the original report
+- Multiple small improvements
 
 ### Version 1.0
 
@@ -43,9 +45,9 @@ Changelog:
 
 Changelog:
 
-- Added pages: Summary, Overview, Channels, Engagement, Devices, Location, Goals, Ecommerce
+- Added pages: Summary, Overview, Channels, Engagement, Devices, Location, Goals and Ecommerce
 - Designed theme
-- Added navigation with links to jump between pages
+- Added navigation bar with links to jump between pages
 
 ## Work in Progress
 
@@ -55,47 +57,47 @@ Changelog:
 
 Changelog:
 
-- Added pages: Ads 1, Ads 2
+- Added pages: Ads 1 and Ads 2
+- Expanded page: Glossary
 - Corrected positive and negative colours for all page load and bounce rate scorecards
-- Expanded pages: Glossary
-- Tens of small improvements
+- Multiple small improvements
 
 ## Instructions
 
-1. Log into your Google Data Studio account
-   - Log into your Google Data Studio or [create a free account](https://datastudio.google.com).
-2. Selecting a report
-   - Click on a link to one of the reports that you would like to use above.
+1. Google Data Studio account
+   - Log into your Google Data Studio account or [create a free account](https://datastudio.google.com).
+2. Select a report
+   - Click on a link to one of the reports above that you would like to use.
 3. Copy the report
-   - Move your mouse cursor to the top edge of the report window. The top navigation will appear.
+   - Move your mouse cursor to the top edge of the report window. The top navigation bar will appear.
    - On the right-hand side, you will see an icon with two rectangles, one on top of another. Click on it to make a copy of the report.
-   - In a pop-up window, select a new Data Source. You can use a 'Sample Google Analytics Data' if you would like to just play with the report or click on a drop-down field below heading the 'New Data Source'. Then click 'Create New Data Source' button at the bottom if you would like to use data from one of the sites that you manage. In the search box, type 'Google Analytics' and select it. Then press an 'Authorize' button, and 'Allow' on a page that will appear. Now select a Google Analytics account, then a property, and finally a view of the website for which you would like to use this report. Next press 'Connect' button in the top-right corner. Then 'Add to Report' button in the top-right corner. Then press 'Copy report' button. You can find more information about this step in [Google Analytics data source tutorial](https://support.google.com/datastudio/answer/6295036?hl=en) at the Google Help Center.
-   - Give it an appropriate name like 'Website Performance Report for Company X - March 2019' by clicking on the text 'Website Performance Report...' in the top-right corner.
+   - In the pop-up window, select a new Data Source. You can use ‘Sample Google Analytics Data’ if you would like to just play with the report or click on a drop-down field below the heading  ‘New Data Source’. Then, click the ‘Create New Data Source’ button at the bottom if you would like to use data from one of the sites that you manage. In the search box, type ‘Google Analytics’ and select it. Then, press the ‘Authorize’ button, and ‘Allow’ on the page that appears. Now select a Google Analytics account, then a property, and finally a view of the website for which you would like to use this report. Next, click the ‘Connect’ button in the top-right corner. Then, select the ‘Add to Report’ button in the top-right corner. Press the ‘Copy report’ button. You can find more information about this step in the [Google Analytics data source tutorial](https://support.google.com/datastudio/answer/6295036?hl=en) at the Google Help Center.
+   - Give it an appropriate name like ‘Website Performance Report for Company X - March 2019’ by clicking on the text ‘Website Performance Report…’ in the top-right corner.
 4. Edit the report
-   - If you are not in the 'Edit mode'. Move your mouse cursor to the top edge of the report window. Top navigation will appear. Then click a grey button that says 'Edit'. Now, you can change every single thing in this report.
-   - Go to 'File' (top navigation) > select 'Report Settings' > select the date range for which you would like to show the data (to be able to do it, you need first select the report-level data source). Once done, it will be updated on all pages.
-   - Remove the 'Company's Logo' placeholder. Once removed, it should automatically disappear from all pages. Then add your company's or client's logo by going to Insert (top navigation), then Image. Upload the logo, resize it a place in the top-left corner. Right-click on it, and select 'Make report-level'. The logo will appear on all pages in this report.
-   - Replace 'YourCompantName' in the footer with your company name.
-   - Update a text field in the top-right corner so that it reflects the month and year from which the data was pulled.
-   - If the report includes the 'Blog' page, you need to make the following changes: 1. In the section 'Session by Authors' you need to edit the table and change dimension 'Brands' to 'Authors'. 2. In the section 'Session by Content Categories' you need to edit the table and change dimension 'Product Categories' to 'Post Categories'. 3. Select 'Resources' in the top navigation, then 'Manage Filters'. You will need to edit 'Blog Pages' and 'Blog as a Starting Point' filters by clicking the 'EDIT' buttons. Replace '/google+' with the name of the directory that the blog posts contain in the URL. E.g. if you post URL look like www.example.com/blog/post-name/ enter in the field '/blog/', if it looks like www.example.com/insights/post-name/ enter in the field '/insights/'.
+   - If you are not in ‘Edit mode’, move your mouse cursor to the top edge of the report window. The top navigation bar will appear. Then, click the grey button that says ‘Edit’. Now you can change anything in this report.
+   - Go to ‘File’ (top navigation bar), select ‘Report Settings’, and select the date range for which you would like to show the data (to do this, you need to first select the report-level data source). Once done, it will be updated on all pages.
+   - Remove the ‘Company's Logo’ placeholder. Once removed, it should automatically disappear from all pages. Then, add your company's or client's logo by going to ‘Insert’ (top navigation bar), and then selecting ‘Image’. Upload the logo, resize it and place it in the top-left corner. Right-click on it and select ‘Make report-level’. The logo will appear on all pages in this report.
+   - Replace ‘YourCompanyName’ in the footer with your company name.
+   - Update the text field in the top-right corner so that it reflects the month and year from which the data was pulled.
+   - If the report includes the ‘Blog’ page, you need to make the following changes: 1) In the section ‘Session by Authors,’ you need to edit the table and change the dimension ‘Brands’ to ‘Authors’, 2) In the section ‘Session by Content Categories,’ you need to edit the table and change the dimension ‘Product Categories’ to ‘Post Categories’ and 3) Select ‘Resources’ in the top navigation bar, and then choose ‘Manage Filters’. You will need to edit ‘Blog Pages’ and ‘Blog as a Starting Point’ filters by clicking the ‘EDIT’ buttons. Replace ‘/google+’ with the name of the directory that the blog posts contain in the URL. For example, if you post a URL that looks like www.example.com/blog/post-name/, enter in the field ‘/blog/’; if it looks like www.example.com/insights/post-name/, enter in the field ‘/insights/’.
 5. Optional improvements
-   - make page names in the top navigation clickable by adding links to them
-   - make titles of pages on a website clickable by creating a calculated filed like HYPERLINK(CONCAT("//mydomain.com", Page), Page Title)
-   - Add any branding that you want (e.g. your company logo, contact details, change the used colour, etc.).
-   - add a Google Analytics tracking code to the report by creating a new Google Analytics account or just a property. Then copying the tracking ID into your Google Data Studio report, under 'File' (top navigation) > 'Report Settings' > 'Google Analytics Tracking ID' section. It allows you to analyse how your client uses the report to make it even better.
+   - Make page names in the top navigation bar clickable by adding links to them.
+   - Make titles of pages on a website clickable by creating a calculated field like HYPERLINK(CONCAT(“//mydomain.com”, Page), Page Title).
+   - Add any branding that you want (for example, your company logo, contact details, change the theme colours, etc.).
+   - Add a Google Analytics tracking code to the report by creating a new Google Analytics account or just a property. Then copy the tracking ID into your Google Data Studio report, under ‘File’ (top navigation bar) > ‘Report Settings’ > ‘Google Analytics Tracking ID’ section. It allows you to analyse how your client uses the report to make it even better.
 6. Check each page
-   - Glance through each page to check if you are happy with everything. For some sites, a few charts might not show data. Report an issue on GitHub, and I will try to help you out.
-7. Sharing report
-   - To share a link to the report with your client or your team, click on an icon of a person with the plus sign beside in the top right-hand corner. Enter an email or a person that you would like to send an invitation to see this report. In the drop-down field on the right-hand side select if you would like to give that person an editor only viewer permission.
-   - To save the report as a PDF and send a static version of it to the customer. To do it, go to 'File' (top navigation), select 'Download as' > select 'PDF'.
-8. Navigating the report
-   - To navigate the report use the 'right' and 'left' arrows on your keyboard to see the next and previous page respectively.
+   - Glance through each page to make sure you are happy with everything. For some sites, a few charts might not show data. Report an issue on GitHub, and I will try to help you out.
+7. Share the report
+   - To share a link to the report with your client or your team, click on an icon of a person with the plus sign beside it in the top right-hand corner. Enter an email of a person that you would like to send an invitation to see this report. In the drop-down field on the right-hand side, select whether you would like to give that person an editor only viewer permission.
+   - To save the report as a PDF and send a static version of it to the customer, go to ‘File’ (top navigation bar), select ‘Download as’ and select ‘PDF’.
+8. Navigate the report
+   - To navigate the report, use the ‘right’ and ‘left’ arrows on your keyboard to see the next and previous page, respectively.
 
 ## An Open-Source License
 
 License: MIT license
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this report template and associated documentation files (the 'Report'), to deal in the Report without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Report, and to permit persons to whom the Report is furnished to do so.
+If you are interested in making this Google Data Studio report template event better, feel free to contact me. It will be great to join forces with you on this amazing journey to help everyone easily prepare an interactive report template that shows the performance of any website.
 
 ## Call for Contributors
 
@@ -114,7 +116,7 @@ If you are interested in making this Google Data Studio report template event be
 
 ## Credits
 
-This report template couldn't be prepared without amazing people who experimented with Google Data Studio before and shared their work with the community.
+This report template couldn't be prepared without amazing people who experimented with Google Data Studio previously and shared their work and knowledge with the community. I would like to thank all of them for doing so and inspiring the creation of this report by listing them below.
 
 ### Google Analytics Reports
 
@@ -227,22 +229,25 @@ This report template couldn't be prepared without amazing people who experimente
    - [Google Data Studio templates](https://supermetrics.com/template-gallery/google-data-studio) by [Supermetrics](https://supermetrics.com/)
    - [Google Data Studio Tumblr page](https://datastudio.tumblr.com/) by DataStudio
 
-## Google Data Studio Feature Requests
-
-It's a list of features that would make creating and managing reports in Google Data Studio much easier.
-
-- An ability to use relative links to pages in the report so that when you copy a report links don't point to the original report, e.g. /page/FChm/
-- Editing the header text in tables, metrics name and comparison label in scorecards to make them more descriptive or shorter.
-- Adding multiple comparison dates in scorecards, tables, charts, etc., e.g. MoM and YoY.
-- Setting theme variable colours, which can be used as default colour by all tables, charts and graphs. The ideal solution would allow users to adjust the colours used by all tables, charts and graphs on all pages with a few clicks.
-- A way to show sessions by major browser versions, using dimensions or calculated fields, e.g. Chrome 72.0 instead of 72.0.3626.109, 72.0.3626.96, 72.0.3626.119, etc. Also there seems to be always zero after the first full stop. I wonder, why is that?
-- Taking the domain name from a Google Analytics property so that it can be used in calculated fields with hyperlinks and it does not need to be manually specified when the report is used for to analyse the traffic of a new website.
-- Having a 'positive change colour' and 'negative change colour' switched colours by default for the bounce rate and all page load. E.g. an increase in bounce rate showing by default in red, while a decrease in green.
-- Ability to set positive and negative change colours for each column with a '% Change' metric. E.g. the positive change colour for Sessions is green, while the positive change colour for bounce Rate should be red.
-- Renaming the 'positive change colour' and 'negative change colour' titles to 'increased value color' and 'decreased value colour', as it's not always accurate. E.g. Increase in bounce rate or page load is not something positive for a website.
-- Official Google My Business connector for Google Data Studio by Google.
-
 ## Google Data Studio Bugs
 
-- When you are picking a custom colour for an item, the current colour has always attached additional 'ff' at the end of the Hex Code.
-- On laptops, reports with a title over 85 characters start to push the 'Edit' button off the screen making it invisible for users. It would be great to have a small icon appear in the bottom-right corner of the header allowing users to show the end of the header by moving all items to the left when UI elements (e.g.icons, buttons) are pushed off the screen.
+Here is a list of bugs discovered when creating this report template. Hopefully, the Google Data team is going to fix them in the nearest future.
+
+- When you are selecting a custom colour for an item, the current colour always has an additional ‘ff’ attached at the end of the Hex Code.
+- On laptops, reports with a title over 85 characters start to push the ‘Edit’ button off the screen making it invisible for users. It would be great to have a small icon appear in the bottom-right corner of the header allowing users to show the end of the header by moving all items to the left when UI elements (for example, icons and buttons) are pushed off the screen.
+- When you sort data in ascending order by the ‘Day of week’ dimension from Google Ads, days are listed alphabetically, that is, Friday, Monday, Saturday, Sunday, Thursday, Tuesday, Wednesday, instead of their order, for example, Monday, Tuesday, Wednesday, etc., or Sunday, Monday, Tuesday, etc.
+
+## Google Data Studio Feature Requests
+
+Here is a list of features that would make creating and managing reports in Google Data Studio much easier. Hopefully, the Google Data team is going to implement them in the nearest future.
+
+- An ability to use relative links to pages in the report so that when you copy a report, links don't point to the original report, for example, /page/FChm/.
+- Editing the header text in tables, metrics name and comparison label in scorecards to make them more descriptive or shorter.
+- Adding multiple comparison dates in scorecards, tables, charts, etc., for example, previous period and previous period last year.
+- Setting theme variable colours, which can be used as the default colour by all tables, charts and graphs. The ideal solution would allow users to adjust the colours used by all tables, charts and graphs on all pages with a few clicks.
+- A way to show sessions by major browser versions, using dimensions or calculated fields, for example, Chrome 72.0 instead of 72.0.3626.109, 72.0.3626.96, 72.0.3626.119, etc. Also, there always seems to be a zero after the first full stop.
+- Taking the domain name from a Google Analytics property so that it can be used in calculated fields with hyperlinks and it does not need to be manually specified when the report is used to analyse a new website's traffic.
+- Having a ‘positive change colour’ and ‘negative change colour’ switched colours by default for the bounce rate and all page load. For example, an increase in bounce rate showing by default in red, while a decrease in green.
+- Ability to set positive and negative change colours for each column with a ‘% Change’ metric. For example, the positive change colour for Sessions is green, while the positive change colour for bounce Rate should be red.
+- Renaming the ‘positive change colour’ and ‘negative change colour’ titles to ‘increased value color’ and ‘decreased value colour’, as it's not always accurate. For example, increase in bounce rate or page load is not something positive for a website.
+- Official Google My Business connector for Google Data Studio by Google.
