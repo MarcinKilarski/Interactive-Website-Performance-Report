@@ -4,7 +4,11 @@
 
 ## Overview
 
-  This report template is created for anyone who would like to analyse a website’s performance. It takes data from your site using Google Analytics and displays it in [Google Data Studio](https://datastudio.google.com/) (a free online tool for visualising a large amount of data), to find useful insights. Google Data Studio can load data from all kinds of sources, for example, Google Analytics, Google Search Console, Google Ads, Facebook and a lot more.
+It is an open-source report template that helps automate creating professionally-looking and interactive reports that visualise and summarise the monthly performance of any website.
+
+It takes data from your site using Google Analytics and displays it in [Google Data Studio](https://datastudio.google.com/) (a free online tool for visualising a large amount of data), to find useful insights.
+
+Google Data Studio can load data from all kinds of sources, for example, Google Analytics, Google Search Console, Google Ads, Google Sheets, BigQuery, Facebook Ads and a lot more.
 
 ## Versions Ready to Use
 
@@ -234,7 +238,7 @@ This report template couldn't be prepared without amazing people who experimente
 Here is a list of bugs discovered when creating this report template. Hopefully, the Google Data team is going to fix them in the nearest future.
 
 - When you are selecting a custom colour for an item, the current colour always has an additional ‘ff’ attached at the end of the Hex Code.
-- On laptops, reports with a title over 85 characters start to push the ‘Edit’ button off the screen making it invisible for users. It would be great to have a small icon appear in the bottom-right corner of the header allowing users to show the end of the header by moving all items to the left when UI elements (for example, icons and buttons) are pushed off the screen.
+- On laptops, reports with a title over 95 characters start to push the ‘Edit’ button off the screen making it invisible for users. It would be great to have a small icon appear in the bottom-right corner of the header allowing users to show the end of the header by moving all items to the left when UI elements (for example, icons and buttons) are pushed off the screen.
 - When you sort data in ascending order by the ‘Day of week’ dimension from Google Ads, days are listed alphabetically, that is, Friday, Monday, Saturday, Sunday, Thursday, Tuesday, Wednesday, instead of their order, for example, Monday, Tuesday, Wednesday, etc., or Sunday, Monday, Tuesday, etc.
 
 ## Google Data Studio Feature Requests
