@@ -103,9 +103,9 @@ License: MIT license
 
 If you are interested in making this Google Data Studio report template event better, feel free to contact me. It will be great to join forces with you on this amazing journey to help everyone easily prepare an interactive report template that shows the performance of any website.
 
-## Call for Contributors
+## Contributing
 
-If you are interested in making this Google Data Studio report template event better, feel free to contact me. It will be great to join forces with you on this amazing journey to help everyone easily prepare an interactive report template that shows the performance of any website.
+Thank you for thinking about contributing to the Interactive Website Performance Report Template project! If you're unsure of anything, know that you're welcome to submit an issue or pull request on any topic. We appreciate any sort of contribution and don't want a wall of rules to get in the way of that.
 
 ## Google Data Studio Courses
 
