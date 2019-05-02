@@ -63,6 +63,7 @@ Changelog:
 
 - Added pages: Ads 1 and Ads 2
 - Expanded page: Glossary
+- Enabled chart drill-down
 - Corrected positive and negative colours for all page load and bounce rate scorecards
 - Multiple small improvements
 
@@ -83,6 +84,7 @@ Changelog:
    - Remove the ‘Company's Logo’ placeholder. Once removed, it should automatically disappear from all pages. Then, add your company's or client's logo by going to ‘Insert’ (top navigation bar), and then selecting ‘Image’. Upload the logo, resize it and place it in the top-left corner. Right-click on it and select ‘Make report-level’. The logo will appear on all pages in this report.
    - Replace ‘YourCompanyName’ in the footer with your company name.
    - Update the text field in the top-right corner so that it reflects the month and year from which the data was pulled.
+   - Update information on the 'Summary' page.
    - If the report includes the ‘Blog’ page, you need to make the following changes: 1) In the section ‘Session by Authors,’ you need to edit the table and change the dimension ‘Brands’ to ‘Authors’, 2) In the section ‘Session by Content Categories,’ you need to edit the table and change the dimension ‘Product Categories’ to ‘Post Categories’ and 3) Select ‘Resources’ in the top navigation bar, and then choose ‘Manage Filters’. You will need to edit ‘Blog Pages’ and ‘Blog as a Starting Point’ filters by clicking the ‘EDIT’ buttons. Replace ‘/google+’ with the name of the directory that the blog posts contain in the URL. For example, if you post a URL that looks like www.example.com/blog/post-name/, enter in the field ‘/blog/’; if it looks like www.example.com/insights/post-name/, enter in the field ‘/insights/’.
 5. Optional improvements
    - Make page names in the top navigation bar clickable by adding links to them.
@@ -96,6 +98,8 @@ Changelog:
    - To save the report as a PDF and send a static version of it to the customer, go to ‘File’ (top navigation bar), select ‘Download as’ and select ‘PDF’.
 8. Navigate the report
    - To navigate the report, use the ‘right’ and ‘left’ arrows on your keyboard to see the next and previous page, respectively.
+9. Using the report
+   - In the 'View' mode, you can drill down into data shown in some charts, by right-clicking on it and selecting a 'Drill down' option. You can also drill down into a value specific value in charts, for example, traffic by hour on specific data of the week. To do it, select a value in a chart you would like to investigate in the chart, then by right-clicking on it and selecting a 'Drill down' option.
 
 ## An Open-Source License
 
