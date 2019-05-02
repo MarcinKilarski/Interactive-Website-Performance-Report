@@ -14,13 +14,13 @@ Google Data Studio can load data from all kinds of sources, for example, Google 
 
 ### Version 1.2
 
-- [Google Analytics (Basic)](https://datastudio.google.com/open/1Jiavzc2nbjqSwVTwD5x5UNKHvI2JDLbd) - designed for any website that uses Google Analytics
-- [Google Analytics (Basic + Blog)](https://datastudio.google.com/open/1MYPa8HNdkmAPOxifsimT87I1fWnMdX8n) - designed for any website that uses Google Analytics and has a blog
-- [Google Analytics (Basic + Goals)](https://datastudio.google.com/open/1QZ_rwCEUBy-Mf_THaHWvM8pyxksHDqEU) - designed for any website that uses Google Analytics and has Goals set up in Google Analytics
-- [Google Analytics (Basic + Ecommerce)](https://datastudio.google.com/open/1M1UNeBzLJIWZaDhN0bISIzUZOF5fl8z9) - designed for any website that uses Google Analytics and has Enhanced Ecommerce set up in Google Analytics
-- [Google Analytics (Basic + Blog + Goals)](https://datastudio.google.com/open/1vVGsRNgXDsN_cmeTYsoJYT6BRDO7Z1qt) - designed for any website that uses Google Analytics and has a blog and Goals set up in Google Analytics
-- [Google Analytics (Basic + Blog + Ecommerce)](https://datastudio.google.com/open/1mhFKT-lvu3GJWKTJ2-YxNZrVRg71YMVR) - designed for any website that uses Google Analytics and has a blog and Enhanced Ecommerce set up in Google Analytics
-- [Google Analytics (Basic + Blog + Goals + Ecommerce)](https://datastudio.google.com/open/1EaReqzhLwPjgKXC4tuYreRKcjGhm_XaV) - designed for any website that uses Google Analytics and has a blog, Goals and Enhanced Ecommerce set up in Google Analytics
+- [Google Analytics (Basic + Summary)](https://datastudio.google.com/open/1Jiavzc2nbjqSwVTwD5x5UNKHvI2JDLbd) - designed for any website that uses Google Analytics
+- [Google Analytics (Basic + Summary + Blog)](https://datastudio.google.com/open/1MYPa8HNdkmAPOxifsimT87I1fWnMdX8n) - designed for any website that uses Google Analytics and has a blog
+- [Google Analytics (Basic + Summary + Goals)](https://datastudio.google.com/open/1QZ_rwCEUBy-Mf_THaHWvM8pyxksHDqEU) - designed for any website that uses Google Analytics and has Goals set up in Google Analytics
+- [Google Analytics (Basic + Summary + Ecommerce)](https://datastudio.google.com/open/1M1UNeBzLJIWZaDhN0bISIzUZOF5fl8z9) - designed for any website that uses Google Analytics and has Enhanced Ecommerce set up in Google Analytics
+- [Google Analytics (Basic + Summary + Blog + Goals)](https://datastudio.google.com/open/1vVGsRNgXDsN_cmeTYsoJYT6BRDO7Z1qt) - designed for any website that uses Google Analytics and has a blog and Goals set up in Google Analytics
+- [Google Analytics (Basic + Summary + Blog + Ecommerce)](https://datastudio.google.com/open/1mhFKT-lvu3GJWKTJ2-YxNZrVRg71YMVR) - designed for any website that uses Google Analytics and has a blog and Enhanced Ecommerce set up in Google Analytics
+- [Google Analytics (Basic + Summary + Blog + Goals + Ecommerce)](https://datastudio.google.com/open/1EaReqzhLwPjgKXC4tuYreRKcjGhm_XaV) - designed for any website that uses Google Analytics and has a blog, Goals and Enhanced Ecommerce set up in Google Analytics
 
 Changelog:
 
@@ -34,7 +34,7 @@ Changelog:
 
 ### Version 1.1
 
-[Google Analytics (Basic + Blog + Goals + Ecommerce)](https://datastudio.google.com/open/1xfWErOo4-xmK8jqVG-74lfMDLeyOfA2q) - designed for any website that uses Google Analytics and has a blog, Goals and Enhanced Ecommerce set up in Google Analytics
+[Google Analytics (Basic + Summary + Blog + Goals + Ecommerce)](https://datastudio.google.com/open/1xfWErOo4-xmK8jqVG-74lfMDLeyOfA2q) - designed for any website that uses Google Analytics and has a blog, Goals and Enhanced Ecommerce set up in Google Analytics
 
 Changelog:
 
@@ -45,7 +45,7 @@ Changelog:
 
 ### Version 1.0
 
-[Google Analytics (Basic + Goals + Ecommerce)](https://datastudio.google.com/open/1vNN1hnIoxbxz88Jv7LvO1VF6OZwJ07xW) - designed for any website that uses Google Analytics and has Goals and Enhanced Ecommerce set up in Google Analytics
+[Google Analytics (Basic + Summary + Goals + Ecommerce)](https://datastudio.google.com/open/1vNN1hnIoxbxz88Jv7LvO1VF6OZwJ07xW) - designed for any website that uses Google Analytics and has Goals and Enhanced Ecommerce set up in Google Analytics
 
 Changelog:
 
@@ -57,7 +57,7 @@ Changelog:
 
 ### Version 1.3
 
-[Google Analytics (Basic + Blog + Goals + Ecommerce) & Google Ads](https://datastudio.google.com/open/1tQ6uCHDo7lIpHNnmmPFlHLLpuE9iw3D2) - designed for any website that uses Google Analytics, has a blog, Goals and Enhanced Ecommerce set up in Google Analytics and uses Google Ads to promote this website online
+[Google Analytics (Basic + Summary + Blog + Goals + Ecommerce) & Google Ads](https://datastudio.google.com/open/1tQ6uCHDo7lIpHNnmmPFlHLLpuE9iw3D2) - designed for any website that uses Google Analytics, has a blog, Goals and Enhanced Ecommerce set up in Google Analytics and uses Google Ads to promote this website online
 
 Changelog:
 
@@ -245,13 +245,14 @@ Here is a list of bugs discovered when creating this report template. Hopefully,
 
 Here is a list of features that would make creating and managing reports in Google Data Studio much easier. Hopefully, the Google Data team is going to implement them in the nearest future.
 
-- An ability to use relative links to pages in the report so that when you copy a report, links don't point to the original report, for example, /page/FChm/.
-- Editing the header text in tables, metrics name and comparison label in scorecards to make them more descriptive or shorter.
-- Adding multiple comparison dates in scorecards, tables, charts, etc., for example, previous period and previous period last year.
-- Setting theme variable colours, which can be used as the default colour by all tables, charts and graphs. The ideal solution would allow users to adjust the colours used by all tables, charts and graphs on all pages with a few clicks.
-- A way to show sessions by major browser versions, using dimensions or calculated fields, for example, Chrome 72.0 instead of 72.0.3626.109, 72.0.3626.96, 72.0.3626.119, etc. Also, there always seems to be a zero after the first full stop.
-- Taking the domain name from a Google Analytics property so that it can be used in calculated fields with hyperlinks and it does not need to be manually specified when the report is used to analyse a new website's traffic.
-- Having a ‘positive change colour’ and ‘negative change colour’ switched colours by default for the bounce rate and all page load. For example, an increase in bounce rate showing by default in red, while a decrease in green.
-- Ability to set positive and negative change colours for each column with a ‘% Change’ metric. For example, the positive change colour for Sessions is green, while the positive change colour for bounce Rate should be red.
-- Renaming the ‘positive change colour’ and ‘negative change colour’ titles to ‘increased value color’ and ‘decreased value colour’, as it's not always accurate. For example, increase in bounce rate or page load is not something positive for a website.
-- Official Google My Business connector for Google Data Studio by Google.
+- URLs - An ability to use relative links to pages in the report so that when you copy a report, links don't point to the original report, for example, /page/FChm/.
+- Chart headers - Editing the header text in tables, metrics name and comparison label in scorecards to make them more descriptive or shorter.
+- Date comparison - Adding multiple comparison dates in scorecards, tables, charts, etc., for example, previous period, previous period last year and previous period two year ago.
+- Date comparison - Time series charts automatically aligning lines with data for the current period and previous period by day of the week. For example, values for the Monday, the 1st of April and Monday, the 4th of March are in the same place on the x-axes. The same for the Tuesday, the 2nd of April and Tuesday, the 5th of March, etc.
+- Theme colours - Setting theme variable colours, which can be used as the default colour by all tables, charts and graphs. The ideal solution would allow users to adjust the colours used by all tables, charts and graphs on all pages with a few clicks.
+- Grouping data - A way to show sessions by major browser versions, using dimensions or calculated fields, for example, Chrome 72.0 instead of 72.0.3626.109, 72.0.3626.96, 72.0.3626.119, etc. Also, there always seems to be a zero after the first full stop.
+- Google Analytics integration - Taking the domain name from a Google Analytics property so that it can be used in calculated fields with hyperlinks and it does not need to be manually specified when the report is used to analyse a new website's traffic.
+- Charts - Having a ‘positive change colour’ and ‘negative change colour’ switched colours by default for the bounce rate and all page load. An increase in bounce rate represents a negative change and it should be shown by default in red, while a decrease is positive and should be in green.
+- Charts - Renaming the ‘positive change colour’ and ‘negative change colour’ titles to ‘increased value color’ and ‘decreased value colour’, as it's not always accurate. For example, increase in bounce rate or page load is not something positive for a website.
+- Connectors - Official Google My Business connector for Google Data Studio by Google. The current community connections are often paid and not straight forward to set up as official Google Analytics or Google Ads integrations.
+- Hidden pages - In addition to an icon indicating that the page is hidden in the page control, it would be great to see a reminder in the Edit mode too. Some people usually use primarily the 'left' and the 'right' keyboard key to move between pages. This way they won't see a reminder that the page is hidden and publish the new version of the report without making it visible. Perhaps, a grey bar below the 'Toolbar' in the Edit mode saying "This page is hidden from the View mode" could be not over distracting solution.
