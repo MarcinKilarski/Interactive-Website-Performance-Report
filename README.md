@@ -38,7 +38,7 @@ Changelog:
 
 Changelog:
 
-- Added pages: Audience, Page Load, Blog and Glossary
+- Added pages: Audience, Page Speed, Blog and Glossary
 - Expanded page: Device
 - Temporarily removed links from the top navigation bar to avoid confusion when you copy the report, and navigation items are still linked to the original report
 - Multiple small improvements
