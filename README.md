@@ -1,6 +1,6 @@
 ![A screenshot of nine pages with charts and tables from the report template](/img/Interactive-Website-Performance-Report-Template-Thumbnail-v-1-2.png)
 
-# Interactive Website's Performance Report Template
+# Interactive Monthly Website's Performance Report Template
 
 ## Overview
 
@@ -12,19 +12,32 @@ Google Data Studio can load data from all kinds of sources, for example, Google 
 
 ## Versions Ready to Use
 
-### Version 1.2
+### Version 1.3
 
-- [Google Analytics (Basic + Summary)](https://datastudio.google.com/open/1Jiavzc2nbjqSwVTwD5x5UNKHvI2JDLbd) - designed for any website that uses Google Analytics
-- [Google Analytics (Basic + Summary + Blog)](https://datastudio.google.com/open/1MYPa8HNdkmAPOxifsimT87I1fWnMdX8n) - designed for any website that uses Google Analytics and has a blog
-- [Google Analytics (Basic + Summary + Goals)](https://datastudio.google.com/open/1QZ_rwCEUBy-Mf_THaHWvM8pyxksHDqEU) - designed for any website that uses Google Analytics and has Goals set up in Google Analytics
-- [Google Analytics (Basic + Summary + Ecommerce)](https://datastudio.google.com/open/1M1UNeBzLJIWZaDhN0bISIzUZOF5fl8z9) - designed for any website that uses Google Analytics and has Enhanced Ecommerce set up in Google Analytics
-- [Google Analytics (Basic + Summary + Blog + Goals)](https://datastudio.google.com/open/1vVGsRNgXDsN_cmeTYsoJYT6BRDO7Z1qt) - designed for any website that uses Google Analytics and has a blog and Goals set up in Google Analytics
-- [Google Analytics (Basic + Summary + Blog + Ecommerce)](https://datastudio.google.com/open/1mhFKT-lvu3GJWKTJ2-YxNZrVRg71YMVR) - designed for any website that uses Google Analytics and has a blog and Enhanced Ecommerce set up in Google Analytics
-- [Google Analytics (Basic + Summary + Blog + Goals + Ecommerce)](https://datastudio.google.com/open/1EaReqzhLwPjgKXC4tuYreRKcjGhm_XaV) - designed for any website that uses Google Analytics and has a blog, Goals and Enhanced Ecommerce set up in Google Analytics
+[Google Analytics (Basic + Summary + Blog + Goals + Ecommerce) & Google Ads](https://datastudio.google.com/u/0/reporting/1Mn7BuSQOyAKrkh2iphattLDXzYNiIQhD) - designed for any website that uses Google Analytics, has a blog, Goals and Enhanced Ecommerce set up in Google Analytics and uses Google Ads to promote this website online.
 
 Changelog:
 
-- Added filters: date range, marketing channel, country, device and gender
+- Added pages: Google Ads Summary and Google Ads Audience
+- Expanded page: Glossary
+- Enabled chart drill-down
+- Added filter: Age
+- Corrected positive and negative colours for all page load and bounce rate scorecards
+- Multiple small improvements
+
+### Version 1.2
+
+- [Google Analytics (Basic + Summary)](https://datastudio.google.com/open/1Jiavzc2nbjqSwVTwD5x5UNKHvI2JDLbd) - designed for any website that uses Google Analytics.
+- [Google Analytics (Basic + Summary + Blog)](https://datastudio.google.com/open/1MYPa8HNdkmAPOxifsimT87I1fWnMdX8n) - designed for any website that uses Google Analytics and has a blog.
+- [Google Analytics (Basic + Summary + Goals)](https://datastudio.google.com/open/1QZ_rwCEUBy-Mf_THaHWvM8pyxksHDqEU) - designed for any website that uses Google Analytics and has Goals set up in Google Analytics.
+- [Google Analytics (Basic + Summary + Ecommerce)](https://datastudio.google.com/open/1M1UNeBzLJIWZaDhN0bISIzUZOF5fl8z9) - designed for any website that uses Google Analytics and has Enhanced Ecommerce set up in Google Analytics.
+- [Google Analytics (Basic + Summary + Blog + Goals)](https://datastudio.google.com/open/1vVGsRNgXDsN_cmeTYsoJYT6BRDO7Z1qt) - designed for any website that uses Google Analytics and has a blog and Goals set up in Google Analytics.
+- [Google Analytics (Basic + Summary + Blog + Ecommerce)](https://datastudio.google.com/open/1mhFKT-lvu3GJWKTJ2-YxNZrVRg71YMVR) - designed for any website that uses Google Analytics and has a blog and Enhanced Ecommerce set up in Google Analytics.
+- [Google Analytics (Basic + Summary + Blog + Goals + Ecommerce)](https://datastudio.google.com/open/1EaReqzhLwPjgKXC4tuYreRKcjGhm_XaV) - designed for any website that uses Google Analytics and has a blog, Goals and Enhanced Ecommerce set up in Google Analytics.
+
+Changelog:
+
+- Added filters: Date Range, Marketing Channel, Country, Device and Gender
 - Expanded pages: Engagement and Glossary
 - Removed page descriptions from all pages
 - Added ‘Prepared with `[heart-icon]` by YourCompanyName’ in the footer of every page as a small branding accent
@@ -34,7 +47,7 @@ Changelog:
 
 ### Version 1.1
 
-[Google Analytics (Basic + Summary + Blog + Goals + Ecommerce)](https://datastudio.google.com/open/1xfWErOo4-xmK8jqVG-74lfMDLeyOfA2q) - designed for any website that uses Google Analytics and has a blog, Goals and Enhanced Ecommerce set up in Google Analytics
+[Google Analytics (Basic + Summary + Blog + Goals + Ecommerce)](https://datastudio.google.com/open/1xfWErOo4-xmK8jqVG-74lfMDLeyOfA2q) - designed for any website that uses Google Analytics and has a blog, Goals and Enhanced Ecommerce set up in Google Analytics.
 
 Changelog:
 
@@ -45,7 +58,7 @@ Changelog:
 
 ### Version 1.0
 
-[Google Analytics (Basic + Summary + Goals + Ecommerce)](https://datastudio.google.com/open/1vNN1hnIoxbxz88Jv7LvO1VF6OZwJ07xW) - designed for any website that uses Google Analytics and has Goals and Enhanced Ecommerce set up in Google Analytics
+[Google Analytics (Basic + Summary + Goals + Ecommerce)](https://datastudio.google.com/open/1vNN1hnIoxbxz88Jv7LvO1VF6OZwJ07xW) - designed for any website that uses Google Analytics and has Goals and Enhanced Ecommerce set up in Google Analytics.
 
 Changelog:
 
@@ -55,17 +68,13 @@ Changelog:
 
 ## Work in Progress
 
-### Version 1.3
+### Version 1.4
 
-[Google Analytics (Basic + Summary + Blog + Goals + Ecommerce) & Google Ads](https://datastudio.google.com/open/1tQ6uCHDo7lIpHNnmmPFlHLLpuE9iw3D2) - designed for any website that uses Google Analytics, has a blog, Goals and Enhanced Ecommerce set up in Google Analytics and uses Google Ads to promote this website online
+[Google Analytics (Basic + Summary + Blog + Goals + Ecommerce) & Google Ads & Google Search Console](https://datastudio.google.com/open/1tQ6uCHDo7lIpHNnmmPFlHLLpuE9iw3D2) - designed for any website that uses Google Analytics, has a blog, Goals and Enhanced Ecommerce set up in Google Analytics, uses Google Ads to promote this website online and has Google Search Console account set up.
 
 Changelog:
 
-- Added pages: Ads 1 and Ads 2
-- Expanded page: Glossary
-- Enabled chart drill-down
-- Corrected positive and negative colours for all page load and bounce rate scorecards
-- Multiple small improvements
+- Adding page: Search Console
 
 ## Instructions
 
