@@ -244,6 +244,7 @@ Here is a list of bugs discovered when creating this report template. Hopefully,
 - When you are selecting a custom colour for an item, the current colour always has an additional ‘ff’ attached at the end of the Hex Code.
 - On laptops, reports with a title over 95 characters start to push the ‘Edit’ button off the screen making it invisible for users. It would be great to have a small icon appear in the bottom-right corner of the header allowing users to show the end of the header by moving all items to the left when UI elements (for example, icons and buttons) are pushed off the screen.
 - When you sort data in ascending order by the ‘Day of week’ dimension from Google Ads, days are listed alphabetically, that is, Friday, Monday, Saturday, Sunday, Thursday, Tuesday, Wednesday, instead of their order, for example, Monday, Tuesday, Wednesday, etc., or Sunday, Monday, Tuesday, etc.
+- Google Ads - 'Total conv. value' and 'Value / conv.' metrics have the type set to 'Numeric' instead of 'Currency', which doesn't display the currency symbol next to the value.
 
 ## Google Data Studio Feature Requests
 
