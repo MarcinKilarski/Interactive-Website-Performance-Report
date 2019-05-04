@@ -14,7 +14,7 @@ Google Data Studio can load data from all kinds of sources, for example, Google 
 
 ### Version 1.3
 
-[Google Analytics (Summary, Fundamental pages, Goals, Ecommerce, Blog) & Google Ads](https://datastudio.google.com/open/1Mn7BuSQOyAKrkh2iphattLDXzYNiIQhD) - designed for any website that uses Google Analytics, has a blog, Goals and Enhanced Ecommerce set up in Google Analytics and uses Google Ads to promote this website online.
+[Google Analytics (Summary, Fundamental pages, Blog, Goals, Ecommerce) & Google Ads](https://datastudio.google.com/open/1Mn7BuSQOyAKrkh2iphattLDXzYNiIQhD) - designed for any website that uses Google Analytics, has a blog, Goals and Enhanced Ecommerce set up in Google Analytics and uses Google Ads to promote this website online.
 
 Changelog:
 
@@ -70,7 +70,7 @@ Changelog:
 
 ### Version 1.4
 
-[Google Analytics (Basic pages, Goals, Ecommerce, Blog) & Google Ads & Google Search Console](https://datastudio.google.com/open/1tQ6uCHDo7lIpHNnmmPFlHLLpuE9iw3D2) - designed for any website that uses Google Analytics, has a blog, Goals and Enhanced Ecommerce set up in Google Analytics, uses Google Ads to promote this website online and has Google Search Console account set up.
+[Google Analytics (Basic pages, Blog, Goals, Ecommerce) & Google Ads & Google Search Console](https://datastudio.google.com/open/1tQ6uCHDo7lIpHNnmmPFlHLLpuE9iw3D2) - designed for any website that uses Google Analytics, has a blog, Goals and Enhanced Ecommerce set up in Google Analytics, uses Google Ads to promote this website online and has Google Search Console account set up.
 
 Changelog:
 
