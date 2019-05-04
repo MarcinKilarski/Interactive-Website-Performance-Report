@@ -4,7 +4,7 @@
 
 ## Overview
 
-It is an open-source report template that helps automate creating professionally-looking and interactive reports that visualise and summarise the monthly performance of any website.
+It is an open-source report template that helps a digital team analyse the website's performance over a given month in comparison to the previous period and the same period last year, and highlight important findings to the top management.
 
 It takes data from your site using Google Analytics and displays it in [Google Data Studio](https://datastudio.google.com/) (a free online tool for visualising a large amount of data), to find useful insights.
 
