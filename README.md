@@ -100,6 +100,7 @@ Changelog:
    - Make titles of pages on a website clickable by creating a calculated field like HYPERLINK(CONCAT(“//mydomain.com”, Page), Page Title).
    - Add any branding that you want (for example, your company logo, contact details, change the theme colours, etc.).
    - Add a Google Analytics tracking code to the report by creating a new Google Analytics account or just a property. Then copy the tracking ID into your Google Data Studio report, under ‘File’ (top navigation bar) > ‘Report Settings’ > ‘Google Analytics Tracking ID’ section. It allows you to analyse how your client uses the report to make it even better.
+   - To enable this report to be embedded onto a page go to 'File' in the top navigation and select 'Embed report', then check the 'Enable embedding' checkbox and press the 'Finished' button.
 6. Check each page
    - Glance through each page to make sure you are happy with everything. For some sites, a few charts might not show data. Report an issue on GitHub, and I will try to help you out.
 7. Share the report
@@ -207,6 +208,7 @@ This report template couldn't be prepared without amazing people who experimente
    - [Using Google Data Studio for a more actionable Google Search Console Performance Dashboard](https://www.aleydasolis.com/en/search-engine-optimization/using-google-data-studio-actionable-search-console-performance-report/) by [Aleyda Solis](https://www.aleydasolis.com)
    - [Google Search Console and Data Studio for SEO Questions Analysis](https://helpfullee.com/google-search-console-data-studio-1/) by [Helpfullee](https://helpfullee.com)
    - [Google Search Console Data into Google BigQuery](https://medium.com/@singularbean/google-search-console-data-into-google-bigquery-3e794127fa08) by [Ben Powis](https://www.linkedin.com/in/benpowis/)
+   - [How to Take Search Console to the Next Level with Google Data Studio](https://www.searchenginejournal.com/how-to-take-search-console-to-the-next-level-with-google-data-studio/) by [Sam Marsden](https://www.linkedin.com/in/sam-marsden/)
 
 ### Google Ads Reports
 
