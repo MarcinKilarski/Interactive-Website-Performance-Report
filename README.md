@@ -21,6 +21,7 @@ Changelog:
 - Added pages: Google Ads Summary and Google Ads Audience
 - Expanded page: Glossary
 - Added filter: Age
+- Enabled chart and table filters
 - Enabled chart drill-down
 - Corrected positive and negative colours for all page load and bounce rate scorecards
 - Multiple small improvements
@@ -66,17 +67,9 @@ Changelog:
 - Designed theme
 - Added navigation bar with links to jump between pages
 
-## Work in Progress
-
-### Version 1.4
-
-[Google Analytics (Basic pages, Blog, Goals, Ecommerce) & Google Ads & Google Search Console](https://datastudio.google.com/open/1tQ6uCHDo7lIpHNnmmPFlHLLpuE9iw3D2) - designed for any website that uses Google Analytics, has a blog, Goals and Enhanced Ecommerce set up in Google Analytics, uses Google Ads to promote this website online and has Google Search Console account set up.
-
-Changelog:
-
-- Adding page: Search Console
-
 ## Instructions
+
+Here are detailed step-by-step instructions for using this report to analyse a website you manage.
 
 1. Google Data Studio account
    - Log into your Google Data Studio account or [create a free account](https://datastudio.google.com).
@@ -110,12 +103,23 @@ Changelog:
    - To navigate the report, use the ‘right’ and ‘left’ arrows on your keyboard to see the next and previous page, respectively.
 9. Using the report
    - In the 'View' mode, you can drill down into data shown in some charts, by right-clicking on it and selecting a 'Drill down' option. You can also drill down into a value specific value in charts, for example, traffic by hour on specific data of the week. To do it, select a value in a chart you would like to investigate in the chart, then by right-clicking on it and selecting a 'Drill down' option.
+   - From version 1.3, you can click on data in all charts and most tables to show only data on this page that relate to the specific data
 
 ## An Open-Source License
 
 License: MIT license
 
 If you are interested in making this Google Data Studio report template event better, feel free to contact me. It will be great to join forces with you on this amazing journey to help everyone easily prepare an interactive report template that shows the performance of any website.
+
+## Work in Progress
+
+### Version 1.4
+
+[Google Analytics (Basic pages, Blog, Goals, Ecommerce) & Google Ads & Google Search Console](https://datastudio.google.com/open/1tQ6uCHDo7lIpHNnmmPFlHLLpuE9iw3D2) - designed for any website that uses Google Analytics, has a blog, Goals and Enhanced Ecommerce set up in Google Analytics, uses Google Ads to promote this website online and has Google Search Console account set up.
+
+Changelog:
+
+- Adding page: Search Console
 
 ## Contributing
 
@@ -158,9 +162,9 @@ This report template couldn't be prepared without amazing people who experimente
 
    - [Data Runs Deep - AABC](https://datastudio.google.com/reporting/1lK4qQV1orRoyd1s_mYeNt-Mbye4f40YT/) by [Data Runs Deep](http://www.datarunsdeep.com.au/)
 
-#### Page Load
+#### Page Speed
 
-   - [eCommerce speed](https://datastudio.google.com/u/0/reporting/0B-7yurpNRXouUzNibGNsYlBzT2s/) by Canonicalized
+   - [eCommerce speed](https://datastudio.google.com/u/0/reporting/0B-7yurpNRXouUzNibGNsYlBzT2s/) by [Canonicalized](https://canonicalized.com/)
    - [Demo - Technical performance indicators for your website](https://datastudio.google.com/reporting/0B1Pzjx-lZIhbYkNia3VqV3V2WDA/) by [Owox](https://www.owox.com/)
 
 #### Engagement
@@ -262,14 +266,20 @@ Here is a list of bugs discovered when creating this report template. Hopefully,
 Here is a list of features that would make creating and managing reports in Google Data Studio much easier. Hopefully, the Google Data team is going to implement them in the nearest future.
 
 - URLs - An ability to use relative links to pages in the report so that when you copy a report, links don't point to the original report, for example, /page/FChm/.
-- Chart headers - Editing the header text in tables, metrics name and comparison label in scorecards to make them more descriptive or shorter.
-- Date comparison - Adding multiple comparison dates in scorecards, tables, charts, etc., for example, previous period, previous period last year and previous period two year ago.
-- Date comparison - Time series charts automatically aligning lines with data for the current period and previous period by day of the week. For example, values for the Monday, the 1st of April and Monday, the 4th of March are in the same place on the x-axes. The same for the Tuesday, the 2nd of April and Tuesday, the 5th of March, etc.
+
 - Theme colours - Setting theme variable colours, which can be used as the default colour by all tables, charts and graphs. The ideal solution would allow users to adjust the colours used by all tables, charts and graphs on all pages with a few clicks.
 - Grouping data - A way to show sessions by major browser versions, using dimensions or calculated fields, for example, Chrome 72.0 instead of 72.0.3626.109, 72.0.3626.96, 72.0.3626.119, etc. Also, there always seems to be a zero after the first full stop.
 - Google Analytics integration - Taking the domain name from a Google Analytics property so that it can be used in calculated fields with hyperlinks and it does not need to be manually specified when the report is used to analyse a new website's traffic.
-- Charts - Having a ‘positive change colour’ and ‘negative change colour’ switched colours by default for the bounce rate and all page load. An increase in bounce rate represents a negative change and it should be shown by default in red, while a decrease is positive and should be in green.
-- Charts - Renaming the ‘positive change colour’ and ‘negative change colour’ titles to ‘increased value color’ and ‘decreased value colour’, as it's not always accurate. For example, increase in bounce rate or page load is not something positive for a website.
+- Chart headers - Editing the header text in tables, metrics name and comparison label in scorecards to make them more descriptive or shorter.
 - Connectors - Official Google My Business connector for Google Data Studio by Google. The current community connections are often paid and not straight forward to set up as official Google Analytics or Google Ads integrations.
 - Hidden pages - In addition to an icon indicating that the page is hidden in the page control, it would be great to see a reminder in the Edit mode too. Some people usually use primarily the 'left' and the 'right' keyboard key to move between pages. This way they won't see a reminder that the page is hidden and publish the new version of the report without making it visible. Perhaps, a grey bar below the 'Toolbar' in the Edit mode saying "This page is hidden from the View mode" could be not over distracting solution.
 - Tables - Specifying the width of left and right padding for a table. The default width of the padding is a bit too small when you assign the table a different colour than the background colour.
+- Charts
+
+   - Having a ‘positive change colour’ and ‘negative change colour’ switched colours by default for the bounce rate and all page load. An increase in bounce rate represents a negative change and it should be shown by default in red, while a decrease is positive and should be in green.
+   - Renaming the ‘positive change colour’ and ‘negative change colour’ titles to ‘increased value color’ and ‘decreased value colour’, as it's not always accurate. For example, increase in bounce rate or page load is not something positive for a website.
+
+- Date comparison
+
+   - Adding multiple comparison dates in scorecards, tables, charts, etc., for example, previous period, previous period last year and previous period two year ago.
+   - Time series charts automatically aligning lines with data for the current period and previous period by day of the week. For example, values for the Monday, the 1st of April and Monday, the 4th of March are in the same place on the x-axes. The same for the Tuesday, the 2nd of April and Tuesday, the 5th of March, etc.
