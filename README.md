@@ -167,6 +167,10 @@ This report template couldn't be prepared without amazing people who experimente
    - [eCommerce speed](https://datastudio.google.com/u/0/reporting/0B-7yurpNRXouUzNibGNsYlBzT2s/) by [Canonicalized](https://canonicalized.com/)
    - [Demo - Technical performance indicators for your website](https://datastudio.google.com/reporting/0B1Pzjx-lZIhbYkNia3VqV3V2WDA/) by [Owox](https://www.owox.com/)
 
+#### AMP
+
+   - [AMP Insights](https://datastudio.google.com/reporting/1WgoMBR0-YHVT7jEDwGhIZ4o5fJiF0gX1/page/Hldj) by Google
+
 #### Engagement
 
    - [Datasaurus-Rex Google Analytics & YouTube Dashboard](https://datastudio.google.com/u/0/reporting/0ByVApA41aYJibW1feEkyWjNFN3c/) by [Datasaurus Rex](https://datasaurus-rex.com)
