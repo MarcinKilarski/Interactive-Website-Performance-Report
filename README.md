@@ -20,9 +20,10 @@ Changelog:
 
 - Added pages: Google Ads Summary and Google Ads Audience
 - Expanded page: Glossary
-- Added filter: Age
+- Enabled report-level filter: Age
 - Enabled chart and table filters
 - Enabled chart drill-down
+- Making items in the top navigation clickable
 - Corrected positive and negative colours for all page load and bounce rate scorecards
 - Multiple small improvements
 
@@ -38,7 +39,7 @@ Changelog:
 
 Changelog:
 
-- Added filters: Date Range, Marketing Channel, Country, Device and Gender
+- Enabled report-level filters: Date Range, Marketing Channel, Country, Device and Gender
 - Expanded pages: Engagement and Glossary
 - Removed page descriptions from all pages
 - Added ‘Prepared with `[heart-icon]` by YourCompanyName’ in the footer of every page as a small branding accent
@@ -100,7 +101,7 @@ Here are detailed step-by-step instructions for using this report to analyse a w
    - To share a link to the report with your client or your team, click on an icon of a person with the plus sign beside it in the top right-hand corner. Enter an email of a person that you would like to send an invitation to see this report. In the drop-down field on the right-hand side, select whether you would like to give that person an editor only viewer permission.
    - To save the report as a PDF and send a static version of it to the customer, go to ‘File’ (top navigation bar), select ‘Download as’ and select ‘PDF’.
 8. Navigate the report
-   - To navigate the report, use the ‘right’ and ‘left’ arrows on your keyboard to see the next and previous page, respectively.
+   - To go to the next page use links in the top navigation or the "right" and "left" arrow on your keyboard.
 9. Using the report
    - In the 'View' mode, you can drill down into data shown in some charts, by right-clicking on it and selecting a 'Drill down' option. You can also drill down into a value specific value in charts, for example, traffic by hour on specific data of the week. To do it, select a value in a chart you would like to investigate in the chart, then by right-clicking on it and selecting a 'Drill down' option.
    - From version 1.3, you can click on data in all charts and most tables to show only data on this page that relate to the specific data
@@ -133,7 +134,9 @@ Thank you for thinking about contributing to the Interactive Website Performance
 
 ## Helpful Resources
 
+- [Data Studio Help Community](https://support.google.com/datastudio/community)
 - [What's new in Google Data Studio](https://support.google.com/datastudio/answer/6311467/)
+- [Google Data Studio features requests tracker](https://issuetracker.google.com/issues?d=vote_count&d=title&d=status&d=issue_id&d=modified_time&s=vote_count:desc&p=1&q=componentid:196095%20status:(assigned%20%7C%20new))
 - [A list of available functions for calculated fields](https://support.google.com/datastudio/table/6379764/)
 
 ## Credits
@@ -248,6 +251,7 @@ This report template couldn't be prepared without amazing people who experimente
 ### A Guide to Designing a Report
 
    - [Perfect Your Google Data Studio Dashboards with 7 Laws of UX](https://supermetrics.com/blog/laws-ux-data-studio) by [Supermetrics](https://supermetrics.com/)
+   - [AARRR Framework- Metrics That Let Your StartUp Sound Like A Pirate Ship](https://medium.com/@ms.mbalke/aarrr-framework-metrics-that-let-your-startup-sound-like-a-pirate-ship-e91d4082994b) by [Melanie Balke](https://www.melaniebalke.com/)
 
 ### Collections of Google Data Studio Report Templates
 
@@ -255,6 +259,10 @@ This report template couldn't be prepared without amazing people who experimente
    - [Google Data Studio Resources](https://datastudio.google.com/u/0/reporting/0B2lgFyX5qOqhbFE5RllsdFdtMXc/) by [Helpfullee](https://helpfullee.com/)
    - [Google Data Studio templates](https://supermetrics.com/template-gallery/google-data-studio) by [Supermetrics](https://supermetrics.com/)
    - [Google Data Studio Tumblr page](https://datastudio.tumblr.com/) by DataStudio
+
+### Other
+
+   - [Radar Charts](https://datastudio.google.com/reporting/1Z8LMN7hu3IvBScjZNThOREzvOdsRqV_h/page/yLUq) by [Evan Snary](https://www.linkedin.com/in/snarye/)
 
 ## Google Data Studio Bugs
 
