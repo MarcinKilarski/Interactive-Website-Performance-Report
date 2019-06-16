@@ -263,6 +263,7 @@ This report template couldn't be prepared without amazing people who experimente
 ### Other
 
   - [Radar Charts](https://datastudio.google.com/reporting/1Z8LMN7hu3IvBScjZNThOREzvOdsRqV_h/page/yLUq) by [Evan Snary](https://www.linkedin.com/in/snarye/)
+  - [How to measure Page Scrolling in Google Data Studio](https://michaelhoweely.com/2019/06/13/how-to-measure-page-scrolling-in-google-data-studio/?linkId=68968202) by [Michael Howe-Ely](https://michaelhoweely.com/)
 
 ## Google Data Studio Bugs
 
