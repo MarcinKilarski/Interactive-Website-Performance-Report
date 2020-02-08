@@ -262,10 +262,11 @@ This report template couldn't be prepared without amazing people who experimente
 
 ### Other
 
+  - [Non-standard Google Data Studio visualizations](https://datastudio.google.com/visualization)
   - [Radar Charts](https://datastudio.google.com/reporting/1Z8LMN7hu3IvBScjZNThOREzvOdsRqV_h/page/yLUq) by [Evan Snary](https://www.linkedin.com/in/snarye/)
   - [How to measure Page Scrolling in Google Data Studio](https://michaelhoweely.com/2019/06/13/how-to-measure-page-scrolling-in-google-data-studio/?linkId=68968202) by [Michael Howe-Ely](https://michaelhoweely.com/)
 
-## Google Data Studio Bugs
+## Google Data Studio Bugs (in 04.2019)
 
 Here is a list of bugs discovered when creating this report template. Hopefully, the Google Data team is going to fix them in the nearest future.
 
@@ -274,7 +275,7 @@ Here is a list of bugs discovered when creating this report template. Hopefully,
 - When you sort data in ascending order by the ‘Day of week’ dimension from Google Ads, days are listed alphabetically, that is, Friday, Monday, Saturday, Sunday, Thursday, Tuesday, Wednesday, instead of their order, for example, Monday, Tuesday, Wednesday, etc., or Sunday, Monday, Tuesday, etc.
 - Google Ads - 'Total conv. value' and 'Value / conv.' metrics have the type set to 'Numeric' instead of 'Currency', which doesn't display the currency symbol next to the value.
 
-## Google Data Studio Feature Requests
+## Google Data Studio Feature Requests (in 04.2019)
 
 Here is a list of features that would make creating and managing reports in Google Data Studio much easier. Hopefully, the Google Data team is going to implement them in the nearest future.
 
